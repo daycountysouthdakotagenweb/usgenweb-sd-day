@@ -1,0 +1,46 @@
+[USGS Logo] U.S. Geological Survey - National Mapping Information
+---------------------------------------------------------------------------
+
+Geographic Names Information System Query Results
+
+DAY COUNTY, SOUTH DAKOTA -- CEMETERY
+
+---------------------------------------------------------------------------
+25 Feature records have been selected from GNIS.
+---------------------------------------------------------------------------
+
+Feature Name                 Type      Latitude Longitude USGS 7.5' x 7.5' Map
+---------------------------- --------- -------- --------- ------------------------
+All Saints Cemetery          cemetery  452436N  0975448W  Andover
+Andover Cemetery             cemetery  452459N  0975505W  Andover
+Bethany Cemetery             cemetery  451659N  0974903W  Bristol West
+Blue Dog Grave               cemetery  452541N  0971700W  Enemy Swim Lake West
+Ebenezer Cemetery            cemetery  451609N  0973754W  Bristol East
+Egeland Cemetery             cemetery  451043N  0972026W  Florence NE
+Hanson Cemetery              cemetery  453002N  0973906W  Rose Hill Cemetery
+Highland Cemetery            cemetery  450945N  0973429W  Swan Lake
+Hillside Cemetery            cemetery  451053N  0974005W  Lily
+Homer Cemetery               cemetery  453053N  0975016W  Langford
+Hosanger Cemetery            cemetery  451034N  0973203W  Swan Lake
+Lake Wood Cemetery           cemetery  451940N  0971933W  Waubay
+New Sweden Cemetery          cemetery  452306N  0973911W  Lynn Lake
+Old Saint Ottos Cemetery     cemetery  451934N  0972936W  Waubay SW
+Old Zion Cemetery            cemetery  452021N  0971912W  Waubay
+Prairie Mound Cemetery       cemetery  451624N  0974254W  Bristol East
+Roslyn Cemetery              cemetery  452917N  0972808W  Roslyn
+Saint Ansgar Cemetery        cemetery  451024N  0974758W  Lone Tree Lake
+Saint Josephs Cemetery       cemetery  451204N  0974042W  Lily
+Saint Michael Cemetery       cemetery  453501N  0972504W  Eden
+Saint Ottos Cemetery         cemetery  451827N  0973108W  Webster
+Salem Cemetery               cemetery  452117N  0972429W  Waubay SW
+Scotland Cemetery            cemetery  451529N  0975738W  Andover SW
+Webster Cemetery             cemetery  451839N  0973106W  Webster
+Wheatland Cemetery           cemetery  451115N  0972555W  Florence NW
+
+---------------------------------------------------------------------------
+[Image] GNIS Query Form [Image] Mapping Information Home Page
+
+---------------------------------------------------------------------------
+URL:http//www-nmd.usgs.gov/cgi-bin/wow/GNISweb.DisplayCnty
+Maintainer: gnis_manager@usgs.gov
+Last modified: 24SEP1996 rlb
