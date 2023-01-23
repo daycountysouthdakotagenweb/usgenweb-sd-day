@@ -17,7 +17,7 @@
 	This file is part of the SDGENWEB Archives. If you arrived here inside
 	a frame or from a link from somewhere else, our front door is at
 
-	http://www.rootsweb.com/~usgenweb/sd/sdfiles.htm
+	http://sdgenweb.com/
 
 
 Last Name                    First Name                 Section   Twp. No. Range No. Twp. Name      Page Comments
