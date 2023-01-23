@@ -1,0 +1,9007 @@
+0 HEAD
+1 SOUR FamilyOrigins
+2 NAME Family Origins(R) for Windows
+2 VERS 10.0
+2 CORP FormalSoft, Inc.
+1 DEST DISKETTE
+1 DATE 11 FEB 2002
+1 FILE index.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+0 @I1@ INDI
+1 NAME Daniel Enoch /Ash/
+2 GIVN Daniel Enoch
+2 SURN Ash
+1 SEX M
+1 _UID CD518F9A7A44E44FA43F7C7A7781DB957953
+1 NOTE  Seventy 0ne men of Newton County were in a still later Union Army
+2 CONC unit, Company E,  99th Regiment of Indiana Infantry. The captain of
+2 CONC the company was Daniel Ash and its first lieutenant was Samuel Moore.
+2 CONC Of the seventy-one Newton Co. men in Company E, twenty died from
+2 CONC diseases and two were killed in action.
+2 CONT
+2 CONT                                                              Daniel's
+2 CONC Military Service
+2 CONT
+2 CONT                                   Daniel enlisted in the military 22
+2 CONC August 1862 as a Captain.
+2 CONT                            Served Indiana Commission E Company 99th
+2 CONC Infantry Regiment IN
+2 CONT                                                               Resigned
+2 CONC on 24 April 1863
+2 CONT                                                        Application
+2 CONC date: 11 December 1883
+2 CONT  Relationship: Self
+2 CONT  Number: 501752
+2 CONT  State: IN
+2 CONT                                   Source: Report of the Adjutant
+2 CONC General of the State of Indiana
+2 CONT  Abbreviation: INRoster
+2 CONT                                                       Published by
+2 CONC Holloway on 1865-1866
+2 CONT
+2 CONT
+2 CONT  Obituary of Daniel E. Ash
+2 CONT     Daniel E. Ash, father of H. E. Ash, of this place, died at Elk
+2 CONC City, Oklahoma, January 10, 1908. Deceased was aged 89 years, 4
+2 CONC months, and 10 days. He was kiving with his son, James, in Elk City,
+2 CONC where they had moved from Rankin about two months ago. Mr. Ash led an
+2 CONC interesting career, having been chosen captain of Company E 99th
+2 CONC Indiana Volunteers in 1863 and serving one year toward the close of
+2 CONC the Civil War. He leaves besides his two sons one daughter, Mrs. Kate
+2 CONC Clark, of Eureka, California. The relatives have our sympathy in the
+2 CONC loss of this respected and beloved member of their family.
+2 CONT                                 Taken from an unknown local newspaper,
+2 CONC perhaps the Butler Correspondent.
+2 CONT
+2 CONT                                                                  Death
+2 CONC of Daniel Ash
+2 CONT
+2 CONT      Daniel Ash, one of the very early settlers of this town and
+2 CONC county, died at the home of his son James, in Elk City, Oklahoma,
+2 CONC where he has resided for a number of years. His age was 88 years last
+2 CONC August, and his death was caused from a general breaking down of old
+2 CONC age, after a sickness lasting several years.
+2 CONT      He leaves two sons, one in Oklahoma, one in Dakota, one daughter
+2 CONC in California, one brother in Idaho and one sister , Mrs. C. C.
+2 CONC Deardurff in Morocco.
+2 CONT      Mr. Ash lived in Morocco many years and was well known by all our
+2 CONC older settlers. In fact he was one of the builders of the town, and is
+2 CONC responsible as few others (paper torn at this point) time that the
+2 CONC town was creating its fine prosperity.
+2 CONT
+2 CONT
+2 CONT                                      From The Morocco Courier, Friday,
+2 CONC January 17, 1908
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1 SEP 1820
+2 PLAC Ohio
+1 BIRT
+2 DATE SEP 1819
+2 PLAC May be birth date
+1 DEAT
+2 DATE 10 JAN 1908
+2 PLAC Elk City, Oklahoma
+1 BURI
+2 PLAC East Fairlawn Cemetery, Elk City, OK Block2, Lot 92, Sp1
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Rachel /Turner/
+2 GIVN Rachel
+2 SURN Turner
+1 SEX F
+1 _UID 53B15ADACA10DB4D8BFE0A57B3637008B20E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1809
+2 PLAC Indiana
+1 DEAT
+2 DATE 15 JUN 1889
+2 PLAC Indiana
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Mary /Ash/
+2 GIVN Mary
+2 SURN Ash
+1 SEX F
+1 _UID E723F5090F38A04084685009E2ECD6B2CAA3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 JAN 1843
+2 PLAC Morocco , Indiana-Newton Co.
+1 DEAT
+2 DATE 15 MAR 1894
+2 PLAC Morocco , Indiana
+1 FAMS @F51@
+1 FAMC @F1@
+1 FAMC @F3@
+0 @I4@ INDI
+1 NAME Catharine /Ash/
+2 GIVN Catharine
+2 SURN Ash
+1 SEX F
+1 _UID 502D4A2A9416044A8A293AEA358461B58FA9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1846
+2 PLAC Morocco, Indiana-Newton Co.
+1 DEAT
+2 DATE UNKNOWN
+2 PLAC Eureka, California
+1 FAMS @F54@
+1 FAMC @F1@
+1 FAMC @F3@
+0 @I5@ INDI
+1 NAME Henry Enos /Ash/
+2 GIVN Henry Enos
+2 SURN Ash
+1 SEX M
+1 _UID A0E3009E6DA5C44B87F1877E5D703BB77E31
+1 NOTE                                                        Military
+2 CONC Service of Henry E. Ash
+2 CONT
+2 CONT      Henry enlisted on 01 April 1864 as a private. He was promoted to
+2 CONC full sergeant.
+2 CONT      Served Indiana Enlisted K Company 12th Cavalry Regiment IN.
+2 CONC Mustered out at Indianapolis,IN on 10 November 1865.
+2 CONT                                                     Application date:
+2 CONC 09 December 1881
+2 CONT                                                     Relationship: Self
+2 CONT                                                     Number 434925
+2 CONT                                                     State: Minnesota
+2 CONT                                                     08 June 1909
+2 CONT                                                     Relationship:
+2 CONC Widow
+2 CONT                                                     Lorinda M. Ash
+2 CONT                                                     Number: 921515
+2 CONT                                                     State: South
+2 CONC Dakota
+2 CONT                  Source: Report of the Adjutant General of the State
+2 CONC of Indiana
+2 CONT                                                    Abbreviation:
+2 CONC INRoster
+2 CONT                                             Published by Holloway on
+2 CONC 1865-66
+2 CONT
+2 CONT
+2 CONT                                                      From the Webster
+2 CONC Reporter And Farmer
+2 CONT                                                      Dated April 22,
+2 CONC 1909
+2 CONT                                                      From a Column
+2 CONC Entitled " From Butler Herald "
+2 CONT      Floyd Yeager, of Webster, was here to attend the funeral Tuesday.
+2 CONT      Mrs. Rankes, of Webster, arrived Tuesday morning to attend the
+2 CONC funeral of Mr. Ash.
+2 CONT      Mr. and Mrs. Charles Mattson came up from Summit Tuesday morning
+2 CONC to attend the funeral of Mr. Ash.
+2 CONT      Charles Phelps of Webster, accompanied by Mr. and Mrs. Harrison
+2 CONC Butler, were here to attend the      funeral Tuesday.
+2 CONT      Dr. and Mrs. James Ash and children arrived from Garden City
+2 CONC Monday evening to attend the funeral      of the former's father.
+2 CONT      Mr. and Mrs. Charles McCloskey, Mrs. W. A. Hart, Miss Joy Ash, of
+2 CONC Sentinel Butte, N. D., came up from Bristol in an automobile to attend
+2 CONC the funeral of their father.
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 MAR 1847
+2 PLAC Marshall Co. Indiana
+1 DEAT
+2 DATE 9 APR 1909
+2 PLAC Butler, South Dakota-Day Co.
+1 FAMS @F11@
+1 FAMC @F1@
+1 FAMC @F3@
+0 @I6@ INDI
+1 NAME James Thomas /Ash/
+2 GIVN James Thomas
+2 SURN Ash
+1 SEX M
+1 _UID 2C16D2A6CF165444ADFE4646BCA49EF561AF
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 DEC 1849
+2 PLAC Morocco, Indiana-Newton Co.
+1 DEAT
+2 PLAC Elk City, Oklahoma-Beckham Co.
+1 FAMS @F12@
+1 FAMC @F1@
+1 FAMC @F3@
+0 @I72@ INDI
+1 NAME Laurinda Maria /Archibald/
+2 GIVN Laurinda Maria
+2 SURN Archibald
+1 SEX F
+1 _UID 5668F52881CBF5469C4CF602809238D76372
+1 NOTE                                      Pioneer Woman Of Butler Is Buried
+2 CONT      Closing the last chapter of a life wherein was written a
+2 CONC chronicle of service to her community and her friends, Lorinda M. Ash,
+2 CONC one of Butler's most respected citizens, peacefully crossed the last
+2 CONC frontier on Sunday afternoon at Big Arm, Montana, where she has spent
+2 CONC the past winter, in company with her two daughters, Elsie and Hattie,
+2 CONC and her two sons Charles and Ivan.
+2 CONT      Lorinda M. Archibald was born in Morocco, Newton County, Indiana,
+2 CONC March 8, 1849; and was at the time of her passing, 89 years, one
+2 CONC month, and 16 days of age.
+2 CONT      At the early age of ten years, she lost both her parents. An
+2 CONC uncle, a Christian minister, took her to raise and it was at this time
+2 CONC that she united with the Christian church. Her early education and
+2 CONC girlhood was spent at Morocco and it was here that she taught school
+2 CONC for two years.
+2 CONT      On March 15, 1865, she was united in marriage to Henry E. Ash of
+2 CONC Morocco, Indiana, and to them were born eleven children. Two
+2 CONC daughters, Joy and Candace, and her husband preceded her in death. She
+2 CONC is survived by four daughters: Elsie of Butler; Eva (Mrs. O. P. Olson)
+2 CONC of Lily; Maud (Mrs. J.L. Dahl) of Polson, Montana; and five sons: Dr.
+2 CONC James Ash of Lake Andes; Ransom and Charles of Butler, Arles of
+2 CONC Rupert, Idaho, and Ivan of Polson, Montana, who mourn the loss of a
+2 CONC kind and loving mother.
+2 CONT      Shortly after their marriage, the young couple started
+2 CONC housekeeping on a farm in Indiana, and resided there until 1876, when
+2 CONC they moved by emigrant wagon to Douglas County, Minnesota. In 1882
+2 CONC they moved to Day Co. which has been her continuous residence except
+2 CONC two years in southern Georgia, and the past three winters in Polson
+2 CONC and Big Arm, Montana.
+2 CONT      Mrs. Ash was among those sturdy pioneers who struggled with the
+2 CONC hardships and trials of the early settlers and lived to see the
+2 CONC results of years of labor in the fine farm which has been her home.
+2 CONC She was an uncomplaining wife and mother. Life she faced with a smile
+2 CONC and was never known to speak ill of anyone.
+2 CONT      "Auntie Ash" as she was familiarly known, will be missed in the
+2 CONC Butler community where she spent the greater share of her life.
+2 CONC Although she has not been in the best of health for the past twenty
+2 CONC years, her upright character and cheerful, winning personality won for
+2 CONC her many friends. Her's was a life well spent, filled with many acts
+2 CONC of love and usefulness to those around her.
+2 CONT      The body reached Butler Tuesday and was taken to the home of her
+2 CONC son Ransom, where a stream of friends came to speak words of sympathy
+2 CONC to the sorrowing family.
+2 CONT      Funeral services were held (Wednesday) afternoon, at 2 o'clock at
+2 CONC the Evangelical church, Rev. Bergland officiating. Numerous bouquets
+2 CONC and sprays of flowers were a beautiful silent testimony of the esteem
+2 CONC in which the deceased was held.
+2 CONT      Interment was made in Prairie Mound Cemetery, beside the graves
+2 CONC of her husband and daughter Joy.
+2 CONT      Pall bearers were: G. P. Essington, Albert Zimmerman, John
+2 CONC Roseth, Frank Herr, Rex Batie, and W. C. Wingard.
+2 CONT      Out of town relatives who came to attend the funeral were: Dr.
+2 CONC James Ash and wife of Lake Andes, Arles Ash of Rupert, Idaho, Robert
+2 CONC Ash of Minneapolis, Minn., Frances Ash of Clear Lake, Floyd Yeager of
+2 CONC Sioux Falls, Mr. and Mrs. Guy McKibben of Webster and Mr. and Mrs. O.
+2 CONC P. Olson and son Kenneth of Lily.
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 MAR 1848
+2 PLAC Morocco , Indiana
+1 DEAT
+2 DATE 18 APR 1938
+2 PLAC Big Arm , Montana
+1 FAMS @F11@
+0 @I73@ INDI
+1 NAME Candace Lenoi /Ash/
+2 GIVN Candace Lenoi
+2 SURN Ash
+1 SEX F
+1 _UID F971D5D9AE877E4C98A94AD6C190CDE87EE6
+1 NOTE                                                          More Wedding
+2 CONC Bells
+2 CONT      W. A. Hart of Rolla, North Dakota, was in Minneapolis last week,
+2 CONC and so was Miss Candace Lenoi Ash of this place.  Miss Maud Ash too is
+2 CONC in Minneapolis and Mr. and Mrs. McCloskey of Garden City were there.
+2 CONT      Out of these facts were shaped an item of news that was a great
+2 CONC surprise to Butler and vicinity. Mr. Hart and Miss Ash were united in
+2 CONC marriage on Monday, July 23, and announced that they will be at home
+2 CONC in Rolla, North Dakota after September 15th. They are now spending
+2 CONC their honeymoon in Duluthll, Minnesota.
+2 CONT      Mr. Hart is an old resident of Butler and Miss Ash has spent most
+2 CONC of her life there. Both are well liked and have the best wishes ofj a
+2 CONC host of friends. We will try to forgive them for going off without a
+2 CONC word of warning. We like to be economical but it is  a pleasure to be
+2 CONC lavish with rice and charivari music.
+2 CONT
+2 CONT
+2 CONT                                                A Daughter At Hart's
+2 CONT      A tiny maiden came on Thursday, February 18, to cheer the home
+2 CONC and brighten the lives of Mr. and Mrs. W.A. Hart, of this city. The
+2 CONC mother is getting along nicely and Mr. Hart is perfectly able-and
+2 CONC willing- to buy and present to his friends the best cigars in town-in
+2 CONC fact he seems highly pleased about it. The little girl's name is
+2 CONC Genevieve Laurinda Hart-which will doubtless be sufficient for her
+2 CONC needs for twenty years or thereabouts.
+2 CONT
+2 CONT
+2 CONT
+2 CONT
+2 CONT
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 NOV 1869
+2 PLAC Morocco, Indiana
+1 BIRT
+2 PLAC May be 1870
+1 DEAT
+2 DATE 2 JUL 1927
+2 PLAC Sentinel Butte, North Dakota
+1 BURI
+2 PLAC Prairie Mound Cemetery, Butler SD
+1 FAMS @F21@
+1 FAMC @F11@
+0 @I74@ INDI
+1 NAME James Clair /Ash/
+2 GIVN James Clair
+2 SURN Ash
+1 SEX M
+1 _UID 0012777B9AB26D419F11B067A60DBF144B1B
+1 NOTE                                   Heart Attack Fatal To Dr. Ash On
+2 CONC Trip
+2 CONT     Friends in the community were shocked last Thursday to learn of
+2 CONC the death of Dr. J. C. Ash of Lake Andes, 69, who died of a sudden
+2 CONC heart attack suffered at 12:30 P.M. last Wednesday while he was eating
+2 CONC his noon meal in the Luxus Cafe in Rawlins, Wyoming. With him at the
+2 CONC time of his death were his wife and daughter.
+2 CONT      Prior to his death, Dr. Ash had been in poor health and during
+2 CONC the vacation trip which they were upon, he had complained of feeling
+2 CONC ill. Stricken in the middle of his meal, he suddenly collapsed and
+2 CONC although taken out into the air immediately, he died only a few
+2 CONC minutes later.
+2 CONT      The Ashes were on their (way) home from Filer, Idaho, where they
+2 CONC had been visiting at the home of their (daughter) Mrs. Tom Timbers,
+2 CONC for the past two weeks. They had driven from Evanston, Wyoming that
+2 CONC morning en route to Lake Andes.
+2 CONT      Funeral services were held Monday afternoon from the Evangelical
+2 CONC church in Butler, with Rev. C. M. Bergland of Butler officiating with
+2 CONC ministers from Lake Andes and Garden City helping in the service.
+2 CONC Services at the parents home near Butler preceeded that at the church.
+2 CONC A large crowd from Garden City, numbering close to 75 was in
+2 CONC attendance to pay their tribute of esteem to an old friend and
+2 CONC neighbor and bereaved wife and sons and daughters.
+2 CONT      Pallbearers were: George Coyle of Butler, George Adams , Wm.
+2 CONC Barkley, E. A. Seaver, B. R. Barkuff and Harry Robb .
+2 CONT      Relatives here for the funeral included Mrs. J. C. Ash and
+2 CONC Frances of Lake Andes, Mr. and Mrs. Carl Hammer and daughter,Lenora of
+2 CONC Berryville, Arkansas, Mr. and Mrs. Clair Ash and two daughters of
+2 CONC Cloquet, Minnesota, Mr. and Mrs. Tom Timbers of Filer, Idaho, and Mr.
+2 CONC and Mrs. Robert Ash of Leavenworth, Kansas.
+2 CONT      Music was furnished by a men's quartette consisting of J. F.
+2 CONC Wagner of Conde, E. A. Fletcher, L. W. Seaver, and M. J. Mc Gilliver .
+2 CONC Darlene Barkley was at the piano.
+2 CONT      James Clair Ash, son of Henry E. and Lorinda M. Ash, was born
+2 CONC October 16, 1871 in Morocco, Newton county, Indiana. In 1876, his
+2 CONC family moved to Douglas Co., Minnesota where they lived fo four years.
+2 CONC In 1882, the family moved to Butler, where his parents homesteaded.
+2 CONT      Before he entered medical training, he taught school four years.
+2 CONC He graduated from Barnes Medical College at St. Louis, Missouri in
+2 CONC 1899. In 1904 he completed post-graduate in eyes,ears, nose, and
+2 CONC throat at Rush Medical College at Chicago, Illinois.
+2 CONT      On January One, 1899, he was united in marriage to Ona Morton of
+2 CONC Halfway, Missouri. To this union were born five children, Elnora,
+2 CONC Clair, Emma, Frances, and Robert.
+2 CONT      He began to practice medicine at Willow Lake, South Dakota. Of
+2 CONC the 43 years of his medical career, 30 were spent at Garden City, the
+2 CONC last three years he practiced at Lake Andes.
+2 CONT      He served in the legislature at Pierre for two terms, in 1927 and
+2 CONC in 1929. At the time of his death Dr. Ash was head of the Charles Mix
+2 CONC Co. Board of Health.
+2 CONT      Surviving besides his widow, his five children and his nine
+2 CONC grandchildren, are four bothers and three sisters, Charles, Ivan,
+2 CONC Rans, Elsie of Butler, Arles of Rupert, Idaho, Maude Dahl and Hattie
+2 CONC McCloskey of Polson, Montana.
+2 CONT      Preceeding him in death were his mother and father and three
+2 CONC sisters, Candace, Joy, and Eva.
+2 CONT      Returning from a vacation in Idaho, he was stricken with a heart
+2 CONC attack at Rawlins, Wyoming July 2, 1941. With him at the time of his
+2 CONC death were his wife and daughter Frances.
+2 CONT      Of late years, he took great pleasure in writing poetry. One of
+2 CONC his last poems was, "No Scars On His Soul"
+2 CONT      Dr. Ash has always followed the principles of the Christian
+2 CONC church. He has worked for all things that are good and fine and served
+2 CONC well his fellowmen in both a professional and humane capacity.
+2 CONT
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 OCT 1872
+2 PLAC Morocco , Indiana-Newton Co.
+1 DEAT
+2 DATE 2 JUL 1941
+2 PLAC Rawlings, Wyoming
+1 FAMS @F55@
+1 FAMC @F11@
+0 @I75@ INDI
+1 NAME Charles Henry /Ash/
+2 GIVN Charles Henry
+2 SURN Ash
+1 SEX M
+1 _UID 3941AF5515B7E046BFB7B0A488E33E5A3D3D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 SEP 1873
+2 PLAC Morocco, Indiana-Newton Co.
+1 DEAT
+2 DATE 4 MAR 1953
+2 PLAC Mojave, Kern Co., California
+1 SSN
+2 PLAC 546-34-6783
+1 FAMS @F60@
+1 FAMC @F11@
+0 @I76@ INDI
+1 NAME Hattie Belle /Ash/
+2 GIVN Hattie Belle
+2 SURN Ash
+1 SEX F
+1 _UID E6BA0D70BB8D0E489A3A2339236CE8AA0C32
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 DEC 1875
+2 PLAC Morocco, Indiana-Newton Co.
+1 DEAT
+2 DATE 28 MAY 1964
+2 PLAC Torrance, California
+1 FAMS @F61@
+1 FAMC @F11@
+0 @I77@ INDI
+1 NAME Arles Daniel /Ash/
+2 GIVN Arles Daniel
+2 SURN Ash
+1 SEX M
+1 _UID 816ABBEDFC1FD0469E055999A5B2185F27A3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 MAY 1878
+2 PLAC Douglas Co. MN
+1 DEAT
+2 DATE 18 SEP 1970
+2 PLAC Rupert, Idaho
+1 FAMS @F63@
+1 FAMC @F11@
+0 @I78@ INDI
+1 NAME Maud Lorinda /Ash/
+2 GIVN Maud Lorinda
+2 SURN Ash
+1 SEX F
+1 _UID 44B57D0FF2AF4C498FAD2AC6D69F73F3C2F5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 MAY 1880
+2 PLAC Douglas Co., Minnesota
+1 DEAT
+2 DATE 1958
+2 PLAC Polson, Montana aka Big Arm
+1 FAMS @F69@
+1 FAMC @F11@
+0 @I79@ INDI
+1 NAME Elsie Gay /Ash/
+2 GIVN Elsie Gay
+2 SURN Ash
+1 SEX F
+1 _UID EC5A70689D700A41A7BD56021A580E2FE173
+1 NOTE                                                     ELSIE GAY ASH
+2 CONT                                              ( Butler Correspondent)
+2 CONT      Many hearts in this community were saddened last Tuesday morning
+2 CONC when it became known that Miss Elsie Gay Ash had passed away at eight
+2 CONC o'clock the previous  morning, in San Diego, California, where she had
+2 CONC submitted to an operation  on Friday, March 17th.
+2 CONT      Miss Ash had not been in  in good health for about two years, but
+2 CONC she accompanied her brothers, Charles and Ivan and her sister, Mrs.
+2 CONC Hattie McCloskey, leaving on November 4, for California, hoping the
+2 CONC change of climate might prove beneficial. Dr. B. A. Adams of San
+2 CONC Diego, California, formerly of Bristol, an old friend and family
+2 CONC physician for many years and was her attending physician during her
+2 CONC illness and all that medical science and loving hands could do was not
+2 CONC enough.
+2 CONT      Elsie Gay Ash, 61, daughter of the late Henry and Lorinda M. Ash,
+2 CONC well known pioneer couple of this community, was born August 14, 1882,
+2 CONC and passed away at the Mercy Hospital at San Diego, California, March
+2 CONC 27, 1944. Her entire life was spent near the place of her birth, and
+2 CONC to Miss Ash goes the honor of being the first child  born in Butler
+2 CONC Township, on the homestead of her parents one mile west of Butler. She
+2 CONC attended grade school, followed by one year spent at the Aberdeen
+2 CONC Normal, after which she spent seven years as a teacher in this
+2 CONC community, having taught in the  Butler town school for four years.
+2 CONC For a number of years she was employed in the Olson Mercantile store
+2 CONC at Lily. As a child she attended the Methodist church and for years
+2 CONC was a member of the Royal Neighbor Lodge.
+2 CONT      Gifted from the first with a broad and deep sense of human
+2 CONC sympathy, "Elsie" entered fully into the life around her. For fifteen
+2 CONC years she and her brother Charles were constant companions of their
+2 CONC mother, caring for her in her declining years. Her life has been full
+2 CONC of service, not only to her own  family, but also to others. With a
+2 CONC smile for everyone, she plucked victory out of defeat. She invested
+2 CONC wisely and well every talent given her and her memory will be ever a
+2 CONC blessed one, to all whose privelege it was to know her. She
+2 CONC personified these lines of Ella Wheeler Wilcox: " It is easy enough to
+2 CONC be pleasant when life flows by like a song; but the man worth while is
+2 CONC the one who will smile when everything goes wrong. For the test of the
+2 CONC heart is trouble, and it always comes with the years; and the smile
+2 CONC that is worth the praises of earth, is the smile that shines through
+2 CONC the tears."
+2 CONT      Funeral services were held Monday afternoon at 2 'clock from the
+2 CONC Evangelical church at Butler with Rev. C. M. Bergland, pastor,
+2 CONC officiating, at the last sad rites. Masses of beautiful flowers,
+2 CONC parting tributes from her many friends who had known and loved her
+2 CONC filled the air with their fragrance. Musical selections were sung by
+2 CONC the male quartet composed of Marvin Luckow, Olaf Bye, Sam Knebel, and
+2 CONC Ben Bohn, accopanied by Mrs. Ed Buhler. The hymns were " We're Going
+2 CONC Down the Valley" , "The Beautiful Land", "Shall You, Shall I". Pall
+2 CONC bearers were old friends and neighbors of the deceased, Otto and
+2 CONC Albert Zimmerman, Jorn Roseth, G. P. Essington, M. C. Wingard and
+2 CONC Reuben Ihrke. Burial was in the family lot at Prairie Mound Cemetery .
+2 CONT      She was preceede in death by her parents, 3 sisters, Candace,Joy,
+2 CONC and Eva and one brother, James.
+2 CONT      Left to mourn her passing are four bothers, Charles, Ransom, Ivan
+2 CONC of Butler and Arles of Rupert, Idaho; Mrs. J. L. Dahl (Maud) of
+2 CONC Riverside, California, and Mrs. Hattie McCloskey, beside many
+2 CONC relatives and friends.
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1882
+2 PLAC Butler SD-Day Co.
+1 DEAT
+2 DATE 27 APR 1944
+2 PLAC San Diego, California
+1 SSN
+2 PLAC 546-34-6713
+1 FAMC @F11@
+0 @I80@ INDI
+1 NAME Eva Lena /Ash/
+2 GIVN Eva Lena
+2 SURN Ash
+1 SEX F
+1 _UID 958F2A198A1B6D45AB1CE0105249A8E19992
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 AUG 1884
+2 PLAC Butler, South Dakota-Day Co.
+1 DEAT
+2 DATE 10 JAN 1940
+2 PLAC Webster, SD-Day Co.
+1 BURI
+2 PLAC Hillside Cemetery, Lily, South Dakota
+1 FAMS @F70@
+1 FAMC @F11@
+0 @I81@ INDI
+1 NAME Joy May /Ash/
+2 GIVN Joy May
+2 SURN Ash
+1 SEX F
+1 _UID A18F17373EA2724295C44CA3038E3B254B6E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 2 SEP 1886
+2 PLAC Butler, SD-Day Co.
+1 DEAT
+2 DATE 22 FEB 1922
+2 PLAC Sentinel Butte, North Dakota
+1 FAMS @F71@
+1 FAMC @F11@
+0 @I82@ INDI
+1 NAME Ivan William /Ash/
+2 GIVN Ivan William
+2 SURN Ash
+1 SEX M
+1 _UID 2A4180D6F9C335448466A046A7B1776D02E2
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 FEB 1889
+2 PLAC Butler, South Dakota-Day Co.
+1 DEAT
+2 DATE 22 FEB 1944
+2 PLAC Yankton, S.D.
+1 FAMS @F15@
+1 FAMC @F11@
+0 @I83@ INDI
+1 NAME Ransome Jay /Ash/
+2 GIVN Ransome Jay
+2 SURN Ash
+1 SEX M
+1 _UID 2E763A5AA4054446AEDF587ABFF351AF7CAE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 NOV 1891
+1 DEAT
+2 DATE SEP 1967
+1 BURI
+2 PLAC Prairie Mound Cemetery, Butler, Day Co., SD
+1 SSN
+2 PLAC 503-40-9941
+1 FAMS @F850@
+1 FAMS @F2148@
+1 FAMC @F11@
+0 @I84@ INDI
+1 NAME Clara Benora /Arneson/
+2 GIVN Clara Benora
+2 SURN Arneson
+1 SEX F
+1 _UID 5FC771C1D94EC141918BAE273F29E8E0A240
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 MAY 1891
+2 PLAC Madison , S.D.-Lake Co.
+1 DEAT
+2 DATE 16 APR 1974
+2 PLAC Minneapolis , MN-Hennepin Co.
+1 FAMS @F15@
+0 @I85@ INDI
+1 NAME Lillian Bernadine /Ash/
+2 GIVN Lillian Bernadine
+2 SURN Ash
+1 SEX F
+1 _UID 45BDF20AF67CB24AB62205438B0A9742FA50
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 APR 1912
+2 PLAC Butler S.D.
+1 DEAT
+2 DATE 1 FEB 1970
+2 PLAC Buffalo, NY
+1 FAMS @F23@
+1 FAMS @F24@
+1 FAMC @F15@
+0 @I86@ INDI
+1 NAME Muriel Harriet /Ash/
+2 GIVN Muriel Harriet
+2 SURN Ash
+1 SEX F
+1 _UID 3CFE26C2EF1B4745953549C32EDE2203BF59
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 AUG 1913
+2 PLAC Bristol, SD-Day Co.
+1 DEAT
+2 DATE 15 NOV 1998
+2 PLAC Palm Springs, CA-Riverside Co.
+1 FAMS @F25@
+1 FAMC @F15@
+0 @I87@ INDI
+1 NAME Henry William /Ash/
+2 GIVN Henry William
+2 SURN Ash
+1 SEX M
+1 _UID 39311B45063BD244A114CA733D18040773AD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 DEC 1915
+2 PLAC Butler, SD
+1 DEAT
+2 DATE 18 JUL 1971
+2 PLAC Bristol SD-Day Co.
+1 SSN
+2 PLAC 504-09-7734
+1 FAMS @F26@
+1 FAMC @F15@
+0 @I88@ INDI
+1 NAME Ivan Marlin /Ash/
+2 GIVN Ivan Marlin
+2 SURN Ash
+1 SEX M
+1 _UID 1B668BB8D34B434F8ED16C3B48739C744519
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 JUN 1918
+2 PLAC Butler SD
+1 DEAT
+2 DATE 4 FEB 1963
+2 PLAC Mpls., MN-Hennepin Co.
+1 FAMS @F33@
+1 FAMC @F15@
+0 @I89@ INDI
+1 NAME Lyle Gordon /Ash/
+2 GIVN Lyle Gordon
+2 SURN Ash
+1 SEX M
+1 _UID 837C967A59316A4EA1BCE71A27DF76CAF50A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 JUL 1920
+2 PLAC Butler, SD-Day Co.
+1 FAMS @F42@
+1 FAMC @F15@
+0 @I90@ INDI
+1 NAME Burton Lamont /Ash/
+2 GIVN Burton Lamont
+2 SURN Ash
+1 SEX M
+1 _UID 638454639D06AB44B6918F4DE88CBEEB7068
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 JUL 1923
+2 PLAC Butler, S.D.-Day Co.
+1 FAMS @F16@
+1 FAMC @F15@
+0 @I91@ INDI
+1 NAME Doris Elizabeth /Roche/
+2 GIVN Doris Elizabeth
+2 SURN Roche
+1 SEX F
+1 _UID 138129B4547E23428DB000146BB6AD511840
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 DEC 1928
+2 PLAC Farmington, Minnesota-Dakota Co.
+1 FAMS @F16@
+0 @I92@ INDI
+1 NAME Gary Lamont /Ash/
+2 GIVN Gary Lamont
+2 SURN Ash
+1 SEX M
+1 _UID 3734584922CA5B47A8A622181339A7A7BC4E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 AUG 1951
+2 PLAC Minneapolis, Minnesota-Hennepin Co.
+1 FAMS @F17@
+1 FAMC @F16@
+0 @I93@ INDI
+1 NAME Richard Cory /Ash/
+2 GIVN Richard Cory
+2 SURN Ash
+1 SEX M
+1 _UID E670B925832A684590B801F819765DE39E27
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 DEC 1956
+2 PLAC Minneapolis, Minnesota-Hennepin Co.
+1 FAMS @F18@
+1 FAMC @F16@
+0 @I94@ INDI
+1 NAME Vickie Lynn /Bengston/
+2 GIVN Vickie Lynn
+2 SURN Bengston
+1 SEX F
+1 _UID F7DBF647F5DD8C4EAE481E46677695149B3B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 MAY 1957
+2 PLAC Minneapolis, Minnesota-Hennepin Co.
+1 FAMS @F17@
+0 @I95@ INDI
+1 NAME Heather Marie /Ash/
+2 GIVN Heather Marie
+2 SURN Ash
+1 SEX F
+1 _UID 9EEB7CFA6FBFB544A81C729D5D742B7D7262
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 FEB 1977
+2 PLAC St. Paul, Ramsey Co., MN
+1 FAMS @F474@
+1 FAMC @F17@
+0 @I96@ INDI
+1 NAME Christopher Stuart /Ash/
+2 GIVN Christopher Stuart
+2 SURN Ash
+1 SEX M
+1 _UID B355A525A671ED43BBCF1592A822D116FBE9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 JUL 1979
+1 FAMC @F17@
+0 @I97@ INDI
+1 NAME Megan Elizabeth /Ash/
+2 GIVN Megan Elizabeth
+2 SURN Ash
+1 SEX F
+1 _UID 631F45B17D1DEF44AB9ADDB2B1EE76BFED08
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 JUN 1981
+1 FAMC @F17@
+0 @I98@ INDI
+1 NAME Lisa Marie /Wright/
+2 GIVN Lisa Marie
+2 SURN Wright
+1 SEX F
+1 _UID 9EB6064FD147A54D811C50E124B995BEB195
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMS @F18@
+0 @I99@ INDI
+1 NAME Jennifer Cory /Ash/
+2 GIVN Jennifer Cory
+2 SURN Ash
+1 SEX F
+1 _UID D26AF0BD91B6964EB1871123D92CD74EAA79
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 JUL 1981
+1 FAMC @F18@
+0 @I100@ INDI
+1 NAME Lindsey Nicole /Ash/
+2 GIVN Lindsey Nicole
+2 SURN Ash
+1 SEX F
+1 _UID D61DBA73574BF049BBC8A6AC810EA420237A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 JAN 1985
+1 FAMC @F18@
+0 @I101@ INDI
+1 NAME LoganWright /Ash/
+2 GIVN LoganWright
+2 SURN Ash
+1 SEX M
+1 _UID B3BDAA244F97EA42AFAC7C579AB949526C48
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 MAR 1990
+1 FAMC @F18@
+0 @I102@ INDI
+1 NAME Jordan Kang /Ash/
+2 GIVN Jordan Kang
+2 SURN Ash
+1 SEX M
+1 _UID 4055E7F7A82C3445953689A02C0E8F3EBB0F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 AUG 1988
+1 FAMC @F18@
+0 @I103@ INDI
+1 NAME Jack /Miller/
+2 GIVN Jack
+2 SURN Miller
+1 SEX M
+1 _UID 1F46E8CEA7B9D84DAFEFB9890A7D20C7EEC6
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+2 PLAC ?
+1 DEAT
+2 DATE UNKNOWN
+2 PLAC ?
+1 FAMS @F23@
+0 @I104@ INDI
+1 NAME Charles Ivan /Miller/
+2 GIVN Charles Ivan
+2 SURN Miller
+1 SEX M
+1 _UID 1D2B1D5A97EADF4681671B462B8ADC82C128
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 11 FEB 1930
+1 FAMC @F23@
+0 @I105@ INDI
+1 NAME Merle Clair /Miller/
+2 GIVN Merle Clair
+2 SURN Miller
+1 SEX M
+1 _UID 03F77B32B89F2840B8BDACB45A0A66656A60
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 AUG 1934
+1 FAMC @F23@
+0 @I106@ INDI
+1 NAME Charles /Nigro/
+2 GIVN Charles
+2 SURN Nigro
+1 SEX M
+1 _UID 12A782FF1D7D79468CF4DE1AC3A6FF46B9E7
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+2 PLAC ?
+1 DEAT
+2 DATE UNKNOWN
+2 PLAC ?
+1 FAMS @F24@
+0 @I107@ INDI
+1 NAME Russell /Tangvold/
+2 GIVN Russell
+2 SURN Tangvold
+1 SEX M
+1 _UID B9AFC61BB426AF4AA1C7AB7B0D8106FB3926
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 DEC 1904
+2 PLAC Mora, MN-Kanabec Co.
+1 DEAT
+2 DATE 22 NOV 1991
+2 PLAC Mpls. , MN -Hennepin Co.
+1 FAMS @F25@
+0 @I108@ INDI
+1 NAME Tilla /Vaardahl/
+2 GIVN Tilla
+2 SURN Vaardahl
+1 SEX F
+1 _UID 888266978CCFEE41887A1F701F8A77327421
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 21 JUN 1925
+2 PLAC Pierpont, Day Co., South Dakota
+1 FAMS @F26@
+0 @I109@ INDI
+1 NAME Ardella Mae /Ash/
+2 GIVN Ardella Mae
+2 SURN Ash
+1 SEX F
+1 _UID F421822ED952D547882981E1D0FED3B87886
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 OCT 1942
+2 PLAC Britton, South Dakota, Marshall Co.
+1 GRAD
+2 DATE 1960
+2 PLAC Bristol High School
+1 FAMS @F41@
+1 FAMS @F30@
+1 FAMS @F31@
+1 FAMC @F26@
+0 @I110@ INDI
+1 NAME Marlin Lamont /Ash/
+2 GIVN Marlin Lamont
+2 SURN Ash
+1 SEX M
+1 _UID F995DDA37E52B5438F3107409024815365BD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 SEP 1944
+2 PLAC Britton, SD, Marshall Co.
+1 DEAT
+2 DATE 28 APR 1987
+2 PLAC Aberdeen, SD-, Brown Co.
+1 GRAD
+2 DATE 1962
+2 PLAC Pierpont High School
+1 SSN
+2 PLAC 504-52-1426
+1 FAMS @F29@
+1 FAMS @F467@
+1 FAMC @F26@
+0 @I111@ INDI
+1 NAME Leone /Ash/
+2 GIVN Leone
+2 SURN Ash
+1 SEX F
+1 _UID 6218B43BA8C9C94890415199F8EDE80B7EF0
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 MAR 1948
+2 PLAC Britton, South Dakota, Marshall Co.
+1 FAMS @F27@
+1 FAMS @F28@
+1 FAMC @F26@
+0 @I112@ INDI
+1 NAME Diane /Ash/
+2 GIVN Diane
+2 SURN Ash
+1 SEX F
+1 _UID 180FAA30F1DDA04BB753A979099B1C18BE60
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 21 APR 1952
+2 PLAC Day Co., SD
+1 FAMS @F434@
+1 FAMS @F32@
+1 FAMS @F265@
+1 FAMC @F26@
+0 @I113@ INDI
+1 NAME Wayne William /Ash/
+2 GIVN Wayne William
+2 SURN Ash
+1 SEX M
+1 _UID 3FAF2E103C4C40429AD8E2F06BBD89BCE7D0
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 JUL 1961
+2 PLAC ?
+1 FAMC @F26@
+0 @I114@ INDI
+1 NAME David /Olson/
+2 GIVN David
+2 SURN Olson
+1 SEX M
+1 _UID 01CC82AE8EF59D4DA6FC1255BD1B5A721790
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 JUL 1945
+2 PLAC Britton, South Dakota, Marshall Co.
+1 FAMS @F27@
+0 @I115@ INDI
+1 NAME Lori Jean /Olson/
+2 GIVN Lori Jean
+2 SURN Olson
+1 SEX F
+1 _UID 30816021A335F54CA43B012B604303777305
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 OCT 1971
+2 PLAC Des Moines , Iowa
+1 FAMS @F50@
+1 FAMC @F27@
+0 @I116@ INDI
+1 NAME Cory David /Olson/
+2 GIVN Cory David
+2 SURN Olson
+1 SEX M
+1 _UID 198418A79AA53A49B4369B013283959B8912
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 2 OCT 1973
+2 PLAC Valparaiso, Indiana
+1 FAMS @F179@
+1 FAMC @F27@
+0 @I117@ INDI
+1 NAME Rodney Allen /Jondahl/
+2 GIVN Rodney Allen
+2 SURN Jondahl
+1 SEX M
+1 _UID 009A12AEACDF5A4AAC31DD8D402F08458C23
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 AUG 1942
+2 PLAC Britton, South Dakota, Marshall Co.
+1 FAMS @F28@
+0 @I118@ INDI
+1 NAME Bradley Allen /Jondahl/
+2 GIVN Bradley Allen
+2 SURN Jondahl
+1 SEX M
+1 _UID 3FD38A7867954842AC43F2D168CEFC77F5BD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 MAY 1980
+2 PLAC Aberdeen SD
+1 FAMC @F28@
+0 @I119@ INDI
+1 NAME Cynthia /Tichi/
+2 GIVN Cynthia
+2 SURN Tichi
+1 SEX F
+1 _UID DFA7F75F9ECB5F46B80648C70E11DABA6AB1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+2 PLAC ?
+1 FAMS @F29@
+0 @I120@ INDI
+1 NAME Joshua /Ash/
+2 GIVN Joshua
+2 SURN Ash
+1 SEX M
+1 _UID DE57D572DE9AC242AB1F5EBF71E667C05D79
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F29@
+0 @I121@ INDI
+1 NAME Melissa /Ash/
+2 GIVN Melissa
+2 SURN Ash
+1 SEX F
+1 _UID 13D90B857F928E4290F1890657E4B074CCA1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMC @F467@
+0 @I122@ INDI
+1 NAME Shelly /Ash/
+2 GIVN Shelly
+2 SURN Ash
+1 SEX F
+1 _UID 6BB32F4156F2A8498CA4B3DC380B4A3245BC
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMC @F467@
+0 @I123@ INDI
+1 NAME Douglas /Erdman/
+2 GIVN Douglas
+2 SURN Erdman
+1 SEX M
+1 _UID CE1EEBAF019A8B46806E2B1279665285D38A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE OCT 1942
+2 PLAC Aberdeen , SD, BrownCo.
+1 FAMS @F30@
+0 @I124@ INDI
+1 NAME Dawn /Erdman/
+2 GIVN Dawn
+2 SURN Erdman
+1 SEX F
+1 _UID A8EEAA04629A66458EEEC91845C72C9D1D0F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMC @F30@
+0 @I125@ INDI
+1 NAME Renee /Erdman/
+2 GIVN Renee
+2 SURN Erdman
+1 SEX F
+1 _UID B0F3BEDADE0DF04BABD344ADB320F055E824
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMC @F30@
+0 @I126@ INDI
+1 NAME Dwayne /Pushor/
+2 GIVN Dwayne
+2 SURN Pushor
+1 SEX M
+1 _UID C503120D0D5F0343AB7DB6B05B513412199C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMC @F41@
+0 @I127@ INDI
+1 NAME Roger /Pushor/
+2 GIVN Roger
+2 SURN Pushor
+1 SEX M
+1 _UID DCFC47099D084F4DA41BC7858A131DC0EED5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMS @F41@
+0 @I128@ INDI
+1 NAME Jay /Galvin/
+2 GIVN Jay
+2 SURN Galvin
+1 SEX M
+1 _UID DB46649C9F7F8E458BAE80371B07C3472E8B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+2 PLAC ?
+1 DEAT
+2 DATE UNKNOWN
+2 PLAC ?
+1 FAMS @F31@
+0 @I129@ INDI
+1 NAME Gerald /Wandry/
+2 GIVN Gerald
+2 SURN Wandry
+1 SEX M
+1 _UID 4A8304E46340DB4385A3E987EC9868857FE9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+2 PLAC ?
+1 FAMS @F32@
+0 @I130@ INDI
+1 NAME Everetta /Borchert/
+2 GIVN Everetta
+2 SURN Borchert
+1 SEX F
+1 _UID 61958A260E3D9349855174D7409D07E4B6EE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 JUL 1924
+2 PLAC ?
+1 FAMS @F33@
+0 @I131@ INDI
+1 NAME David Allen /Ash/
+2 GIVN David Allen
+2 SURN Ash
+1 SEX M
+1 _UID 61895D427488314E8EB3E8A1B83CCC810F0E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 DEC 1947
+2 PLAC Mpls., MN-Hennepin Co.
+1 FAMS @F35@
+1 FAMC @F33@
+0 @I132@ INDI
+1 NAME Carol Jean /Ash/
+2 GIVN Carol Jean
+2 SURN Ash
+1 SEX F
+1 _UID DE0A0DCC259B2243A16ED3F88A62BFFD6839
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 DEC 1949
+2 PLAC Mpls., MN-Hennepin Co.
+1 FAMS @F36@
+1 FAMS @F37@
+1 FAMC @F33@
+0 @I133@ INDI
+1 NAME Linda Kay /Ash/
+2 GIVN Linda Kay
+2 SURN Ash
+1 SEX F
+1 _UID BD82DC5456067B4687F74F7B5D6C5B3E362E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 JUN 1951
+2 PLAC Mpls., MN-Hennepin Co.
+1 FAMS @F38@
+1 FAMC @F33@
+0 @I134@ INDI
+1 NAME Robert Burton /Ash/
+2 GIVN Robert Burton
+2 SURN Ash
+1 SEX M
+1 _UID 3A2E43CABB9DA8478BFECF762AC7CBD218A7
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 FEB 1955
+2 PLAC Mpls., MN-Hennepin Co.
+1 FAMS @F472@
+1 FAMS @F34@
+1 FAMC @F33@
+0 @I135@ INDI
+1 NAME James Jay /Ash/
+2 GIVN James Jay
+2 SURN Ash
+1 SEX M
+1 _UID C7006D268FE13A4D9CB3909AB254E408BC67
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 11 MAY 1960
+2 PLAC Mpls., MN-Hennepin Co.
+1 FAMS @F40@
+1 FAMC @F33@
+0 @I136@ INDI
+1 NAME Linda /Prudhon/
+2 GIVN Linda
+2 SURN Prudhon
+1 SEX F
+1 _UID D5D5F5803776E14181DABE6EFB74C37D244D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+2 PLAC ?
+1 FAMS @F34@
+0 @I137@ INDI
+1 NAME Brian Eric /Ash/
+2 GIVN Brian Eric
+2 SURN Ash
+1 SEX M
+1 _UID 80707DA2489770479DB2E8FFCDA7033284EE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 NOV 1977
+2 PLAC Solano Co., California
+1 FAMC @F34@
+0 @I138@ INDI
+1 NAME Tina Marie /Ash/
+2 GIVN Tina Marie
+2 SURN Ash
+1 SEX F
+1 _UID 2CC26D83F0D2E84489C4CD760404B30B22C2
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 JUN 1980
+2 PLAC Solano Co., California
+1 FAMC @F34@
+0 @I139@ INDI
+1 NAME  /Pat/
+2 SURN Pat
+1 SEX F
+1 _UID 4E9BDAB3FCE6254C94FC659EE403C4060DE7
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F472@
+0 @I140@ INDI
+1 NAME  /Unmarried/
+2 SURN Unmarried
+1 SEX F
+1 _UID 7C2C3C5A81D77E49B617C6745B591190B956
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F35@
+0 @I141@ INDI
+1 NAME Ray Baldwin /Waller/
+2 GIVN Ray Baldwin
+2 SURN Waller
+1 SEX M
+1 _UID EE4CB7EC9A2DA14BA76E9E8A6E98173620EA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 JUL 1948
+2 PLAC ?
+1 FAMS @F36@
+0 @I142@ INDI
+1 NAME James /Waller/
+2 GIVN James
+2 SURN Waller
+1 SEX M
+1 _UID 9E9C2C408CCD514EB883FE48A9A914B4391F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 JUN 1974
+1 FAMC @F36@
+0 @I143@ INDI
+1 NAME Laura /Waller/
+2 GIVN Laura
+2 SURN Waller
+1 SEX F
+1 _UID 9BAA846570D6B74991C40EB2C0DB7EF09257
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 AUG 1980
+1 FAMC @F36@
+0 @I144@ INDI
+1 NAME John Frances /Seibert/
+2 GIVN John Frances
+2 SURN Seibert
+1 SEX M
+1 _UID 850D5843F312814C950E660DDEFCC6853A56
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 MAY 1950
+2 PLAC ?
+1 FAMS @F37@
+0 @I145@ INDI
+1 NAME Tom /Auel/
+2 GIVN Tom
+2 SURN Auel
+1 SEX M
+1 _UID F342DF8764CAB944B430A1A8334BCEABEA09
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+2 PLAC ?
+1 FAMS @F38@
+0 @I146@ INDI
+1 NAME Michelle Marie /Auel/
+2 GIVN Michelle Marie
+2 SURN Auel
+1 SEX F
+1 _UID 8D8EEACBF57D4941A0F7500942D9A6D451BC
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 DEC
+1 FAMS @F39@
+1 FAMC @F38@
+0 @I147@ INDI
+1 NAME  /?/
+2 SURN ?
+1 SEX M
+1 _UID C85CD2580CE2BB4F8AA9F660FEC977F603FD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMS @F39@
+0 @I148@ INDI
+1 NAME Nicholas /Auel/
+2 GIVN Nicholas
+2 SURN Auel
+1 SEX M
+1 _UID F2AA37F2C5BABF408AE0F049DE127473BDD8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 SEP 1994
+1 FAMC @F39@
+0 @I149@ INDI
+1 NAME Ann /Lundeen/
+2 GIVN Ann
+2 SURN Lundeen
+1 SEX F
+1 _UID 16EE6B203BEE8749BB10D35626BE1D41BED6
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 MAY 1963
+2 PLAC Minneapolis, Hennepin Co, MN
+1 FAMS @F40@
+0 @I150@ INDI
+1 NAME Trevor /Ash/
+2 GIVN Trevor
+2 SURN Ash
+1 SEX M
+1 _UID 787F38C75B12FF4183B1AC3E9F2CAE417B2F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 OCT 1991
+1 FAMC @F40@
+0 @I151@ INDI
+1 NAME Kendall /Ash/
+2 GIVN Kendall
+2 SURN Ash
+1 SEX M
+1 _UID FCA7C4CDCE42F342BE923E1B47EC1C50C149
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 SEP 1993
+1 FAMC @F40@
+0 @I152@ INDI
+1 NAME Tayler /Ash/
+2 GIVN Tayler
+2 SURN Ash
+1 SEX M
+1 _UID 3EF8E191992B574D83AA4507CD7C2A4642F4
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 MAR 1996
+1 FAMC @F40@
+0 @I153@ INDI
+1 NAME Elaine Luverna /Wenstrom/
+2 GIVN Elaine Luverna
+2 SURN Wenstrom
+1 SEX F
+1 _UID 84F45A64A0A03A4C882AAC4A4C0666F450BE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 OCT 1920
+2 PLAC St. James, Watowan Co., Minnesota
+1 FAMS @F42@
+0 @I154@ INDI
+1 NAME Kathleen Gail /Ash/
+2 GIVN Kathleen Gail
+2 SURN Ash
+1 SEX F
+1 _UID B7D3D8AE4C672042BCAB1A58A210AE64C25B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 29 NOV 1947
+2 PLAC Mpls. , MN -Hennepin Co.
+1 FAMS @F43@
+1 FAMC @F42@
+0 @I155@ INDI
+1 NAME Steven Carlyle /Ash/
+2 GIVN Steven Carlyle
+2 SURN Ash
+1 SEX M
+1 _UID 1ADC90B9660A5841AD040359F86202EC9D01
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 OCT 1948
+2 PLAC Mpls. , MN -Hennepin Co.
+1 FAMS @F44@
+1 FAMC @F42@
+0 @I156@ INDI
+1 NAME Mark Russell /Ash/
+2 GIVN Mark Russell
+2 SURN Ash
+1 SEX M
+1 _UID 39E597C629EE0B44B4B186512D34CD368193
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 APR 1952
+2 PLAC Mpls. , MN -Hennepin Co.
+1 FAMS @F45@
+1 FAMS @F46@
+1 FAMC @F42@
+0 @I157@ INDI
+1 NAME Paul Duane /Ash/
+2 GIVN Paul Duane
+2 SURN Ash
+1 SEX M
+1 _UID 175AA825F3EF3241BACA7311144D7CF26A2B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 DEC 1953
+2 PLAC Mpls. , MN -Hennepin Co.
+1 DEAT
+2 DATE 12 FEB 1998
+2 PLAC ?
+1 FAMS @F47@
+1 FAMS @F48@
+1 FAMC @F42@
+0 @I158@ INDI
+1 NAME Corrine Marie /Ash/
+2 GIVN Corrine Marie
+2 SURN Ash
+1 SEX F
+1 _UID 961C292C9811A74BA89DA196F4E31C3142A3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 DEC 1957
+2 PLAC Mpls. , MN -Hennepin Co.
+1 FAMS @F22@
+1 FAMC @F42@
+0 @I159@ INDI
+1 NAME Patrick Douglas /Aune/
+2 GIVN Patrick Douglas
+2 SURN Aune
+1 SEX M
+1 _UID 42A52010F3FCE34ABEBBDD932F53B5A5F8E9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 2 FEB 1948
+2 PLAC ?
+1 FAMS @F43@
+0 @I160@ INDI
+1 NAME Nicholas Patrick /Aune/
+2 GIVN Nicholas Patrick
+2 SURN Aune
+1 SEX M
+1 _UID 91419BF8883B3340A7344A471AE3CF11E49B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 AUG 1973
+1 FAMC @F43@
+0 @I161@ INDI
+1 NAME Kristin Marie /Aune/
+2 GIVN Kristin Marie
+2 SURN Aune
+1 SEX F
+1 _UID 19F3D326D1EEED40B618601A2B67B78A0CC0
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 DEC 1977
+1 FAMC @F43@
+0 @I162@ INDI
+1 NAME Clark James /Aune/
+2 GIVN Clark James
+2 SURN Aune
+1 SEX M
+1 _UID 879CCDE3EAA88B4BAE9A99C1FDCB56BDB851
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 SEP 1979
+1 FAMC @F43@
+0 @I163@ INDI
+1 NAME Erin Brodigan /Aune/
+2 GIVN Erin Brodigan
+2 SURN Aune
+1 SEX F
+1 _UID CA71CF699B6AA44287E30A62B014B3C26D29
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 FEB 1976
+1 FAMC @F43@
+0 @I164@ INDI
+1 NAME Sharon Roberta /DeSplinter/
+2 GIVN Sharon Roberta
+2 SURN DeSplinter
+1 SEX F
+1 _UID E70C8DDD05DDC04393063860B3FE2A4391F8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 20 MAY 1949
+2 PLAC ?
+1 FAMS @F44@
+0 @I165@ INDI
+1 NAME Matthew Jason /Ash/
+2 GIVN Matthew Jason
+2 SURN Ash
+1 SEX M
+1 _UID 4DF4104CC24045489EC65E7FCEF96A1EBC08
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 JAN 1976
+1 FAMC @F44@
+0 @I166@ INDI
+1 NAME Michael Steven /Ash/
+2 GIVN Michael Steven
+2 SURN Ash
+1 SEX M
+1 _UID 05426F38444D474CBDC06AF8310F20F748AD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 OCT 1977
+1 FAMC @F44@
+0 @I167@ INDI
+1 NAME Brian Andrew /Ash/
+2 GIVN Brian Andrew
+2 SURN Ash
+1 SEX M
+1 _UID 53B190B2DC9FB143B58F94E2B18EA5BA0DC8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 AUG 1983
+1 FAMC @F44@
+0 @I168@ INDI
+1 NAME Diane Laurie /Davis/
+2 GIVN Diane Laurie
+2 SURN Davis
+1 SEX F
+1 _UID 79943BA3A19B8049AAA1942D9AC3879676E8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1 JAN 1955
+2 PLAC ?
+1 FAMS @F45@
+0 @I169@ INDI
+1 NAME Jacob Martin /Ash/
+2 GIVN Jacob Martin
+2 SURN Ash
+1 SEX M
+1 _UID E720743CD77FE9448A8854F8C1D02580CED1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 29 APR 1973
+1 FAMC @F45@
+0 @I170@ INDI
+1 NAME Shirley Mary /Kepple/
+2 GIVN Shirley Mary
+2 SURN Kepple
+1 SEX F
+1 _UID 3A3008AB07860C4FA241A03F40E8FA0EF770
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 OCT 1953
+2 PLAC ?
+1 FAMS @F46@
+0 @I171@ INDI
+1 NAME Jason Anthony /Ash/
+2 GIVN Jason Anthony
+2 SURN Ash
+1 SEX M
+1 _UID 5431353D6FC2D74DAE089AE3B1FF37DE4483
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 JUL 1977
+1 FAMC @F46@
+0 @I172@ INDI
+1 NAME Eric Russell /Ash/
+2 GIVN Eric Russell
+2 SURN Ash
+1 SEX M
+1 _UID 872EB419A8A6B44E94312508C56B9718A39F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 JAN 1979
+1 FAMC @F46@
+0 @I173@ INDI
+1 NAME Barbara Claire /Shiminski/
+2 GIVN Barbara Claire
+2 SURN Shiminski
+1 SEX F
+1 _UID 4DF7ED6E9786504AB3D2860C7E8DABA3C6B3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 DEC 1954
+2 PLAC ?
+1 FAMS @F47@
+0 @I174@ INDI
+1 NAME Shane Lyle /Ash/
+2 GIVN Shane Lyle
+2 SURN Ash
+1 SEX M
+1 _UID 06A1F958EF96184FAC41F21616B92BAE810A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 JUN 1977
+1 FAMC @F47@
+0 @I175@ INDI
+1 NAME Jennifer Elaine /Ash/
+2 GIVN Jennifer Elaine
+2 SURN Ash
+1 SEX F
+1 _UID 72DEA01B33C56D449B86F8ECF01FD7CA6945
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 JUL 1979
+1 FAMC @F47@
+0 @I176@ INDI
+1 NAME Cole Jalse /Ash/
+2 GIVN Cole Jalse
+2 SURN Ash
+1 SEX M
+1 _UID 2C44202A1443E440A4281EC0F76B3F1797F5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 MAR 1982
+1 FAMC @F47@
+0 @I177@ INDI
+1 NAME Lois /Staehowski/
+2 GIVN Lois
+2 SURN Staehowski
+1 SEX F
+1 _UID 00EF6E9C5BD64F4ABE45BF22C0E9B93A4375
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 OCT 1963
+2 PLAC ?
+1 FAMS @F48@
+0 @I178@ INDI
+1 NAME Aaron Alden /Ash/
+2 GIVN Aaron Alden
+2 SURN Ash
+1 SEX M
+1 _UID 69B8EC48B204F44DA70785B9E593CFA92861
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 JUN 1989
+1 FAMC @F48@
+0 @I179@ INDI
+1 NAME David Robert /Mielke/
+2 GIVN David Robert
+2 SURN Mielke
+1 SEX M
+1 _UID 3F4EE4F982F1014EBA8C83F407BC60C3CF27
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 SEP 1951
+2 PLAC ?
+1 FAMS @F22@
+0 @I180@ INDI
+1 NAME William Albert /Hart/
+2 GIVN William Albert
+2 SURN Hart
+1 SEX M
+1 _UID D4D4F6F9F2BCED4CB978E0CB4D6BC35B30BC
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 AUG 1861
+2 PLAC Morocco, Indiana-Newton Co.
+1 DEAT
+2 DATE 13 DEC 1928
+2 PLAC Sentinel Butte, North Dakota
+1 BURI
+2 PLAC Prairie Mound Cemetery, Butler SD
+1 FAMS @F21@
+0 @I181@ INDI
+1 NAME Genevieve Lorinda /Hart/
+2 GIVN Genevieve Lorinda
+2 SURN Hart
+1 SEX F
+1 _UID 567E10308082B345AABD211CF05E24B5D9B7
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 FEB 1909
+1 DEAT
+2 DATE 1 OCT 1987
+1 FAMS @F2113@
+1 FAMC @F21@
+0 @I182@ INDI
+1 NAME Emma Leah /Tweedy/
+2 GIVN Emma Leah
+2 SURN Tweedy
+1 SEX F
+1 _UID 1EEADFF4CC0FEB42A7D23F5B54BC80971D33
+1 NOTE   Asleep With Jesus
+2 CONT
+2 CONT      Emma L. Ash was born in Jennings county, Indiana, December 19,
+2 CONC 1858, and died of consumption in Elk City, Oklahoma, March 30, 1908,
+2 CONC age 49 years, 3 months, and 11 days. She was converted and united with
+2 CONC the M. E. church at Morocco, Indiana, at the age of 17. Through all
+2 CONC these years, her hopes in God and loyalty to the church has been her
+2 CONC watchword. She leaves a husband and two sons, one sister and two
+2 CONC brothers to mourn her loss. Her remains were laid to rest in Elk City
+2 CONC cemetery, March 31. Services were conducted by Rev. A. G. Hummer,
+2 CONC pastor of the M. E. Church.
+2 CONT
+2 CONT  Source unknown
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 DEC 1858
+2 PLAC Jennings Co., Indiana
+1 DEAT
+2 DATE 30 MAR 1908
+2 PLAC Elk City, Oklahoma-Beckham Co.
+1 BURI
+2 DATE 31 MAR 1908
+2 PLAC Elk City Cemetery
+1 FAMS @F12@
+0 @I183@ INDI
+1 NAME Alvin Lenard /Ash/
+2 GIVN Alvin Lenard
+2 SURN Ash
+1 SEX M
+1 _UID 1112DF337A418C41AC546C46B10AC18873A9
+1 NOTE     A. L. Ash
+2 CONT
+2 CONT           Funeral services for A. L. Ash of 1306 W. Bonbright St. will
+2 CONC be held Thursday at 3:30 p.m. at Carpenter Denton Chapel with Dr. J.
+2 CONC H. L. McAllister of the United Methodist church officiating. He died
+2 CONC in a local hospital today.
+2 CONT           Ash was born in Indiana. He married  Minerva Gay in 1934 at
+2 CONC Boise City, Oklahoma , (Cimmaron Co.) They moved to Carlsbad in 1938
+2 CONC where Ash helped with the concrete work in the first power plant for
+2 CONC the potash industry in Carlsbad.
+2 CONT           He was a retired concrete finisher. Ash was a member of the
+2 CONC United Methodist church and Men's Fellowship of United Methodist
+2 CONC church.
+2 CONT           He is survived by his widow Minerva Ash of Carlsbad and one
+2 CONC son, Mark Ash of Carlsbad.
+2 CONT
+2 CONT
+2 CONT                                           Carlsbad Current-Argus,
+2 CONC Wednesday, December 4, 1968
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 JUL 1897
+2 PLAC Morocco, Indiana-Newton Co.
+1 DEAT
+2 DATE 4 DEC 1968
+2 PLAC Carlsbad, New Mexico, Eddy Co.
+1 RESI
+2 DATE 1939
+2 PLAC Roy, New Mexico
+1 RESI
+2 DATE 1968
+2 PLAC Carlsbad, New Mexico
+1 FAMS @F2248@
+1 FAMS @F2301@
+1 FAMC @F12@
+0 @I184@ INDI
+1 NAME Clyde /Ash/
+2 GIVN Clyde
+2 SURN Ash
+1 SEX M
+1 _UID 3355A65B1AE9ED45A687AD3100B55EA07C27
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE NOV 1892
+2 PLAC Morocco, Indiana-Newton Co.
+1 DEAT
+2 DATE 25 FEB 1921
+2 PLAC Oklahoma
+1 FAMC @F12@
+0 @I185@ INDI
+1 NAME William Henry /Martin/
+2 GIVN William Henry
+2 SURN Martin
+1 SEX M
+1 _UID 61ED6CA5CF7830478FDD0A7BA1955FB95C57
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1841
+2 PLAC Handy Co., Virginia
+1 DEAT
+2 DATE 3 AUG 1905
+2 PLAC Lafayette, Indiana
+1 FAMS @F51@
+0 @I188@ INDI
+1 NAME Alicia Fuailelagi /Strickland/
+2 GIVN Alicia Fuailelagi
+2 SURN Strickland
+1 SEX F
+1 _UID F793D37CE4C35F4D83F7912639A2B63624C8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 APR 1983
+2 PLAC Anaheim, California, Orange County
+1 FAMC @F865@
+0 @I189@ INDI
+1 NAME Tennis G. /Martin/
+2 GIVN Tennis G.
+2 SURN Martin
+1 SEX F
+1 _UID 94AF35E72F2AC44D94DACDB5478ED663C743
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 MAY 1873
+1 DEAT
+2 DATE 25 SEP 1954
+2 PLAC Beaver Twp., Newton Co., Indiana
+1 FAMS @F476@
+1 FAMC @F51@
+0 @I190@ INDI
+1 NAME Rachel Adele /Martin/
+2 GIVN Rachel Adele
+2 SURN Martin
+1 SEX F
+1 _UID 12C978BE8FE6CA4D87F51FC45F9D44BAF65A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 JAN 1875
+2 PLAC Daytona Beach, Florida
+1 DEAT
+2 DATE 1965
+2 PLAC Daytona Beach, Florida
+1 FAMS @F786@
+1 FAMS @F479@
+1 FAMC @F51@
+0 @I191@ INDI
+1 NAME Austin /Martin/
+2 GIVN Austin
+2 SURN Martin
+1 SEX M
+1 _UID 08A7BE3EE569324F9C64E43886CCEA3D0F66
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1878
+1 FAMC @F51@
+0 @I192@ INDI
+1 NAME Ralph Blaine /Martin/
+2 GIVN Ralph Blaine
+2 SURN Martin
+1 SEX M
+1 _UID DD4C2B8FBBEF464082B421E70451A24088B2
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 MAY 1884
+2 PLAC Washington Twp., Newton Co., Indiana
+1 DEAT
+2 DATE 23 MAY 1963
+2 PLAC Grand Forks, North Dakota
+1 FAMS @F787@
+1 FAMC @F51@
+0 @I193@ INDI
+1 NAME Orpheus Douglas /Martin/
+2 GIVN Orpheus Douglas
+2 SURN Martin
+1 SEX M
+1 _UID C3BD1998447343468D7CFF36784B10C34506
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 JUL 1886
+2 PLAC Morocco, Indiana
+1 DEAT
+2 DATE 13 NOV 1972
+1 FAMS @F788@
+1 FAMC @F51@
+0 @I194@ INDI
+1 NAME William /Martin/
+2 GIVN William
+2 SURN Martin
+1 SEX M
+1 _UID BD87EBA9AED3B1419B99A6D59CC1E075AC90
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1880
+1 FAMC @F51@
+0 @I205@ INDI
+1 NAME W. Phylander /Clark/
+2 GIVN W. Phylander
+2 SURN Clark
+1 SEX M
+1 _UID A1AF70A32F270D48B47E9CA159A80952D942
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1841
+2 PLAC Morocco, Indiana-Newton Co.
+1 DEAT
+2 DATE UNKNOWN
+2 PLAC Stockton, California
+1 FAMS @F54@
+0 @I206@ INDI
+1 NAME Estella /Clark/
+2 GIVN Estella
+2 SURN Clark
+1 SEX F
+1 _UID A417F0A1123A4D49A2631C4C55346E87190B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1867
+1 FAMC @F54@
+0 @I207@ INDI
+1 NAME Jessie /Clark/
+2 GIVN Jessie
+2 SURN Clark
+1 SEX M
+1 _UID 610486998F1CCB4488742A93A8CB503FF9C6
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1869
+1 FAMC @F54@
+0 @I208@ INDI
+1 NAME Eldeona /Morton/
+2 GIVN Eldeona
+2 SURN Morton
+1 SEX F
+1 _UID 1EA19A8906CD0E4E9254641B4F9EE10145A5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 AUG 1877
+2 PLAC Prairie Grove Arkansas
+1 BIRT
+2 DATE 19 AUG 1876
+2 PLAC May be birth date
+1 DEAT
+2 DATE 20 JAN 1958
+2 PLAC Lawndale, Los Angeles Co., California
+1 FAMS @F55@
+0 @I209@ INDI
+1 NAME Elnora Gay /Ash/
+2 GIVN Elnora Gay
+2 SURN Ash
+1 SEX F
+1 _UID A0EB9E79CC1F984A94064942CD76A4F5709A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 26 OCT 1899
+2 PLAC Willow Lakes, South Dakota
+1 DEAT
+2 DATE 2 FEB 1984
+2 PLAC Redondo Beach, California
+1 FAMS @F894@
+1 FAMC @F55@
+0 @I210@ INDI
+1 NAME Clair Enos /Ash/
+2 GIVN Clair Enos
+2 SURN Ash
+1 SEX M
+1 _UID DC2FA0C308A8A3428FF75C01AE2DA063C4B8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 20 DEC 1900
+2 PLAC Willow Lakes, South Dakota
+1 DEAT
+2 DATE 23 SEP 1987
+2 PLAC El Segundo, Los Angeles Co., California
+1 SSN
+2 PLAC 469-03-8584
+1 RESI
+2 DATE 3 DEC 1936
+2 PLAC lived at 316-4th St. , Cloquet, MN
+1 FAMS @F893@
+1 FAMC @F55@
+0 @I211@ INDI
+1 NAME Emma Lorinda /Ash/
+2 GIVN Emma Lorinda
+2 SURN Ash
+1 SEX F
+1 _UID DC7FE52FA1D0E9438769E1BDFF2F5E678DC5
+1 NOTE                                     Obituary Of Emma Timbers
+2 CONT      KING HILL- Emma A. Timbers , 82, of King Hill, died Monday,
+2 CONC September 16, 1985, in a Mountain Home hospital of natural causes.
+2 CONT      Funeral services will be hels at 11 a.m. Friday, Sept. 20, at the
+2 CONC United Presbyterian Church, King Hill, with Rev. Sandra Alden
+2 CONC officiating. Burial will follow in Glenn Rest Cemetery, Glenns Ferry,
+2 CONC under the direction of Humpherys Funeral Home, Mountain Home.
+2 CONT      Mrs. Timbers, a retired motel and service station owner, was born
+2 CONC October 22, 1902, at Willow Lake, South Dakota, a daughter of James C.
+2 CONC and Ona Morton Ash. She attended schools in Garden City, South Dakota,
+2 CONC and graduated from high school in Garden City. She attended South
+2 CONC Dakota Teacher's College. She sold books on the East Coast for two
+2 CONC years and later taught school in South Dakota for three years. She
+2 CONC married Thomas Timbers on October 13, 1927, at Watertown, S.D. They
+2 CONC came to Filer, Idaho, where they farmed untilNovember of 1947. They
+2 CONC moved to King Hill where they owned and operated a motel and  service
+2 CONC station until they retired. Mr. Timbers died May 1, 1983
+2 CONT      She was a member of King Hill Grange; Three Island Senior
+2 CONC Citizens; and the United Presbyterian Church, King Hill.
+2 CONT      Survivors include three daughters, Patricia Morrison of King
+2 CONC Hill, Eileen Hitesman of Glenns Ferry, and Frances Nichols of
+2 CONC Germantown, Tennessee; a brother Clair Ash of Redondo Beach, CA; a
+2 CONC sister Frances Ash of Redondo Beach; 11 grandchildren; and 12 great
+2 CONC grandchildren.
+2 CONT      Friends may call today from 5 to 8 p.m. at the Humpherys Funeral
+2 CONC Chapel, Glenns Ferry.
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 OCT 1902
+2 PLAC Willow Lakes, South Dakota
+1 DEAT
+2 DATE 16 SEP 1985
+2 PLAC Glenns Ferry, Idaho, Elmore, Co.
+1 FAMS @F405@
+1 FAMC @F55@
+0 @I212@ INDI
+1 NAME Frances Ona /Ash/
+2 GIVN Frances Ona
+2 SURN Ash
+1 SEX F
+1 _UID 098F26035DD44843A9EBEC227744B9D76AA7
+1 NOTE                                    Obituary Of Frances Ona Ash
+2 CONT      Visitation will be until 7 tonight for Frances Ona Ash, Redondo
+2 CONC Beach resident for 4_(?) years. Born May 30, 1904 in Willow Lake,
+2 CONC South Dakota, she died January 31, 1987, at a local hospital.
+2 CONT      Miss Ash was a member of the First United Methodist Church, the
+2 CONC Redondo Beach Women's Club, the Redondo Beach Garden Club, and the
+2 CONC Salvation Army Auxiliary.
+2 CONT      She is survived by a brother Clair Ash of Redondo Beach.
+2 CONC Visitation will be at White and Day Mortuary, Redondo Beach. Services
+2 CONC will be at 1 p.m. Tuesday at the mortuary chapel. Private burial will
+2 CONC follow at Pacific Crest Cemetery, Redondo Beach.
+2 CONT
+2 CONT
+2 CONT
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 MAY 1904
+2 PLAC Willow Lakes, South Dakota
+1 DEAT
+2 DATE 30 JAN 1987
+2 PLAC Redondo Beach, California
+1 BURI
+2 PLAC Pacific Crest Cemetery, Redondo Beach, California
+1 SSN
+2 PLAC 476-22-2251
+1 FAMC @F55@
+0 @I213@ INDI
+1 NAME Robert Morton /Ash/
+2 GIVN Robert Morton
+2 SURN Ash
+1 SEX M
+1 _UID DFF6809A80A07744A6783EB2FE3FD77F6B5E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 AUG 1907
+2 PLAC Buhl, Idaho
+1 DEAT
+2 DATE 6 JAN 1973
+1 FAMS @F62@
+1 FAMC @F55@
+0 @I220@ INDI
+1 NAME  /Unmarried/
+2 SURN Unmarried
+1 SEX F
+1 _UID 2AC7CDCCED8E73488C77837B19CBE1AA3062
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F60@
+0 @I221@ INDI
+1 NAME Charles /McCloskey/
+2 GIVN Charles
+2 SURN McCloskey
+1 SEX M
+1 _UID CF9BCB295458BE4E9788B3BD7B68577150AC
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+2 PLAC ?
+1 DEAT
+2 DATE 19 FEB 1928
+2 PLAC Seattle, Washington
+1 FAMS @F61@
+0 @I222@ INDI
+1 NAME Nelle Mae /Showerman/
+2 GIVN Nelle Mae
+2 SURN Showerman
+1 SEX F
+1 _UID FA9A40C97A78B4429190C635FEFA5A4D40A1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 NOV 1884
+2 PLAC Webster, SD-Day Co.
+1 DEAT
+2 DATE 29 JUN 1955
+2 PLAC Rupert, Idaho
+1 FAMS @F63@
+0 @I233@ INDI
+1 NAME John /Dahl/
+2 GIVN John
+2 SURN Dahl
+1 SEX M
+1 _UID C9AE3B15D6744E4EB47C58F10597C645CD4E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1876
+2 PLAC Spring Lake, MN-Douglas Co.
+1 DEAT
+2 DATE UNKNOWN
+2 PLAC ?
+1 FAMS @F69@
+0 @I234@ INDI
+1 NAME Ole Peter /Olson/
+2 GIVN Ole Peter
+2 SURN Olson
+1 SEX M
+1 _UID D98530E9D27A3E48BE223C1C30BC325AF95E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 NOV 1882
+2 PLAC ?
+1 DEAT
+2 DATE 1946
+2 PLAC ?
+1 BURI
+2 PLAC Hillside Cemetery, Lily, South Dakota
+1 FAMS @F70@
+0 @I235@ INDI
+1 NAME Edgar /Jackson/
+2 GIVN Edgar
+2 SURN Jackson
+1 SEX M
+1 _UID 67EEE15BE2857A42BEC40CE04FBA76852683
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1882
+2 PLAC Butler, SD-Day Co.
+1 FAMS @F71@
+0 @I1208@ INDI
+1 NAME David /Converse/
+2 GIVN David
+2 SURN Converse
+1 SEX M
+1 _UID C936A317057CAF4496EA34E657AB6C0C41A6
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+2 PLAC ?
+1 FAMS @F50@
+0 @I1209@ INDI
+1 NAME Donna /Hanson/
+2 GIVN Donna
+2 SURN Hanson
+1 SEX F
+1 _UID BC4DE6EA2285C747A3430CB0D9F2806EE99A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 DEC 1973
+2 PLAC Watertown , South Dakota
+1 FAMS @F179@
+0 @I1210@ INDI
+1 NAME Brianna Noel /Olson/
+2 GIVN Brianna Noel
+2 SURN Olson
+1 SEX F
+1 _UID 5252431C5C81A64D9F558707907E73BA9002
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 AUG 1997
+1 FAMC @F179@
+0 @I1211@ INDI
+1 NAME Jessie /Wandry/
+2 GIVN Jessie
+2 SURN Wandry
+1 SEX F
+1 _UID E361A886E84E0741893DBDFD6E0C39E20528
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMC @F32@
+0 @I1212@ INDI
+1 NAME Claire /Hanson/
+2 GIVN Claire
+2 SURN Hanson
+1 SEX M
+1 _UID D2FE2E70A0AB744D8AD2E5C57B31E1010ED3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMS @F265@
+0 @I1213@ INDI
+1 NAME Shawn /Hanson/
+2 GIVN Shawn
+2 SURN Hanson
+1 SEX M
+1 _UID D9C88E6E10179C4FB7FEFFB35CCFB7C0B86C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE NOV 1971
+2 PLAC Aberdeen, South Dakota, Brown Co.
+1 FAMC @F265@
+0 @I1214@ INDI
+1 NAME  /Unknown/
+2 SURN Unknown
+1 SEX M
+1 _UID 7D71DD5B1F4AA345BA592193B1C4BE40B141
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMS @F434@
+0 @I1215@ INDI
+1 NAME Jeremy /Ash/
+2 GIVN Jeremy
+2 SURN Ash
+1 SEX M
+1 _UID 613F542426235E4194136153EC68DB17A12A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1983
+2 PLAC Birmingham, Alabama
+1 FAMC @F434@
+0 @I1287@ INDI
+1 NAME Linda /Worrell/
+2 GIVN Linda
+2 SURN Worrell
+1 SEX F
+1 _UID 3723F61C5771174480EB76B9E2BA3F999D31
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMS @F467@
+0 @I1296@ INDI
+1 NAME Kyle /Ash/
+2 GIVN Kyle
+2 SURN Ash
+1 SEX M
+1 _UID C92E1C5084E40B429E4B5356BD2010E98090
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMC @F472@
+0 @I1299@ INDI
+1 NAME Gene Allen /Miller/
+2 GIVN Gene Allen
+2 SURN Miller
+1 SEX M
+1 _UID 5E5910B96768484D92E562AAB82949099A94
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 SEP 1977
+1 FAMS @F474@
+0 @I1300@ INDI
+1 NAME Austin Allen /Miller/
+2 GIVN Austin Allen
+2 SURN Miller
+1 SEX M
+1 _UID 3096D3B96DDFC24E89758BA3262BBD664EA1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 DEC 1997
+1 FAMC @F474@
+0 @I2193@ INDI
+1 NAME Prescott /Pushor/
+2 GIVN Prescott
+2 SURN Pushor
+1 SEX M
+1 _UID 8736873A663F5141A78438DC707D4CF21F0F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMC @F41@
+0 @I2194@ INDI
+1 NAME Kayla Lynn /Ash/
+2 GIVN Kayla Lynn
+2 SURN Ash
+1 SEX F
+1 _UID FCCAF267CD87D046929D5E6A9A3E023F9992
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 DEC 1982
+1 FAMC @F1005@
+0 @I2195@ INDI
+1 NAME Lloyd /Deardurff/
+2 GIVN Lloyd
+2 SURN Deardurff
+1 SEX M
+1 _UID B22D028AF79AF6428DD2EB82A384CA6B5C4A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE NOV 1896
+2 PLAC Indiana
+1 DEAT
+2 DATE 28 JAN 1965
+1 FAMS @F789@
+1 FAMC @F476@
+0 @I2197@ INDI
+1 NAME Jonah /Thornton/
+2 GIVN Jonah
+2 SURN Thornton
+1 SEX M
+1 _UID 5CDB4BBDCDEFAF43A78620468F4FBFBDDABE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 DEAT
+2 DATE UNKNOWN
+1 FAMS @F479@
+0 @I2198@ INDI
+1 NAME Thelma /Thornton/
+2 GIVN Thelma
+2 SURN Thornton
+1 SEX F
+1 _UID F11E849E16F5A944AB79D7E34B95CB9D4FDB
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F792@
+1 FAMC @F479@
+0 @I2199@ INDI
+1 NAME Ruby /Thornton/
+2 GIVN Ruby
+2 SURN Thornton
+1 SEX F
+1 _UID 5D9891B4B42B7A4FB378F73EA4D3A52C8AFD
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F793@
+1 FAMC @F479@
+0 @I2200@ INDI
+1 NAME Karl /Thornton/
+2 GIVN Karl
+2 SURN Thornton
+1 SEX M
+1 _UID 246C4F8D2206184384D151B56F0FB678F647
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F794@
+1 FAMC @F479@
+0 @I2201@ INDI
+1 NAME Lorraine /Thornton/
+2 GIVN Lorraine
+2 SURN Thornton
+1 SEX F
+1 _UID ACF002BAF4152F48AFDF8587CCFF76853803
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F795@
+1 FAMC @F479@
+0 @I2202@ INDI
+1 NAME Ralph Stanley /Miller/
+2 GIVN Ralph Stanley
+2 SURN Miller
+1 SEX M
+1 _UID 56D66195B64A8C47BFF9EC1DFB1481A5EB25
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F786@
+0 @I2203@ INDI
+1 NAME Exilda Lucille /Hall/
+2 GIVN Exilda Lucille
+2 SURN Hall
+1 SEX F
+1 _UID C80EFFDA996CDC41B8DBC5D8CAB621A244C8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1 AUG 1887
+2 PLAC Grant Twp., Newton Co., Indiana
+1 DEAT
+2 DATE 27 JUL 1976
+2 PLAC East Grand Forks, Minnesota
+1 FAMS @F787@
+0 @I2204@ INDI
+1 NAME Gertrude Leone /Martin/
+2 GIVN Gertrude Leone
+2 SURN Martin
+1 SEX F
+1 _UID 6FA508150C56A940851FD68E12DC12D054D3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 31 DEC 1907
+2 PLAC Jasper Co., Indiana
+1 DEAT
+2 DATE 24 MAY 1956
+2 PLAC Grand Forks, North Dakota
+1 FAMS @F796@
+1 FAMC @F787@
+0 @I2205@ INDI
+1 NAME Eva LaRue /Martin/
+2 GIVN Eva LaRue
+2 SURN Martin
+1 SEX F
+1 _UID A7B9EAACE5BC0B4FAAFD2BFAED789443F97A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 NOV 1910
+2 PLAC Chester Twp., Grand Forks, North Dakota
+1 FAMS @F797@
+1 FAMC @F787@
+0 @I2206@ INDI
+1 NAME Orpheus J. /Martin/
+2 GIVN Orpheus J.
+2 SURN Martin
+1 SEX M
+1 _UID AB18617014028C45A1D8532C8D3EC6666A9F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 MAY 1913
+2 PLAC Chester Twp., Grand Forks , ND
+1 DEAT
+2 DATE 20 JUL 1975
+2 PLAC Minneapolis, Minnesota-Hennepin Co.
+1 FAMS @F798@
+1 FAMC @F787@
+0 @I2207@ INDI
+1 NAME Robert Blaine /Martin/
+2 GIVN Robert Blaine
+2 SURN Martin
+1 SEX M
+1 _UID 61FF0C1C801F094DBA43DBC52623F963BF6F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 JUL 1917
+2 PLAC Chester Twp., Grand Forks , ND
+1 DEAT
+2 DATE 11 FEB 1989
+2 PLAC Emerado, North Dakota
+1 FAMS @F800@
+1 FAMC @F787@
+0 @I2208@ INDI
+1 NAME Harold LeVerne /Martin/
+2 GIVN Harold LeVerne
+2 SURN Martin
+1 SEX M
+1 _UID 7356BD92CF92894C84E597D1B5C1246F28CA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1 JUL 1920
+2 PLAC Chester Twp., Grand Forks , ND
+1 DEAT
+2 DATE 4 FEB 1970
+2 PLAC Grand Forks, North Dakota
+1 FAMS @F801@
+1 FAMC @F787@
+0 @I2209@ INDI
+1 NAME Gladys /Rude/
+2 GIVN Gladys
+2 SURN Rude
+1 SEX F
+1 _UID F4CC6621D421554192495DECB4D6A421457F
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F788@
+0 @I2210@ INDI
+1 NAME Ruby Aleece /Martin/
+2 GIVN Ruby Aleece
+2 SURN Martin
+1 SEX F
+1 _UID CE48EAC5D8963340A0C7F258347DFE7B8148
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 NOV 1923
+1 FAMS @F802@
+1 FAMC @F788@
+0 @I2211@ INDI
+1 NAME Opal L. /Norris/
+2 GIVN Opal L.
+2 SURN Norris
+1 SEX F
+1 _UID 2F7488F1C2C0C74F8D77131FFE027742A332
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F789@
+0 @I2212@ INDI
+1 NAME Norris /Deardurff/
+2 GIVN Norris
+2 SURN Deardurff
+1 SEX M
+1 _UID 31EE214093039E49AC1D94D87497D63F522D
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F789@
+0 @I2213@ INDI
+1 NAME Richard /Deardurff/
+2 GIVN Richard
+2 SURN Deardurff
+1 SEX M
+1 _UID 98A18C9BFB8A7148ADADDAB46FDDADE5646F
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F789@
+0 @I2214@ INDI
+1 NAME Janet /Deardurff/
+2 GIVN Janet
+2 SURN Deardurff
+1 SEX F
+1 _UID EDA1026E4F32334BA027DDCCB5AE1A675120
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F789@
+0 @I2215@ INDI
+1 NAME Leland /Deardurff/
+2 GIVN Leland
+2 SURN Deardurff
+1 SEX M
+1 _UID BDF3CC2C11112F45999A0DFC537CEFB7EFC8
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F789@
+0 @I2216@ INDI
+1 NAME Myrtle /Tuttle/
+2 GIVN Myrtle
+2 SURN Tuttle
+1 SEX F
+1 _UID 1F1E0D5FDB15614D93FB88686DBD4BC2FCD5
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F790@
+0 @I2217@ INDI
+1 NAME Tom /Deardurff/
+2 GIVN Tom
+2 SURN Deardurff
+1 SEX M
+1 _UID B83149DECCE7204380A826250A750790AF15
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMS @F803@
+1 FAMC @F790@
+0 @I2218@ INDI
+1 NAME Hazel /Maddox/
+2 GIVN Hazel
+2 SURN Maddox
+1 SEX F
+1 _UID B3D5BC7A61E04A4899EDDDF71613DE7567C3
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F791@
+0 @I2219@ INDI
+1 NAME Lester /Quinn/
+2 GIVN Lester
+2 SURN Quinn
+1 SEX M
+1 _UID 1F34AEE0DC16F141B4DB4AB5D1135AFFD0E7
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F792@
+0 @I2220@ INDI
+1 NAME Lester Thornton /Quinn/
+2 GIVN Lester Thornton
+2 SURN Quinn
+1 SEX M
+1 _UID D7C55E227928E14E99CEA81FA3F8E2982F8A
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F792@
+0 @I2221@ INDI
+1 NAME George /Merton/
+2 GIVN George
+2 SURN Merton
+1 SEX M
+1 _UID 06F5271A37073E4E97BF86E2A6957181F173
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F793@
+0 @I2222@ INDI
+1 NAME Girl1 /Merton/
+2 GIVN Girl1
+2 SURN Merton
+1 SEX F
+1 _UID D51952AEFB59BA459123DE486CF6ED208A06
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F793@
+0 @I2223@ INDI
+1 NAME Girl2 /Merton/
+2 GIVN Girl2
+2 SURN Merton
+1 SEX F
+1 _UID D9A22111895D004DA74D2992A07805893577
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F793@
+0 @I2224@ INDI
+1 NAME Girl3? /Merton/
+2 GIVN Girl3?
+2 SURN Merton
+1 SEX F
+1 _UID 729689894007F343B126668631F4BEACE9DF
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F793@
+0 @I2225@ INDI
+1 NAME Girl4? /Merton/
+2 GIVN Girl4?
+2 SURN Merton
+1 SEX F
+1 _UID A0F84990FF7FE244928AFC270A0359853FE0
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F793@
+0 @I2226@ INDI
+1 NAME  /Unknown/
+2 SURN Unknown
+1 SEX F
+1 _UID FCF9439700732B47BEC6324680BCA4A636D0
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F794@
+0 @I2227@ INDI
+1 NAME  /\\Snyder/
+2 SURN \\Snyder
+1 SEX M
+1 _UID 4FF824BE4E1F3446A2ABD43C1B6F26FE1B75
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F795@
+0 @I2228@ INDI
+1 NAME Girl1 /\\Snyder/
+2 GIVN Girl1
+2 SURN \\Snyder
+1 SEX F
+1 _UID FE9D02F8D161814E9EEF6EA6FAD5DBD1B2BF
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F795@
+0 @I2229@ INDI
+1 NAME Girl2 /\\Snyder/
+2 GIVN Girl2
+2 SURN \\Snyder
+1 SEX F
+1 _UID A4459C3D550AD944BE934E684603D57CDF4C
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F795@
+0 @I2230@ INDI
+1 NAME Louis /Valgren/
+2 GIVN Louis
+2 SURN Valgren
+1 SEX M
+1 _UID 2093B7BAAA8AB0489A7D552101DD1413E213
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F796@
+0 @I2231@ INDI
+1 NAME Waldemar /Olson/
+2 GIVN Waldemar
+2 SURN Olson
+1 SEX M
+1 _UID B15FEF8E482A3F4681EE0CE14A8138240779
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 FEB 1907
+2 PLAC Esmond , North Dakota
+1 DEAT
+2 DATE 8 NOV 1993
+2 PLAC Columbia Falls, Montana
+1 FAMS @F797@
+0 @I2232@ INDI
+1 NAME Karen Ann /Olson/
+2 GIVN Karen Ann
+2 SURN Olson
+1 SEX F
+1 _UID 4AD1B174E55E1C4299D8499F566EEC9D8739
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 AUG 1944
+2 PLAC Corpus Christi, Neuces Co., Texas
+1 DEAT
+2 DATE 1 JUL 1995
+2 PLAC Seattle, Washington
+1 FAMS @F804@
+1 FAMC @F797@
+0 @I2233@ INDI
+1 NAME Subarna Bahadur /Malakar/
+2 GIVN Subarna Bahadur
+2 SURN Malakar
+1 SEX M
+1 _UID 962934C8FDBBFE40A294891E694E11126882
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 FEB 1948
+2 PLAC Kali Mali , Nepal
+1 FAMS @F799@
+1 FAMC @F797@
+0 @I2234@ INDI
+1 NAME Irene Annette /Bye/
+2 GIVN Irene Annette
+2 SURN Bye
+1 SEX F
+1 _UID 50BB48D809D05149B58C0A533F16D48DF2BE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 OCT 1912
+1 FAMS @F798@
+0 @I2235@ INDI
+1 NAME James Jay /Martin/
+2 GIVN James Jay
+2 SURN Martin
+1 SEX M
+1 _UID DEEADF2414BBB248AA70BBF756BC3010B2A2
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 11 AUG 1943
+1 FAMS @F805@
+1 FAMS @F806@
+1 FAMC @F798@
+0 @I2236@ INDI
+1 NAME Gerald Lee /Martin/
+2 GIVN Gerald Lee
+2 SURN Martin
+1 SEX M
+1 _UID 83148268E1400A4FBDCAED383A590CEC3242
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 OCT 1946
+1 FAMS @F807@
+1 FAMC @F798@
+0 @I2237@ INDI
+1 NAME Colleen Ray /Martin/
+2 GIVN Colleen Ray
+2 SURN Martin
+1 SEX F
+1 _UID E965C698CE87DE41A7C2A0A8D7DC2E37E982
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 26 JUN 1948
+1 FAMS @F808@
+1 FAMC @F798@
+0 @I2238@ INDI
+1 NAME Roger Allen /Martin/
+2 GIVN Roger Allen
+2 SURN Martin
+1 SEX M
+1 _UID E37840DE142A7844874F1E6E18696BD89954
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 DEC 1949
+1 DEAT
+2 DATE 30 JAN 1987
+1 FAMS @F809@
+1 FAMC @F798@
+0 @I2239@ INDI
+1 NAME Wendy Kay /Martin/
+2 GIVN Wendy Kay
+2 SURN Martin
+1 SEX F
+1 _UID 039A7F2C664A58478779544A4B5FA0850448
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 SEP 1955
+1 FAMS @F811@
+1 FAMS @F810@
+1 FAMC @F798@
+0 @I2240@ INDI
+1 NAME Mabel Rose /Marshall/
+2 GIVN Mabel Rose
+2 SURN Marshall
+1 SEX F
+1 _UID 74F00E253571A44796CC71A0CE696A3470B8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 AUG 1919
+1 FAMS @F800@
+0 @I2241@ INDI
+1 NAME Danny Blaine /Martin/
+2 GIVN Danny Blaine
+2 SURN Martin
+1 SEX M
+1 _UID 65E7DA964AF23748B14C6A3AD02BDAA89546
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 MAY 1939
+1 FAMS @F812@
+1 FAMC @F800@
+0 @I2242@ INDI
+1 NAME Rodney Dennis /Martin/
+2 GIVN Rodney Dennis
+2 SURN Martin
+1 SEX M
+1 _UID 1E4A0F25A6F626499E3AAEB7AA2676CBF54E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 SEP 1940
+1 FAMS @F813@
+1 FAMC @F800@
+0 @I2243@ INDI
+1 NAME Sally Claire /Martin/
+2 GIVN Sally Claire
+2 SURN Martin
+1 SEX F
+1 _UID 95F430C0E4DD9F4B8F498BB274BAF6ED4A0E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 29 MAY 1944
+1 FAMS @F814@
+1 FAMC @F800@
+0 @I2244@ INDI
+1 NAME Lee Roy /Martin/
+2 GIVN Lee Roy
+2 SURN Martin
+1 SEX M
+1 _UID 107AE101008AB4458DD1E524B98BA9F83BE4
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 SEP 1950
+1 FAMS @F815@
+1 FAMC @F800@
+0 @I2245@ INDI
+1 NAME Steven Robert /Martin/
+2 GIVN Steven Robert
+2 SURN Martin
+1 SEX M
+1 _UID D190D50856BCA6479B502B6EB526A4054568
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 MAY 1960
+1 FAMS @F817@
+1 FAMC @F800@
+0 @I2246@ INDI
+1 NAME Edna Katherin /Dahl/
+2 GIVN Edna Katherin
+2 SURN Dahl
+1 SEX F
+1 _UID 4ACC33DF5BCD804DBC8943C0BF38D860941E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 OCT 1920
+1 FAMS @F801@
+0 @I2247@ INDI
+1 NAME Betty Lucille /Martin/
+2 GIVN Betty Lucille
+2 SURN Martin
+1 SEX F
+1 _UID 378948A15AA2F446A7C1941F876339223F2B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 DEC 1940
+1 FAMS @F818@
+1 FAMC @F801@
+0 @I2248@ INDI
+1 NAME Philip Dale /Martin/
+2 GIVN Philip Dale
+2 SURN Martin
+1 SEX M
+1 _UID 270419ADD97DB3419AA0F00BEC1AB8002E1A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 SEP 1942
+1 FAMS @F819@
+1 FAMC @F801@
+0 @I2249@ INDI
+1 NAME Sandra Lee /Martin/
+2 GIVN Sandra Lee
+2 SURN Martin
+1 SEX F
+1 _UID 8DB060FA0866D540AFBD5B0140B26F5C9F80
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 21 OCT 1942
+1 FAMS @F820@
+1 FAMC @F801@
+0 @I2250@ INDI
+1 NAME Jesse Harold /Martin/
+2 GIVN Jesse Harold
+2 SURN Martin
+1 SEX M
+1 _UID 37E19BBFDF40C646B57B0C91652BEDEAD12D
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F821@
+1 FAMC @F801@
+0 @I2251@ INDI
+1 NAME Becky Leone /Martin/
+2 GIVN Becky Leone
+2 SURN Martin
+1 SEX F
+1 _UID A63FAAE36DE9B74D86F75E7C7B717342C4D6
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 NOV 1951
+1 FAMS @F822@
+1 FAMS @F823@
+1 FAMC @F801@
+0 @I2252@ INDI
+1 NAME Roy Louis /Martin/
+2 GIVN Roy Louis
+2 SURN Martin
+1 SEX M
+1 _UID 7A229E7528469B4097F4F1D5682A5026517A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 DEC 1953
+1 FAMS @F824@
+1 FAMC @F801@
+0 @I2253@ INDI
+1 NAME Harold E. /Rusk/
+2 GIVN Harold E.
+2 SURN Rusk
+1 SEX M
+1 _UID 8975886CB51714489BEDBD52CD5938394863
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 JAN 1920
+1 DEAT
+2 DATE NOV 1991
+1 FAMS @F802@
+0 @I2254@ INDI
+1 NAME Myrna Eileen /Rusk/
+2 GIVN Myrna Eileen
+2 SURN Rusk
+1 SEX F
+1 _UID 7B0608045DF6734E81DD52AFD670F5CA059E
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F802@
+0 @I2255@ INDI
+1 NAME Nancy Carol /Rusk/
+2 GIVN Nancy Carol
+2 SURN Rusk
+1 SEX F
+1 _UID E068DF2B264E6F42B9EBDB9B61C3C777F373
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 AUG 1945
+1 FAMS @F825@
+1 FAMC @F802@
+0 @I2256@ INDI
+1 NAME Harold Larry /Rusk/
+2 GIVN Harold Larry
+2 SURN Rusk
+1 SEX M
+1 _UID 06945148A517674AB6B0CD03BFEE1153E713
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 DEC 1947
+1 FAMC @F802@
+0 @I2257@ INDI
+1 NAME Thomas Lynn /Rusk/
+2 GIVN Thomas Lynn
+2 SURN Rusk
+1 SEX M
+1 _UID 85ABD2F1A5506C48AB60653E89DA5686896A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 SEP 1948
+1 FAMS @F826@
+1 FAMS @F827@
+1 FAMC @F802@
+0 @I2258@ INDI
+1 NAME Aloneda Linda /Douglas/
+2 GIVN Aloneda Linda
+2 SURN Douglas
+1 SEX F
+1 _UID 20BBB95D72F692428DE2EA60E27DA96F5D6E
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F803@
+0 @I2259@ INDI
+1 NAME Bryan /Deardurff/
+2 GIVN Bryan
+2 SURN Deardurff
+1 SEX M
+1 _UID 6789A9014A48794D8FB520791094C06A9D2F
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F803@
+0 @I2260@ INDI
+1 NAME Nancy /Deardurff/
+2 GIVN Nancy
+2 SURN Deardurff
+1 SEX F
+1 _UID AB57565164A34C4DA994F6E4122844C09E8C
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F828@
+1 FAMC @F803@
+0 @I2261@ INDI
+1 NAME Sandra /Deardurff/
+2 GIVN Sandra
+2 SURN Deardurff
+1 SEX F
+1 _UID 5B6D586103BFCC41A4461203FB93042102BD
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F829@
+1 FAMC @F803@
+0 @I2262@ INDI
+1 NAME Leland /Deardurff/
+2 GIVN Leland
+2 SURN Deardurff
+1 SEX M
+1 _UID EFED5EF64062404CAE5F9FE296EC58440A14
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F803@
+0 @I2263@ INDI
+1 NAME John Alva /Kent/
+2 GIVN John Alva
+2 SURN Kent
+1 SEX M
+1 _UID 3EA790FAC3FF2A4C9243794FE069514E2C15
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 JUL 1944
+1 FAMS @F804@
+0 @I2264@ INDI
+1 NAME Christopher Lee /Kent/
+2 GIVN Christopher Lee
+2 SURN Kent
+1 SEX M
+1 _UID B2A8B47968C6C54EA0669D6CDDAF73D7AD99
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 DEC 1966
+1 FAMC @F804@
+0 @I2265@ INDI
+1 NAME Faith Bernadette /Kent/
+2 GIVN Faith Bernadette
+2 SURN Kent
+1 SEX F
+1 _UID 514C6CB54FDEC747A8229067BA3753EAE8CE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 AUG 1968
+1 FAMS @F830@
+1 FAMC @F804@
+0 @I2266@ INDI
+1 NAME  /Pramila/
+2 SURN Pramila
+1 SEX F
+1 _UID 08BE95B96E7A784B9D00037361BA2DFD1728
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 MAR 1960
+2 PLAC Katmandu, Nepal
+1 FAMS @F799@
+0 @I2267@ INDI
+1 NAME Suresh /Malakar/
+2 GIVN Suresh
+2 SURN Malakar
+1 SEX F
+1 _UID C69763193783C747A96696C1699DB30ACAA8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1 AUG 1982
+1 FAMC @F799@
+0 @I2268@ INDI
+1 NAME Asha /Malakar/
+2 GIVN Asha
+2 SURN Malakar
+1 SEX F
+1 _UID 2FB60AFD79731740BB45AEE4E6A8051468B3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 DEC 1984
+1 FAMC @F799@
+0 @I2269@ INDI
+1 NAME Sheela /Malakar/
+2 GIVN Sheela
+2 SURN Malakar
+1 SEX F
+1 _UID A8A5B9E74433EB498DD0F635872C81DE3289
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 DEC 1984
+1 FAMC @F799@
+0 @I2270@ INDI
+1 NAME Judy /Maddox/
+2 GIVN Judy
+2 SURN Maddox
+1 SEX F
+1 _UID 887DDAF84512A64A86B731A70497EB5C1510
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 11 DEC 1944
+1 FAMS @F805@
+0 @I2271@ INDI
+1 NAME Jill Marie /Martin/
+2 GIVN Jill Marie
+2 SURN Martin
+1 SEX F
+1 _UID 24DA0E53E6B681439301530413FBB976E7CA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 APR 1968
+1 FAMS @F831@
+1 FAMC @F805@
+0 @I2272@ INDI
+1 NAME Beth Noelle /Martin/
+2 GIVN Beth Noelle
+2 SURN Martin
+1 SEX F
+1 _UID 525DDC056023B843AFAB0D80F23545EB4C37
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 26 DEC 1971
+1 FAMS @F832@
+1 FAMC @F805@
+0 @I2273@ INDI
+1 NAME Katie Joanne /Martin/
+2 GIVN Katie Joanne
+2 SURN Martin
+1 SEX F
+1 _UID F67662075AEF004287579A131A5E2EA839EA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 JUL 1974
+1 FAMS @F833@
+1 FAMC @F805@
+0 @I2274@ INDI
+1 NAME Callie /Martin/
+2 GIVN Callie
+2 SURN Martin
+1 SEX F
+1 _UID AAD2017D9A84BA4ABDD4639863896B4E4D60
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F805@
+0 @I2275@ INDI
+1 NAME Danny /Martin/
+2 GIVN Danny
+2 SURN Martin
+1 SEX M
+1 _UID 86C2F8786ABC474D883114CFB140D59468C9
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F805@
+0 @I2276@ INDI
+1 NAME Mickie Rose /Cook/
+2 GIVN Mickie Rose
+2 SURN Cook
+1 SEX F
+1 _UID A272C1A20BC3C34BA38CAEA76C289DD8E039
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 SEP 1952
+1 FAMS @F806@
+0 @I2277@ INDI
+1 NAME Kathryn Evelyn /Brister/
+2 GIVN Kathryn Evelyn
+2 SURN Brister
+1 SEX F
+1 _UID A079625F6DE1B2479D32C463AE82D40F2A42
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 NOV 1949
+1 FAMS @F807@
+0 @I2278@ INDI
+1 NAME Yvette Christine /Martin/
+2 GIVN Yvette Christine
+2 SURN Martin
+1 SEX F
+1 _UID 76F9279F07B7714792DC5D1540037ABD052B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 21 AUG 1973
+1 FAMS @F834@
+1 FAMC @F807@
+0 @I2279@ INDI
+1 NAME Ryan Brister /Martin/
+2 GIVN Ryan Brister
+2 SURN Martin
+1 SEX M
+1 _UID F723EF93AA98B746AC079E07A75C3E52C608
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 JUL 1977
+1 FAMC @F807@
+0 @I2280@ INDI
+1 NAME James Edgar /Floyd/
+2 GIVN James Edgar
+2 SURN Floyd
+1 SEX M
+1 _UID 532E05ED567F0E4DB5059781B8EC1DC1F768
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 MAY 1947
+1 FAMS @F808@
+0 @I2281@ INDI
+1 NAME Crystal Marie /Floyd/
+2 GIVN Crystal Marie
+2 SURN Floyd
+1 SEX F
+1 _UID 6C68874B28DBC2428B297517B37B47399BE4
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 26 JUN 1969
+1 FAMC @F808@
+0 @I2282@ INDI
+1 NAME Mark Jason /Floyd/
+2 GIVN Mark Jason
+2 SURN Floyd
+1 SEX M
+1 _UID D8266D3C96E2494AA3DE0EF5F75595354C6F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 JAN 1975
+1 FAMC @F808@
+0 @I2283@ INDI
+1 NAME Karen Beth /Norby/
+2 GIVN Karen Beth
+2 SURN Norby
+1 SEX F
+1 _UID 460FD098C1C24B4F85C9566E4863C3AA04BA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 JUN 1951
+1 FAMS @F809@
+0 @I2284@ INDI
+1 NAME Angie Louise /Martin/
+2 GIVN Angie Louise
+2 SURN Martin
+1 SEX F
+1 _UID D00D55626338CE438F0332C722487812BFD4
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 FEB 1976
+1 FAMC @F809@
+0 @I2285@ INDI
+1 NAME Brandon Allen /Martin/
+2 GIVN Brandon Allen
+2 SURN Martin
+1 SEX M
+1 _UID 1810409135758845A803CA8C01034EFDC000
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 OCT 1978
+1 FAMC @F809@
+0 @I2286@ INDI
+1 NAME Douglas James /Stine/
+2 GIVN Douglas James
+2 SURN Stine
+1 SEX M
+1 _UID 3EB331E0EDF2FE4BA69F443AA3805758BFD1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 MAY 1953
+1 FAMS @F810@
+0 @I2287@ INDI
+1 NAME Jason Edward /Stine/
+2 GIVN Jason Edward
+2 SURN Stine
+1 SEX M
+1 _UID 0F24167CFE90D74592C9B6C39BEFA384F49C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 MAY 1976
+1 FAMC @F810@
+0 @I2288@ INDI
+1 NAME Leah Irene /Stine/
+2 GIVN Leah Irene
+2 SURN Stine
+1 SEX F
+1 _UID BF3FFB701135414D8967EBC3DF91F7FD3FE1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 DEC 1978
+1 FAMC @F810@
+0 @I2289@ INDI
+1 NAME Knute John /Brekke/
+2 GIVN Knute John
+2 SURN Brekke
+1 SEX M
+1 _UID E2B86489FC8A964798C280556C604EBCEF4D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 OCT 1961
+1 FAMS @F811@
+0 @I2290@ INDI
+1 NAME Janice /Holweger/
+2 GIVN Janice
+2 SURN Holweger
+1 SEX F
+1 _UID 5A4A7C26C09F1244B6AF789BB9A17891D631
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 MAR 1939
+1 FAMS @F812@
+0 @I2291@ INDI
+1 NAME Matthew Blaine /Martin/
+2 GIVN Matthew Blaine
+2 SURN Martin
+1 SEX M
+1 _UID 2E300876253C834E8A89512B6C0AC029FC8D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 FEB 1974
+1 FAMC @F812@
+0 @I2292@ INDI
+1 NAME Nicole Erin /Martin/
+2 GIVN Nicole Erin
+2 SURN Martin
+1 SEX F
+1 _UID DC5F4DFCA03CB24693E43D6F49F37D81B5B6
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 NOV 1974
+1 FAMC @F812@
+0 @I2293@ INDI
+1 NAME Merry Rose /Martin/
+2 GIVN Merry Rose
+2 SURN Martin
+1 SEX F
+1 _UID E22646628182F74A98621C356B4AF0B99D4C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 DEC 1976
+1 FAMC @F812@
+0 @I2294@ INDI
+1 NAME Helga Maria /Hollemeyer/
+2 GIVN Helga Maria
+2 SURN Hollemeyer
+1 SEX F
+1 _UID 3679CF90B66CD24FBC8376AE6EE60FC6DD2D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE OCT 1946
+1 FAMS @F813@
+0 @I2295@ INDI
+1 NAME Maria Teressa /Martin/
+2 GIVN Maria Teressa
+2 SURN Martin
+1 SEX F
+1 _UID 67BB44D477EC4B4896D429ACDABD94DF7983
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 11 NOV 1969
+1 FAMS @F836@
+1 FAMC @F813@
+0 @I2296@ INDI
+1 NAME Michael Rodney /Martin/
+2 GIVN Michael Rodney
+2 SURN Martin
+1 SEX M
+1 _UID 45A3F4E6B2E0C747B83BE50D8DE3DEE57A9A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 21 AUG 1972
+1 FAMC @F813@
+0 @I2297@ INDI
+1 NAME Marlin Leroy /Jacobson/
+2 GIVN Marlin Leroy
+2 SURN Jacobson
+1 SEX M
+1 _UID 4A5B60D146C4984FB0D97C89301453A8948B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 2 DEC 1940
+1 FAMS @F814@
+0 @I2298@ INDI
+1 NAME Robert Wesley /Jacobson/
+2 GIVN Robert Wesley
+2 SURN Jacobson
+1 SEX M
+1 _UID 60121F76BE70594FA2E51626F29D0AE21BE1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 FEB 1965
+1 FAMS @F837@
+1 FAMC @F814@
+0 @I2299@ INDI
+1 NAME Wesley Blaine /Jacobson/
+2 GIVN Wesley Blaine
+2 SURN Jacobson
+1 SEX M
+1 _UID 33B83B0F610FF94688583C2CC25632F96FA9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 JUN 1975
+1 FAMC @F814@
+0 @I2300@ INDI
+1 NAME Kathleen Claire /Jacobson/
+2 GIVN Kathleen Claire
+2 SURN Jacobson
+1 SEX F
+1 _UID 8D6F543E908E1F41A416A321BB98BC9A335F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 31 DEC 1977
+1 FAMC @F814@
+0 @I2301@ INDI
+1 NAME Wanda Lee /Kristjanson/
+2 GIVN Wanda Lee
+2 SURN Kristjanson
+1 SEX F
+1 _UID FC17A1329A2F4E4789DBA0834CFAE5F3E9A8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 APR 1949
+1 FAMS @F815@
+0 @I2304@ INDI
+1 NAME William Thomas /Kristjanson/
+2 GIVN William Thomas
+2 SURN Kristjanson
+1 SEX M
+1 _UID B1BF3DA0A62FB64F99F299578D6184CDE142
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 APR 1971
+1 FAMC @F815@
+0 @I2305@ INDI
+1 NAME Sarah Susan /Martin/
+2 GIVN Sarah Susan
+2 SURN Martin
+1 SEX F
+1 _UID C8C016B07EBCAD4998836B4AD4A3A3329A2D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 NOV 1978
+1 FAMC @F815@
+0 @I2306@ INDI
+1 NAME Roger Lee /Martin/
+2 GIVN Roger Lee
+2 SURN Martin
+1 SEX M
+1 _UID 4CD82DF65F54D840BCA6B64D52863EC9566A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 AUG 1987
+1 FAMC @F815@
+0 @I2307@ INDI
+1 NAME Barbara /O'Connell/
+2 GIVN Barbara
+2 SURN O'Connell
+1 SEX F
+1 _UID 499A9C3FA483CF4FB76962C02EBD5077F728
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 JAN 1959
+1 FAMS @F817@
+0 @I2308@ INDI
+1 NAME Rebecca Ann /Martin/
+2 GIVN Rebecca Ann
+2 SURN Martin
+1 SEX F
+1 _UID D9184ABE5C7AB24AA97CBB1CE0FC76536C13
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 APR 1992
+1 FAMC @F817@
+0 @I2309@ INDI
+1 NAME Joseph Robert /Martin/
+2 GIVN Joseph Robert
+2 SURN Martin
+1 SEX M
+1 _UID 985BBBABEE5BCE40BD93D264E4E1DA2B00FA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 JUL 1995
+1 FAMC @F817@
+0 @I2310@ INDI
+1 NAME Bruce Irving /Holten/
+2 GIVN Bruce Irving
+2 SURN Holten
+1 SEX M
+1 _UID 9562F839CFCF334EA77DC6E5CFEDBC6CFA7F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 AUG 1937
+1 FAMS @F818@
+0 @I2311@ INDI
+1 NAME Tate Irving /Holten/
+2 GIVN Tate Irving
+2 SURN Holten
+1 SEX M
+1 _UID 913A7FECE90E1B4B86427DDAF3BF5720DBA0
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 JUL 1960
+1 FAMS @F838@
+1 FAMS @F839@
+1 FAMC @F818@
+0 @I2312@ INDI
+1 NAME Hope Renee /Holten/
+2 GIVN Hope Renee
+2 SURN Holten
+1 SEX F
+1 _UID CAD251CD284A2549B5C526D0CF259848DEF8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 AUG 1965
+1 FAMS @F840@
+1 FAMC @F818@
+0 @I2313@ INDI
+1 NAME Stacey Leone /Holten/
+2 GIVN Stacey Leone
+2 SURN Holten
+1 SEX F
+1 _UID 5EC553461CC26948B6A0F5739731D0F6975D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 JAN 1971
+1 FAMC @F818@
+0 @I2314@ INDI
+1 NAME Desiree Darlene /Holten/
+2 GIVN Desiree Darlene
+2 SURN Holten
+1 SEX F
+1 _UID 1F9272006A5E354CA6DA026C1AC43A4ABC3A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 JUN 1974
+1 FAMC @F818@
+0 @I2315@ INDI
+1 NAME Gloria /Braten/
+2 GIVN Gloria
+2 SURN Braten
+1 SEX F
+1 _UID C304CF6CCF3B5148AD4DBCB1382C821C0E0D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 2 AUG 1942
+1 FAMS @F819@
+0 @I2316@ INDI
+1 NAME Kevin Dale /Martin/
+2 GIVN Kevin Dale
+2 SURN Martin
+1 SEX M
+1 _UID 792BB97FE9682E4288FEA7EFCB7810DCE87F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 MAR 1961
+1 FAMS @F841@
+1 FAMS @F842@
+1 FAMC @F819@
+0 @I2317@ INDI
+1 NAME Lowell /Lawrence/
+2 GIVN Lowell
+2 SURN Lawrence
+1 SEX M
+1 _UID 95AF8632EA066545A2232A4F528E82BFF549
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 JUL 1941
+1 FAMS @F820@
+0 @I2318@ INDI
+1 NAME Troy Edwin /Lawrence/
+2 GIVN Troy Edwin
+2 SURN Lawrence
+1 SEX M
+1 _UID 09918EA774C51A40B0722907B0C0D3534A29
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 29 MAR 1967
+1 FAMC @F820@
+0 @I2319@ INDI
+1 NAME Lesley Katherine /Lawrence/
+2 GIVN Lesley Katherine
+2 SURN Lawrence
+1 SEX F
+1 _UID 8997E39720D38E40A3396CA9FA6063CCD5F1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 AUG 1968
+1 FAMS @F843@
+1 FAMC @F820@
+0 @I2320@ INDI
+1 NAME Rebecca Kari /Lawrence/
+2 GIVN Rebecca Kari
+2 SURN Lawrence
+1 SEX F
+1 _UID DAEE8690788493428B5166B4BCE173DB905D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 JAN 1972
+1 FAMS @F844@
+1 FAMC @F820@
+0 @I2321@ INDI
+1 NAME Tanya Danielle /Lawrence/
+2 GIVN Tanya Danielle
+2 SURN Lawrence
+1 SEX F
+1 _UID F75678FDF7EC6F4D877AECC6829CAE06E6D8
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F820@
+0 @I2322@ INDI
+1 NAME Darlene Rene /Tveton/
+2 GIVN Darlene Rene
+2 SURN Tveton
+1 SEX F
+1 _UID 5ECD3FBEC9A2D64A807B30FBA4AC56A5249C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 20 NOV 1947
+1 FAMS @F821@
+0 @I2323@ INDI
+1 NAME Juna Michelle /Genrich/
+2 GIVN Juna Michelle
+2 SURN Genrich
+1 SEX F
+1 _UID 73EEC8326C0B454E8A588ED9D59914EA1A0F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 SEP 1965
+1 FAMC @F821@
+0 @I2324@ INDI
+1 NAME Jodi Lynn /Genrich/
+2 GIVN Jodi Lynn
+2 SURN Genrich
+1 SEX F
+1 _UID 1B54D4B59E0F78489F6A3DC1C8F7F698B944
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 21 DEC 1967
+1 FAMS @F845@
+1 FAMC @F821@
+0 @I2325@ INDI
+1 NAME Lonnie Lee /Hagen/
+2 GIVN Lonnie Lee
+2 SURN Hagen
+1 SEX M
+1 _UID 424F3496FF4CE748B6FD25073F9E0AC8634B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 20 MAR 1947
+1 FAMS @F822@
+0 @I2326@ INDI
+1 NAME Timothy Darrell /Hagen/
+2 GIVN Timothy Darrell
+2 SURN Hagen
+1 SEX M
+1 _UID ED110AFBB3DC234A9F86EC9212191AD4BB89
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 AUG 1970
+1 FAMS @F835@
+1 FAMC @F822@
+0 @I2327@ INDI
+1 NAME John /Krkosa/
+2 GIVN John
+2 SURN Krkosa
+1 SEX M
+1 _UID 528DADF0593DAD41B87536143D71812CD2EF
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 DEC 1942
+1 FAMS @F823@
+0 @I2328@ INDI
+1 NAME Stephanie Arlene /Krkosa/
+2 GIVN Stephanie Arlene
+2 SURN Krkosa
+1 SEX F
+1 _UID D4F08DBFEAB48F4A97044B35AF276BDEC121
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 OCT 1978
+1 FAMC @F823@
+0 @I2329@ INDI
+1 NAME Anthony John /Krkosa/
+2 GIVN Anthony John
+2 SURN Krkosa
+1 SEX M
+1 _UID CE5D7B5A65D48B41B56DACAD2894451FA03F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 11 AUG 1987
+1 FAMC @F823@
+0 @I2330@ INDI
+1 NAME Pamilla June /Ydstie/
+2 GIVN Pamilla June
+2 SURN Ydstie
+1 SEX F
+1 _UID AF275DD8F400164E9650E61FE210AE120056
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 DEC 1953
+1 FAMS @F824@
+0 @I2331@ INDI
+1 NAME Melissa Jane /Genrich/
+2 GIVN Melissa Jane
+2 SURN Genrich
+1 SEX F
+1 _UID 4433166ADBF8E04485F1FC2FE10FED53BF53
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 JAN 1974
+1 FAMC @F824@
+0 @I2332@ INDI
+1 NAME Melanie Jean /Genrich/
+2 GIVN Melanie Jean
+2 SURN Genrich
+1 SEX F
+1 _UID 925C30BC57F0DE40A38E3526DB255BC3E94A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 MAY 1976
+1 FAMC @F824@
+0 @I2333@ INDI
+1 NAME Kimberly Rae /Genrich/
+2 GIVN Kimberly Rae
+2 SURN Genrich
+1 SEX F
+1 _UID 2261BB3124E9A240AE86BC166FD1F2C15791
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 2 OCT 1978
+1 FAMC @F824@
+0 @I2334@ INDI
+1 NAME Mathew Roy /Genrich/
+2 GIVN Mathew Roy
+2 SURN Genrich
+1 SEX M
+1 _UID 55CEE3A58513414FBBBDD713209D71A104D1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 JUL 1982
+1 FAMC @F824@
+0 @I2335@ INDI
+1 NAME Michael Ross /Genrich/
+2 GIVN Michael Ross
+2 SURN Genrich
+1 SEX M
+1 _UID 48CB12A300656E4AB243B7D9CB85B463D157
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 JUL 1982
+1 FAMC @F824@
+0 @I2336@ INDI
+1 NAME James William /Denham/
+2 GIVN James William
+2 SURN Denham
+1 SEX M
+1 _UID 0FDCEFBC0D4DFD4E9FC14E3613F95536B635
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 DEC 1946
+1 FAMS @F825@
+0 @I2337@ INDI
+1 NAME Eric Dean /Denham/
+2 GIVN Eric Dean
+2 SURN Denham
+1 SEX M
+1 _UID 22ED211370D6A64690066E4E24ECEEDCA1FC
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 AUG 1967
+1 FAMC @F825@
+0 @I2338@ INDI
+1 NAME Steven Martin /Denham/
+2 GIVN Steven Martin
+2 SURN Denham
+1 SEX M
+1 _UID D9816899E6E5CF4FB1A7282DF1912646DF03
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 AUG 1972
+1 FAMS @F846@
+1 FAMC @F825@
+0 @I2339@ INDI
+1 NAME Sandra /Wilder/
+2 GIVN Sandra
+2 SURN Wilder
+1 SEX F
+1 _UID FA5EDE428A4CBD4DA411A79BB1E8C6DC8ADF
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F826@
+0 @I2340@ INDI
+1 NAME Teresa Lynn /Rusk/
+2 GIVN Teresa Lynn
+2 SURN Rusk
+1 SEX F
+1 _UID 3C68E87634EF9C45A53B9D4543D3EC713B5A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 SEP 1968
+1 FAMS @F847@
+1 FAMC @F826@
+0 @I2341@ INDI
+1 NAME Tina Marie /Rusk/
+2 GIVN Tina Marie
+2 SURN Rusk
+1 SEX F
+1 _UID 0551A30F82C7AA419DF06906EAD246457F49
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 MAY 1971
+1 FAMS @F848@
+1 FAMC @F826@
+0 @I2342@ INDI
+1 NAME Beverly /Muthig/
+2 GIVN Beverly
+2 SURN Muthig
+1 SEX F
+1 _UID F5550427DF5C1B4AB850251884324B74CF84
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 JUN 1954
+1 FAMS @F827@
+0 @I2343@ INDI
+1 NAME Christopher Lee Price /Rusk/
+2 GIVN Christopher Lee Price
+2 SURN Rusk
+1 SEX M
+1 _UID CCC9A0F4AAEC354E90364EF3ED9D6C205FA7
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE DEC 1970
+1 FAMS @F849@
+1 FAMC @F827@
+0 @I2344@ INDI
+1 NAME Thomas Lynn Jr /Rusk/
+2 GIVN Thomas Lynn Jr
+2 SURN Rusk
+1 SEX M
+1 _UID CE379968BCFDCF479DF6CF30BA5F51FDCE13
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 JAN 1973
+1 FAMC @F827@
+0 @I2345@ INDI
+1 NAME Mary Elizabeth /Rusk/
+2 GIVN Mary Elizabeth
+2 SURN Rusk
+1 SEX F
+1 _UID 838D8F14BC504B4B8121CE6349276AD6D80F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 JUL 1978
+1 FAMC @F827@
+0 @I2346@ INDI
+1 NAME Lou Ann /Rusk/
+2 GIVN Lou Ann
+2 SURN Rusk
+1 SEX F
+1 _UID CC24F5E7122F254390C0D492E0CD0DB89DF2
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 MAR 1980
+1 FAMC @F827@
+0 @I2347@ INDI
+1 NAME  /\\Neibert/
+2 SURN \\Neibert
+1 SEX M
+1 _UID 11A7935E6DEE674D9665ABC77F9A988A6096
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F828@
+0 @I2348@ INDI
+1 NAME  /\\Lowry/
+2 SURN \\Lowry
+1 SEX M
+1 _UID 2F2891DC96FF3F43B90956974B2281138BD5
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F829@
+0 @I2349@ INDI
+1 NAME Jody Wayne /Vigus/
+2 GIVN Jody Wayne
+2 SURN Vigus
+1 SEX M
+1 _UID 91BFAB0D592E234D8645EE651497CFDF76AF
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F830@
+0 @I2350@ INDI
+1 NAME Jeffrey /Trevine/
+2 GIVN Jeffrey
+2 SURN Trevine
+1 SEX M
+1 _UID 6B4BDBAAD861F84489D53C5FBA8DFC735F68
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 MAY 1970
+1 FAMS @F831@
+0 @I2351@ INDI
+1 NAME Nicolus Fisk /Trevine/
+2 GIVN Nicolus Fisk
+2 SURN Trevine
+1 SEX M
+1 _UID 22CFFCFFD2534546A20407C7BC6509CC06C3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 MAY 1988
+1 FAMC @F831@
+0 @I2352@ INDI
+1 NAME  /\\Johnson/
+2 SURN \\Johnson
+1 SEX M
+1 _UID 189A5DA689BC3345A311C9C662F001262E98
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F832@
+0 @I2353@ INDI
+1 NAME Stephanie Jill /Johnson/
+2 GIVN Stephanie Jill
+2 SURN Johnson
+1 SEX F
+1 _UID 2656C5C661F27948B608D54C525CDABE40A2
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 JUL 1991
+1 FAMC @F832@
+0 @I2354@ INDI
+1 NAME Michael /Martin/
+2 GIVN Michael
+2 SURN Martin
+1 SEX M
+1 _UID 491BCF102FC55C4C8E668192AB9B9F592464
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 APR 1993
+1 FAMC @F833@
+0 @I2355@ INDI
+1 NAME Bradley John /Hopping/
+2 GIVN Bradley John
+2 SURN Hopping
+1 SEX M
+1 _UID AADD0934587484418207340F23C0637EE516
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE MAY 1970
+1 FAMS @F834@
+0 @I2356@ INDI
+1 NAME Todd /Freking/
+2 GIVN Todd
+2 SURN Freking
+1 SEX M
+1 _UID 9F82FD3D9D132D46AD4B4CFB1113E75C24AD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE ABT 28 APR 1968
+1 FAMS @F836@
+0 @I2357@ INDI
+1 NAME Natalie Jayne /Freking/
+2 GIVN Natalie Jayne
+2 SURN Freking
+1 SEX F
+1 _UID D7BD65F16C967A4F90844B40981B03091331
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 APR 1995
+1 FAMC @F836@
+0 @I2358@ INDI
+1 NAME Kimberly /Prudhome/
+2 GIVN Kimberly
+2 SURN Prudhome
+1 SEX F
+1 _UID 311D5579B58699479BB630431F56739E8188
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 MAR 1965
+1 FAMS @F837@
+0 @I2359@ INDI
+1 NAME Natalie Elizabeth /Jacobson/
+2 GIVN Natalie Elizabeth
+2 SURN Jacobson
+1 SEX F
+1 _UID D57B8CB033BDD2469B1E1E87CD63CD3E2D80
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 DEC 1994
+1 FAMC @F837@
+0 @I2360@ INDI
+1 NAME Martel Sheree /Jacobson/
+2 GIVN Martel Sheree
+2 SURN Jacobson
+1 SEX F
+1 _UID 2DFDA43D711F64498B0B1694DF4BDE17A70B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 DEC 1994
+1 FAMC @F837@
+0 @I2361@ INDI
+1 NAME Sydney /Jacobson/
+2 GIVN Sydney
+2 SURN Jacobson
+1 SEX F
+1 _UID 8FD651EE0A1E2E489CC76EEFA6B2DCD40ADE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 DEC 1995
+1 FAMC @F837@
+0 @I2362@ INDI
+1 NAME Melody Dawn /Davis/
+2 GIVN Melody Dawn
+2 SURN Davis
+1 SEX F
+1 _UID 37A5016ED421E64A805B76F7DDC0B855623D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 JAN 1960
+1 FAMS @F838@
+0 @I2363@ INDI
+1 NAME Amber Dawn /Holten/
+2 GIVN Amber Dawn
+2 SURN Holten
+1 SEX F
+1 _UID CC44044D7D907941B5C65301F9D1AF62D20C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 OCT 1979
+1 FAMC @F838@
+0 @I2364@ INDI
+1 NAME Christopher Bruce /Holten/
+2 GIVN Christopher Bruce
+2 SURN Holten
+1 SEX M
+1 _UID 95248AA096D990419A129335D249D7F17AE7
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 31 JUL 1981
+1 FAMC @F838@
+0 @I2365@ INDI
+1 NAME Colleen /Johnson/
+2 GIVN Colleen
+2 SURN Johnson
+1 SEX F
+1 _UID FC9E32C101F85049B0081F5FDB9DFF6B37E9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 MAY 1961
+1 FAMS @F839@
+0 @I2366@ INDI
+1 NAME Cassie Elizabeth /Holten/
+2 GIVN Cassie Elizabeth
+2 SURN Holten
+1 SEX F
+1 _UID EA628D6B6F2A094ABDC350744D727EEC9D4C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 MAR 1991
+1 FAMC @F839@
+0 @I2367@ INDI
+1 NAME Charles Marvin /Brown/
+2 GIVN Charles Marvin
+2 SURN Brown
+1 SEX M
+1 _UID D3370392A5AA0A48BE7FF40F10E7674B296D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 JUL 1963
+1 FAMS @F840@
+0 @I2368@ INDI
+1 NAME Andrew Charles /Brown/
+2 GIVN Andrew Charles
+2 SURN Brown
+1 SEX M
+1 _UID 7FDA4190A5269040BD814C387D67ABBFD55F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 SEP 1986
+1 FAMC @F840@
+0 @I2369@ INDI
+1 NAME Adam Harold /Brown/
+2 GIVN Adam Harold
+2 SURN Brown
+1 SEX M
+1 _UID 05355E3A1EC76F4A84B97B20459A4342ACC1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 MAY 1988
+1 FAMC @F840@
+0 @I2370@ INDI
+1 NAME CherylJoan /Broulette/
+2 GIVN CherylJoan
+2 SURN Broulette
+1 SEX F
+1 _UID 6E65ED270774D34DA99A64FE804ADB00CC5F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 NOV 1962
+1 FAMS @F841@
+0 @I2371@ INDI
+1 NAME Rhonda Kay /Tufte/
+2 GIVN Rhonda Kay
+2 SURN Tufte
+1 SEX F
+1 _UID C30975BF3ACB4A48A80DC8A9D51FAE319083
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 OCT 1961
+1 FAMS @F842@
+0 @I2372@ INDI
+1 NAME Whitney Leigh /Martin/
+2 GIVN Whitney Leigh
+2 SURN Martin
+1 SEX F
+1 _UID 6A3826BC62F79A43B3CE28734B78B691E016
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 SEP 1989
+1 FAMC @F842@
+0 @I2373@ INDI
+1 NAME Cassandra Kay /Martin/
+2 GIVN Cassandra Kay
+2 SURN Martin
+1 SEX F
+1 _UID 5122862998203243B7DCA4FBF1C688894970
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 JUL 1991
+1 FAMC @F842@
+0 @I2374@ INDI
+1 NAME Brooks Joselyn /Martin/
+2 GIVN Brooks Joselyn
+2 SURN Martin
+1 SEX F
+1 _UID 1A27A1A8EAED8545A9A89B9E24CA82476CD6
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 MAR 1994
+1 FAMC @F842@
+0 @I2375@ INDI
+1 NAME Brandon Forest /Schroeder/
+2 GIVN Brandon Forest
+2 SURN Schroeder
+1 SEX M
+1 _UID 88A50596697B70479A6C6B593499EE4E36EB
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 OCT 1970
+1 FAMS @F843@
+0 @I2376@ INDI
+1 NAME Mark /Robinson/
+2 GIVN Mark
+2 SURN Robinson
+1 SEX M
+1 _UID 1762F70558B25B448BEDA079352ECF14F5A9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 OCT 1966
+1 FAMS @F844@
+0 @I2377@ INDI
+1 NAME Amy Marie /Robinson/
+2 GIVN Amy Marie
+2 SURN Robinson
+1 SEX F
+1 _UID F61A083A817F734F9F9A875765A04448BC5D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 MAY 1994
+1 FAMC @F844@
+0 @I2378@ INDI
+1 NAME Bradley Eugene /Moore/
+2 GIVN Bradley Eugene
+2 SURN Moore
+1 SEX M
+1 _UID 06F42A89AB291F409ACE98F7749F53A5E2F7
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 OCT 1967
+1 FAMS @F845@
+0 @I2379@ INDI
+1 NAME Brittany Marie /Moore/
+2 GIVN Brittany Marie
+2 SURN Moore
+1 SEX F
+1 _UID 082A216904C8BF4D88C0EAC5BFE424B30584
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 NOV 1993
+1 FAMC @F845@
+0 @I2380@ INDI
+1 NAME Marcella Lynn /Naff/
+2 GIVN Marcella Lynn
+2 SURN Naff
+1 SEX F
+1 _UID CC4EBF5D2061ED488162C91990A96286D260
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 11 FEB 1974
+1 FAMS @F835@
+0 @I2381@ INDI
+1 NAME Rylee Kate /Krkosa/
+2 GIVN Rylee Kate
+2 SURN Krkosa
+1 SEX F
+1 _UID 59DBB1AE2010244EBD1A23AD296AA77F95BF
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMC @F835@
+0 @I2382@ INDI
+1 NAME Katie /Comer/
+2 GIVN Katie
+2 SURN Comer
+1 SEX F
+1 _UID C95EAF40BFB8094E8BD6C28AEEC1115AABBF
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F846@
+0 @I2383@ INDI
+1 NAME Karlee Ann /Denham/
+2 GIVN Karlee Ann
+2 SURN Denham
+1 SEX F
+1 _UID D578A87C1CD88545969D38AFDBA127A99507
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 JUL 1996
+1 FAMC @F846@
+0 @I2384@ INDI
+1 NAME Troy /Cayton/
+2 GIVN Troy
+2 SURN Cayton
+1 SEX M
+1 _UID 3A21022BFCBB0843927E7D30860BD5B764D8
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F847@
+0 @I2385@ INDI
+1 NAME Jamie Hogen /Cayton/
+2 GIVN Jamie Hogen
+2 SURN Cayton
+1 SEX F
+1 _UID C33D763849FB1642864E89E40924640925CF
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE FEB 1990
+1 FAMC @F847@
+0 @I2386@ INDI
+1 NAME Amanda /Cayton/
+2 GIVN Amanda
+2 SURN Cayton
+1 SEX F
+1 _UID 14F55D0958BB3F4BACE7C9F7D97E7F497EC7
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE JUL 1991
+1 FAMC @F847@
+0 @I2387@ INDI
+1 NAME Eric /Cayton/
+2 GIVN Eric
+2 SURN Cayton
+1 SEX M
+1 _UID F8CC89C82FE5DB4BBE79A23745118583BD48
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE OCT 1993
+1 FAMC @F847@
+0 @I2388@ INDI
+1 NAME Charles Edward /Auxier/
+2 GIVN Charles Edward
+2 SURN Auxier
+1 SEX M
+1 _UID F37F388CA1ABAA4F850D83B5E3F96CC85552
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1 MAR 1970
+1 FAMS @F848@
+0 @I2389@ INDI
+1 NAME Charles Edward Jr /Auxier/
+2 GIVN Charles Edward Jr
+2 SURN Auxier
+1 SEX M
+1 _UID 2261A4709116C54FBD5E2C0BF7978431E741
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 JAN 1993
+1 FAMC @F848@
+0 @I2390@ INDI
+1 NAME Tisha Kay /Auxier/
+2 GIVN Tisha Kay
+2 SURN Auxier
+1 SEX F
+1 _UID 2CA2763387FE404AA4DEB348A60A8B89C7C2
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 NOV 1994
+1 FAMC @F848@
+0 @I2391@ INDI
+1 NAME  /Kythera\\/
+2 SURN Kythera\\
+1 SEX F
+1 _UID D613C73828147E4A9E887399DCE32A7C83B9
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F849@
+0 @I2392@ INDI
+1 NAME Christopher Lee /Rusk/
+2 GIVN Christopher Lee
+2 SURN Rusk
+1 SEX M
+1 _UID 12AFB51D43E21F4E88AD9EAB39CE3ED0B82E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE JAN 1993
+1 FAMC @F849@
+0 @I2393@ INDI
+1 NAME Ethel /Stevens/
+2 GIVN Ethel
+2 SURN Stevens
+1 SEX F
+1 _UID B6DDDEAE70155E4DA6757C613FB6F51F502C
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F850@
+0 @I2394@ INDI
+1 NAME Cyrillo Stevens /Ash/
+2 GIVN Cyrillo Stevens
+2 SURN Ash
+1 SEX M
+1 _UID 7148443DC7EF2B42BE7196EF1F5AE2A612DC
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 SEP 1913
+2 PLAC Butler, South Dakota, Day Co.
+1 DEAT
+2 DATE 4 NOV 1994
+2 PLAC Pierpont, South Dakota
+1 BURI
+2 PLAC Prairie Mound Cemetery, Butler, Day Co., SD
+1 SSN
+2 PLAC 504-42-2490
+1 FAMS @F851@
+1 FAMC @F850@
+0 @I2395@ INDI
+1 NAME Arden Ransome /Ash/
+2 GIVN Arden Ransome
+2 SURN Ash
+1 SEX M
+1 _UID 72DDC5FF88927C409A6316A966D3EDF2BDBD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 AUG 1914
+2 PLAC Butler, South Dakota, Day Co.
+1 FAMS @F1003@
+1 FAMC @F850@
+0 @I2396@ INDI
+1 NAME Lila Mae /Ash/
+2 GIVN Lila Mae
+2 SURN Ash
+1 SEX F
+1 _UID 262B980A5B412248BA4C81BCA88F36D37CC4
+1 NOTE       Lila Mae Ash was born October 18, 1916 at Butler, S. Dak., where
+2 CONC she spent her entire life. Here she attended school through the grades
+2 CONC and three years of high school. She would have entered her senior year
+2 CONC this fall. She took an active part in various phases of school life
+2 CONC and willingly devoted her many talents to school activities.
+2 CONT      About ten days ago she was taken ill with flu and complications
+2 CONC developed which refused to yield to medical treatment. She was removed
+2 CONC away Wednesday afternoon, Sept. 5, at the age of 17 years, ten months,
+2 CONC and eighteen days.
+2 CONT      She leaves to mourn: Mr. and Mrs. Ransome J. Ash and two brothers
+2 CONC Arden and Cyrillo of Butler; her grandparents, Mrs. L. M. Ash of
+2 CONC Butler, Mrs. Ida Stevens of Bristol, Frank Stevens of Sulphur Springs,
+2 CONC Florida, and a host of relatives and friends.
+2 CONT       Her mother preceded her fourteen years ago. Funeral services
+2 CONC were held Saturday afternoon at 2 o'clock at the R.J. Ash home.
+2 CONC southwest of Butler. Rev. E.T. Jensen officiating, and burial was made
+2 CONC in Prairie Mound Cemetery.
+2 CONT
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 OCT 1916
+2 PLAC Butler, Day Co., South Dakota
+1 DEAT
+2 DATE 5 SEP 1934
+2 PLAC Butler, Day Co., South Dakota
+1 BURI
+2 PLAC Prairie Mound Cemetery, Butler, SD
+1 FAMC @F850@
+0 @I2397@ INDI
+1 NAME Theresa Amelia /Brue/
+2 GIVN Theresa Amelia
+2 SURN Brue
+1 SEX F
+1 _UID 61AF1905AE5D8D42B7934AF989C89775F260
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 MAY 1919
+2 PLAC Bristol, South Dakota, Day Co.
+1 FAMS @F851@
+0 @I2400@ INDI
+1 NAME Gayle Dawn /Ash/
+2 GIVN Gayle Dawn
+2 SURN Ash
+1 SEX F
+1 _UID F084F16E8310BC479657390C87902A371325
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 NOV 1945
+2 PLAC Webster, South Dakota, Day Co.
+1 GRAD
+2 DATE 1963
+2 PLAC Bristol High School
+1 FAMS @F853@
+1 FAMC @F851@
+0 @I2401@ INDI
+1 NAME Richard Quentin /Davidson/
+2 GIVN Richard Quentin
+2 SURN Davidson
+1 SEX M
+1 _UID 6025CA8E95A47C4FAA7B14EA83EA83FFF39A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 NOV 1945
+2 PLAC Aberdeen, South Dakota, Brown Co.
+1 FAMS @F853@
+0 @I2402@ INDI
+1 NAME Barbara Kae /Ash/
+2 GIVN Barbara Kae
+2 SURN Ash
+1 SEX F
+1 _UID D683D19459F51443948DCF411277E3AFAF91
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 FEB 1949
+2 PLAC Webster, South Dakota, Day Co.
+1 GRAD
+2 DATE 1967
+2 PLAC Bristol High School
+1 FAMS @F1031@
+1 FAMS @F854@
+1 FAMC @F851@
+0 @I2403@ INDI
+1 NAME Dennis Everett /Hahnemann/
+2 GIVN Dennis Everett
+2 SURN Hahnemann
+1 SEX M
+1 _UID D8BD65934F492E46A713E222338CA2FFB70F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 SEP 1950
+2 PLAC Appleton, Wisconsin, Outagamie Co.
+1 FAMS @F854@
+0 @I2404@ INDI
+1 NAME Daniel Bruce /Ash/
+2 GIVN Daniel Bruce
+2 SURN Ash
+1 SEX M
+1 _UID 7051D1007BBCA2408C1512077AC97DE80D40
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 2 APR 1955
+2 PLAC Webster, South Dakota, Day Co.
+1 GRAD
+2 DATE 1973
+2 PLAC Bristol High School
+1 FAMS @F855@
+1 FAMS @F856@
+1 FAMC @F851@
+0 @I2405@ INDI
+1 NAME Lori /Vehe/
+2 GIVN Lori
+2 SURN Vehe
+1 SEX F
+1 _UID 60B3E804AC2DE841B47EDA4C909CFE7E01F1
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F855@
+0 @I2406@ INDI
+1 NAME Amy Marie /Ash/
+2 GIVN Amy Marie
+2 SURN Ash
+1 SEX F
+1 _UID FE25A339A58F9B459C706E9973772D69A6AB
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 SEP 1975
+1 GRAD
+2 DATE 1994
+2 PLAC Bristol High School
+1 FAMS @F1919@
+1 FAMC @F855@
+0 @I2407@ INDI
+1 NAME Jennifer Joy /Ash/
+2 GIVN Jennifer Joy
+2 SURN Ash
+1 SEX F
+1 _UID 39A06164AA1B7E4187C47206647CD2E0778E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 MAY 1977
+1 GRAD
+2 DATE 1995
+2 PLAC Bristol High School
+1 FAMS @F1920@
+1 FAMC @F855@
+0 @I2408@ INDI
+1 NAME Randall Steven /Ash/
+2 GIVN Randall Steven
+2 SURN Ash
+1 SEX M
+1 _UID 702A3B16FBE82940ACC52CEA40628E8B798E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 SEP 1979
+1 FAMC @F855@
+0 @I2409@ INDI
+1 NAME Robert Daniel /Ash/
+2 GIVN Robert Daniel
+2 SURN Ash
+1 SEX M
+1 _UID BE3F58FD7D2E74408FBA13EFCEF05E8CA4D3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 MAY 1983
+1 FAMC @F855@
+0 @I2410@ INDI
+1 NAME Susan /Kungel/
+2 GIVN Susan
+2 SURN Kungel
+1 SEX F
+1 _UID A74A07FE615AA4439208387F9ED7F46BBD1E
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F856@
+0 @I2411@ INDI
+1 NAME Henry Woodrow /Ash/
+2 GIVN Henry Woodrow
+2 SURN Ash
+1 SEX M
+1 _UID ED3316FC50510B4B99BF2CDE3EC21DFBA3EB
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 DEC 1913
+2 PLAC Rupert, Minidoka, Idaho
+1 FAMS @F686@
+1 FAMC @F63@
+0 @I2412@ INDI
+1 NAME Virginia Maria /Judd/
+2 GIVN Virginia Maria
+2 SURN Judd
+1 SEX F
+1 _UID 724AD02D95508C4BA0AE6C59C53FA7F225BE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 APR 1918
+2 PLAC Rigby , Idaho
+1 FAMS @F686@
+0 @I2415@ INDI
+1 NAME Anthony Woodrow /Ash/
+2 GIVN Anthony Woodrow
+2 SURN Ash
+1 SEX M
+1 _UID 5B82156355022141B572AC9430E835945648
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 NOV 1939
+2 PLAC Pocatello, Bannock Co, Idaho
+1 FAMS @F857@
+1 FAMC @F686@
+0 @I2416@ INDI
+1 NAME Karen Lynn /Peck/
+2 GIVN Karen Lynn
+2 SURN Peck
+1 SEX F
+1 _UID 27CF9B7792509A4997C061978CF66E556167
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1 SEP 1945
+2 PLAC Basin, Bighorn Co., Wyoming
+1 FAMS @F857@
+0 @I2417@ INDI
+1 NAME Fredric Judd /Ash/
+2 GIVN Fredric Judd
+2 SURN Ash
+1 SEX M
+1 _UID 42A5581C0AF1274CBD60B36F54760214E8BB
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 OCT 1941
+2 PLAC Rupert, Minidoka, Idaho
+1 OCCU
+2 PLAC High school English teacher and public school administrator
+1 FAMS @F859@
+1 FAMS @F858@
+1 FAMS @F2227@
+1 FAMC @F686@
+0 @I2418@ INDI
+1 NAME Rosalie Maria /Ash/
+2 GIVN Rosalie Maria
+2 SURN Ash
+1 SEX F
+1 _UID 503E286FAA98204688C7550EA59C0D0AD72C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 MAY 1943
+2 PLAC Rupert , Idaho, Minidoka Co.
+1 BIRT
+2 DATE 7 MAY 1945
+2 PLAC May be birth date
+1 FAMS @F860@
+1 FAMC @F686@
+0 @I2419@ INDI
+1 NAME David Charles /Ash/
+2 GIVN David Charles
+2 SURN Ash
+1 SEX M
+1 _UID 84CF066A7C6F7744BDB7D872F2C41C4B4480
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 JUN 1947
+2 PLAC Rupert, Minidoka, Idaho
+1 FAMS @F861@
+1 FAMC @F686@
+0 @I2420@ INDI
+1 NAME Linda Theresa /Burrows/
+2 GIVN Linda Theresa
+2 SURN Burrows
+1 SEX F
+1 _UID 56741DA29DF5C949BDFF60C5F003C1AD6F3C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 JUL 1943
+2 PLAC Los Angeles, Los Angeles, California
+1 FAMS @F858@
+0 @I2421@ INDI
+1 NAME Lou /McDowel/
+2 GIVN Lou
+2 SURN McDowel
+1 SEX F
+1 _UID 538B944919078348932FB4BE125CB8C7C7A3
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F859@
+0 @I2422@ INDI
+1 NAME LaMar Neff /Orton/
+2 GIVN LaMar Neff
+2 SURN Orton
+1 SEX M
+1 _UID EE7BC42787AFA64DAE4046A4AFD97676C983
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 JUN 1943
+2 PLAC Yuba City, California, Sutter Co.
+1 FAMS @F860@
+0 @I2423@ INDI
+1 NAME Carmen Leonor /Argueless/
+2 GIVN Carmen Leonor
+2 SURN Argueless
+1 SEX F
+1 _UID 5C1788AAA29FD54A87F9D69CC70DDE5700F1
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F861@
+0 @I2424@ INDI
+1 NAME Grace Ione /Ash/
+2 GIVN Grace Ione
+2 SURN Ash
+1 SEX F
+1 _UID 8A792830798E7347AD4772A344A953FA5FF9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 SEP 1906
+2 PLAC Walla Walla, Washington
+1 DEAT
+2 DATE 10 MAR 1981
+2 PLAC Provo , Utah
+1 BURI
+2 PLAC Hill Co. Cemetery, Havre, Montana
+1 FAMS @F869@
+1 FAMC @F63@
+0 @I2426@ INDI
+1 NAME Arles Ivan /Ash/
+2 GIVN Arles Ivan
+2 SURN Ash
+1 SEX M
+1 _UID 3030CA4B0E6B1B4294977BBD7F67F64CD609
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 DEAT
+2 DATE 1938
+1 FAMC @F63@
+0 @I2427@ INDI
+1 NAME Irene Mae /Ash/
+2 GIVN Irene Mae
+2 SURN Ash
+1 SEX F
+1 _UID 33933168EEFBB34D801476CE975C3D1060B7
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 OCT 1911
+2 PLAC Rupert, Idaho
+1 DEAT
+2 DATE 11 DEC 1973
+2 PLAC Rupert, Idaho
+1 FAMS @F862@
+1 FAMC @F63@
+0 @I2428@ INDI
+1 NAME Raymond Arnold /Weston/
+2 GIVN Raymond Arnold
+2 SURN Weston
+1 SEX M
+1 _UID 239774029DE27F4BAE1A055AD4E55152FC1F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 FEB 1912
+2 PLAC Spokane , Washington, Spokane, Co.
+1 DEAT
+2 DATE 27 JUL 1996
+2 PLAC Mercer Island, Washington, King Co.
+1 FAMS @F862@
+0 @I2429@ INDI
+1 NAME William Daniel /Ash/
+2 GIVN William Daniel
+2 SURN Ash
+1 SEX M
+1 _UID 23E7C21F93ED9E47BF6C69B08499B00A6BBD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 APR 1925
+2 PLAC Eugene, Oregon
+1 FAMS @F863@
+1 FAMC @F63@
+0 @I2430@ INDI
+1 NAME Lela Mildred /Loveland/
+2 GIVN Lela Mildred
+2 SURN Loveland
+1 SEX F
+1 _UID 1276792ACFC51A45932F51A6C1669323B4EA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 SEP 1922
+2 PLAC Pocatello, Idaho
+1 FAMS @F863@
+0 @I2431@ INDI
+1 NAME David William /Ash/
+2 GIVN David William
+2 SURN Ash
+1 SEX M
+1 _UID F1FDD915ACC01B498305748752E915FB7A7F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 29 AUG 1962
+1 FAMS @F864@
+1 FAMC @F863@
+0 @I2432@ INDI
+1 NAME Patricia /King/
+2 GIVN Patricia
+2 SURN King
+1 SEX F
+1 _UID 10AC73E9399C85419E279536C32834A80A2F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE UNKNOWN
+1 FAMS @F864@
+0 @I2433@ INDI
+1 NAME Nancy Lela /Ash/
+2 GIVN Nancy Lela
+2 SURN Ash
+1 SEX F
+1 _UID 08D2C378196E16468290AAF24FB5F7DE7FA5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 2 MAY 1964
+2 PLAC Long Beach , California
+1 FAMS @F865@
+1 FAMC @F863@
+0 @I2434@ INDI
+1 NAME Filipo /Strickland/
+2 GIVN Filipo
+2 SURN Strickland
+1 SEX M
+1 _UID 1FD3C4B682A2544780DA4ABEF16834DFF9C3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 11 MAY 1958
+2 PLAC Western Samoa
+1 FAMS @F865@
+0 @I2437@ INDI
+1 NAME Carolyn June /Weston/
+2 GIVN Carolyn June
+2 SURN Weston
+1 SEX F
+1 _UID 23A9BEA8D55AF44A92B2C6716F47ADC744F8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 OCT 1943
+2 PLAC Boston, Massachusetts
+1 FAMS @F867@
+1 FAMC @F862@
+0 @I2438@ INDI
+1 NAME Jerome William /Keating/
+2 GIVN Jerome William
+2 SURN Keating
+1 SEX M
+1 _UID 558472677521994A83A93CAC16EBE5ABD007
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 29 NOV 1943
+2 PLAC Sacramento, California
+1 FAMS @F867@
+0 @I2441@ INDI
+1 NAME Patrick Weston /Keating/
+2 GIVN Patrick Weston
+2 SURN Keating
+1 SEX M
+1 _UID 45C4E981A3C2CE438F6A384F8744E2B8CE15
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 NOV 1969
+2 PLAC Seattle WA, King Co.
+1 FAMC @F867@
+0 @I2442@ INDI
+1 NAME Kevin Weston /Keating/
+2 GIVN Kevin Weston
+2 SURN Keating
+1 SEX M
+1 _UID D1388F75175AE74DB08C114C78D07B8694CA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 NOV 1972
+2 PLAC Seattle WA, King Co.
+1 FAMC @F867@
+0 @I2443@ INDI
+1 NAME Christopher Weston /Keating/
+2 GIVN Christopher Weston
+2 SURN Keating
+1 SEX M
+1 _UID 29CA511095B2804FB83A4EBA8860E9CD02B8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 SEP 1978
+2 PLAC Seattle WA, King Co.
+1 FAMC @F867@
+0 @I2444@ INDI
+1 NAME Tyler Filipo /Strickland/
+2 GIVN Tyler Filipo
+2 SURN Strickland
+1 SEX M
+1 _UID 997EA3850BF567408B254E46E2E3D6AA6F02
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 JAN 1987
+2 PLAC Anaheim, California, Orange County
+1 FAMC @F865@
+0 @I2445@ INDI
+1 NAME Arianna Lela Saumailelagi /Strickland/
+2 GIVN Arianna Lela Saumailelagi
+2 SURN Strickland
+1 SEX F
+1 _UID E23F7FD8704527408371CEC0E9BE38B8AD81
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 JUL 1992
+2 PLAC Upland , California, Orange Co.
+1 FAMC @F865@
+0 @I2446@ INDI
+1 NAME Cassandra Fetuilelagi Alaimoana /Strickland/
+2 GIVN Cassandra Fetuilelagi Alaimoana
+2 SURN Strickland
+1 SEX F
+1 _UID E699CAB89119144D99446D4BA8075FC776FA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 JUL 1994
+2 PLAC Pomona , California, Los Angeles Co.
+1 FAMC @F865@
+0 @I2447@ INDI
+1 NAME Charles Henry /Davis/
+2 GIVN Charles Henry
+2 SURN Davis
+1 SEX M
+1 _UID 48F030714E691844B4EF16AC72BA58BA8FD5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 OCT 1894
+2 PLAC Grand Junction, Mesa Colorado
+1 DEAT
+2 DATE 29 AUG 1959
+2 PLAC Great Falls, Cascade Co., Montana
+1 BURI
+2 DATE 3 SEP 1959
+2 PLAC Sunset Memorial Garden, Havre, Montana
+1 FAMS @F869@
+0 @I2448@ INDI
+1 NAME Martha Jane /Davis/
+2 GIVN Martha Jane
+2 SURN Davis
+1 SEX F
+1 _UID 470C5713F6D9E241BB500F2102C0C74DC0FF
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 JUN 1937
+2 PLAC Boise , Idaho, Ada Co.
+1 FAMS @F871@
+1 FAMC @F869@
+0 @I2449@ INDI
+1 NAME Ralph Wendell /Solesbee/
+2 GIVN Ralph Wendell
+2 SURN Solesbee
+1 SEX M
+1 _UID D3A899FAB5728D41A1875731A2AC761E9593
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 AUG 1936
+2 PLAC Fullerton, California, Orange Co.
+1 FAMS @F871@
+0 @I2452@ INDI
+1 NAME Michael Wendell /Solesbee/
+2 GIVN Michael Wendell
+2 SURN Solesbee
+1 SEX M
+1 _UID B94B0878A261D34594188E3264941BD3F1D6
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 JUN 1958
+2 PLAC Fullerton, California, Orange Co.
+1 FAMS @F873@
+1 FAMC @F871@
+0 @I2453@ INDI
+1 NAME Dorrit Elizabeth /Haupt/
+2 GIVN Dorrit Elizabeth
+2 SURN Haupt
+1 SEX F
+1 _UID 0F0B3FA56B1FBD479E13E82C3A57CE83336F
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F873@
+0 @I2454@ INDI
+1 NAME Terry Edwin /Solesbee/
+2 GIVN Terry Edwin
+2 SURN Solesbee
+1 SEX M
+1 _UID BB6CF0A61157E642A0259966E100EB24017E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 AUG 1960
+2 PLAC Fullerton, California, Orange Co.
+1 FAMS @F874@
+1 FAMC @F871@
+0 @I2455@ INDI
+1 NAME Marisela /Olivas/
+2 GIVN Marisela
+2 SURN Olivas
+1 SEX F
+1 _UID F8122E9594A5674EAED4E0299E6AF1FF3E4E
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F874@
+0 @I2456@ INDI
+1 NAME Nathan Arthur /Solesbee/
+2 GIVN Nathan Arthur
+2 SURN Solesbee
+1 SEX M
+1 _UID 1C604D4352407C43BCD767AE0405DBD6BF04
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 AUG 1962
+2 PLAC Fullerton, California, Orange Co.
+1 FAMS @F875@
+1 FAMC @F871@
+0 @I2457@ INDI
+1 NAME Domine /Lisette/
+2 GIVN Domine
+2 SURN Lisette
+1 SEX F
+1 _UID 3C5BD3E12D8CBA459E42719074F27F8D5642
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F875@
+0 @I2458@ INDI
+1 NAME Rebecca Jane /Solesbee/
+2 GIVN Rebecca Jane
+2 SURN Solesbee
+1 SEX F
+1 _UID 876D6848464ED04CB1F7564EA69A052E130A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 JUN 1964
+2 PLAC Fullerton, California, Orange Co.
+1 FAMS @F876@
+1 FAMC @F871@
+0 @I2459@ INDI
+1 NAME James /Munafo/
+2 GIVN James
+2 SURN Munafo
+1 SEX M
+1 _UID 5652D2AE27B9954F8484B0BDA5F7353B6D8B
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F876@
+0 @I2460@ INDI
+1 NAME Sabrina Lynn /Solesbee/
+2 GIVN Sabrina Lynn
+2 SURN Solesbee
+1 SEX F
+1 _UID 0974D47CEBC383498948AAC8516834AF260B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 NOV 1969
+2 PLAC Anaheim, California, Orange Co.
+1 FAMS @F877@
+1 FAMC @F871@
+0 @I2461@ INDI
+1 NAME Eric /Von Luedtke/
+2 GIVN Eric
+2 SURN Von Luedtke
+1 SEX M
+1 _UID 1AFCF06E769E1749BAEDBA0F76199AD65702
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F877@
+0 @I2462@ INDI
+1 NAME Tamara Ann /Solesbee/
+2 GIVN Tamara Ann
+2 SURN Solesbee
+1 SEX F
+1 _UID 86CA27CB089D1F4C8A4B889D57E2AA5786F3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 NOV 1972
+2 PLAC Anaheim, California, Orange Co.
+1 FAMS @F878@
+1 FAMC @F871@
+0 @I2463@ INDI
+1 NAME Dennis /Wood/
+2 GIVN Dennis
+2 SURN Wood
+1 SEX M
+1 _UID 7A25E7F9ED43834DB3DF9FC0ADD805B2AC05
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F878@
+0 @I2464@ INDI
+1 NAME Gregory Aaron /Solesbee/
+2 GIVN Gregory Aaron
+2 SURN Solesbee
+1 SEX M
+1 _UID C350C6FA2C50AF4F9055B458EC8CAB137403
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 MAR 1980
+2 PLAC Anaheim, California, Orange Co.
+1 FAMC @F871@
+0 @I2469@ INDI
+1 NAME LaMar /Orton/
+2 GIVN LaMar
+2 SURN Orton
+1 SEX M
+1 _UID 9F3EBF4BFE19E046B122DA2278E9D0CAEE45
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 FEB 1970
+2 PLAC Chatanson, Okinawa, Japan
+1 FAMS @F881@
+1 FAMC @F860@
+0 @I2470@ INDI
+1 NAME  /Unknown/
+2 SURN Unknown
+1 SEX F
+1 _UID EA4D0DABE2F8AE49832A85C495EC65DC7813
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F881@
+0 @I2471@ INDI
+1 NAME David Eugene /Orton/
+2 GIVN David Eugene
+2 SURN Orton
+1 SEX M
+1 _UID 36BB69B84D9F0B49858894224E1071E3C70A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 MAR 1971
+2 PLAC Chatanson, Okinawa, Japan
+1 FAMS @F882@
+1 FAMC @F860@
+0 @I2472@ INDI
+1 NAME  /Unknown/
+2 SURN Unknown
+1 SEX F
+1 _UID 4BDC1512CFCE4F4D980B8294A32D877E1599
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F882@
+0 @I2473@ INDI
+1 NAME Kendall Wayne /Orton/
+2 GIVN Kendall Wayne
+2 SURN Orton
+1 SEX M
+1 _UID 2D0D010AA78DE74197F1A4EEED22BCE66C9A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 JUL 1974
+2 PLAC Twin Falls, Idaho, Twin Falls Co.
+1 FAMS @F883@
+1 FAMC @F860@
+0 @I2474@ INDI
+1 NAME  /Unknown/
+2 SURN Unknown
+1 SEX F
+1 _UID 2BBE4E75C81974479A473145F473DAD9B977
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F883@
+0 @I2475@ INDI
+1 NAME Lane Daniel /Orton/
+2 GIVN Lane Daniel
+2 SURN Orton
+1 SEX M
+1 _UID 168772FA50A5864DB93C3EB23A794B4F0391
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 20 JUN 1978
+2 PLAC Twin Falls, Idaho, Twin Falls Co.
+1 FAMS @F884@
+1 FAMC @F860@
+0 @I2476@ INDI
+1 NAME  /Unknown/
+2 SURN Unknown
+1 SEX F
+1 _UID BE33A832E851B544BBD534D24E321883AEE6
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F884@
+0 @I2477@ INDI
+1 NAME Jeremy Ash /Orton/
+2 GIVN Jeremy Ash
+2 SURN Orton
+1 SEX M
+1 _UID CFC2D56458B3684988202567B8F850561039
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 JAN 1980
+2 PLAC Twin Falls, Idaho, Twin Falls Co.
+1 FAMC @F860@
+0 @I2482@ INDI
+1 NAME Evan Woodrow /Ash/
+2 GIVN Evan Woodrow
+2 SURN Ash
+1 SEX M
+1 _UID 0ED8C431E077DA4D842C05A5103CC8713833
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 JUL 1966
+2 PLAC St. Louis, Missouri
+1 FAMS @F888@
+1 FAMC @F857@
+0 @I2483@ INDI
+1 NAME  /Unknown/
+2 SURN Unknown
+1 SEX F
+1 _UID 1E88D9AD2BCB7D47AB3AFE676BD707C53E86
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F888@
+0 @I2484@ INDI
+1 NAME Taunya Lynn Loomis /Ash/
+2 GIVN Taunya Lynn Loomis
+2 SURN Ash
+1 SEX F
+1 _UID 59CF45D3D275BA42889A06D4B180280AE2FF
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1 FEB 1968
+2 PLAC Las Vegas, Nevada, Clark Co.
+1 FAMS @F889@
+1 FAMC @F857@
+0 @I2485@ INDI
+1 NAME  /Unknown/
+2 SURN Unknown
+1 SEX M
+1 _UID D0FDC75F29C2584BA0D5D178EE64B57FC5BB
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F889@
+0 @I2486@ INDI
+1 NAME Lisa Marie /Ash/
+2 GIVN Lisa Marie
+2 SURN Ash
+1 SEX F
+1 _UID B6DDA868DD78EA4DA9EFB36452E6BEBF9354
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 SEP 1969
+2 PLAC Las Vegas, Nevada, Clark Co.
+1 FAMC @F857@
+0 @I2487@ INDI
+1 NAME Lawrene Duane /Ash/
+2 GIVN Lawrene Duane
+2 SURN Ash
+1 SEX M
+1 _UID 456936CF97E7CB4099F4155C452EC0AA17A3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 JAN 1973
+2 PLAC Farmington, New Mexico, San Juan Co.
+1 FAMS @F890@
+1 FAMC @F857@
+0 @I2488@ INDI
+1 NAME  /Unknown/
+2 SURN Unknown
+1 SEX F
+1 _UID 2B8B4CF9872D5440B80BE0630B76E809BB10
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F890@
+0 @I2749@ INDI
+1 NAME Thomas Michael /Timbers/
+2 GIVN Thomas Michael
+2 SURN Timbers
+1 SEX M
+1 _UID 531F09B9326F7349AD542590C651042082A5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 21 JUN 1899
+2 PLAC Menomonie, Wisconsin
+1 DEAT
+2 DATE 1 MAY 1983
+2 PLAC Glenns Ferry, Idaho, Elmore, Co.
+1 FAMS @F405@
+0 @I2750@ INDI
+1 NAME Patricia Mary /Timbers/
+2 GIVN Patricia Mary
+2 SURN Timbers
+1 SEX F
+1 _UID 518431848A91A944BC1A1427EE76D52C08A0
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 26 JUL 1929
+2 PLAC Filer, Twin Falls Co., Idaho
+1 FAMS @F994@
+1 FAMC @F405@
+0 @I2751@ INDI
+1 NAME Gene Llwellyn /Morrison/
+2 GIVN Gene Llwellyn
+2 SURN Morrison
+1 SEX M
+1 _UID FBFAFFAE4A76324F809A7F71BBEB5601EA22
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 NOV 1931
+2 PLAC Twin Falls, Idaho
+1 FAMS @F994@
+0 @I2754@ INDI
+1 NAME Thomas James /Morrison/
+2 GIVN Thomas James
+2 SURN Morrison
+1 SEX M
+1 _UID 8A63A673AC238C4D9841B03F1E6A35F2250A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 MAY 1959
+2 PLAC Jerome, Idaho, Jerome Co.
+1 FAMS @F996@
+1 FAMC @F994@
+0 @I2755@ INDI
+1 NAME Lela /Bradshaw/
+2 GIVN Lela
+2 SURN Bradshaw
+1 SEX F
+1 _UID D3C3D977E61CEC4C87555C6A92A0C24B0122
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F996@
+0 @I2756@ INDI
+1 NAME Walter Scot /Morrison/
+2 GIVN Walter Scot
+2 SURN Morrison
+1 SEX M
+1 _UID 6FA845CFADABAB47B9A2C72A91B97566E624
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 MAY 1960
+2 PLAC Jerome, Idaho, Jerome Co.
+1 FAMS @F997@
+1 FAMC @F994@
+0 @I2757@ INDI
+1 NAME Heidi Lynn /Miller/
+2 GIVN Heidi Lynn
+2 SURN Miller
+1 SEX F
+1 _UID 95421959235E1346A0E9ACE4E3AD16F5D782
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F997@
+0 @I2758@ INDI
+1 NAME Richard Lee /Morrison/
+2 GIVN Richard Lee
+2 SURN Morrison
+1 SEX M
+1 _UID A4E5D9A42EF2D64997F53FE5D9DF09A45A6D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 DEC 1961
+2 PLAC Jerome, Idaho, Jerome Co.
+1 FAMS @F998@
+1 FAMC @F994@
+0 @I2759@ INDI
+1 NAME Claudia /Decker/
+2 GIVN Claudia
+2 SURN Decker
+1 SEX F
+1 _UID 676DF944A71EDB46897BAB31EE2BC6F1A759
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F998@
+0 @I2760@ INDI
+1 NAME Gayle Jean /Morrison/
+2 GIVN Gayle Jean
+2 SURN Morrison
+1 SEX F
+1 _UID 0A1E4C9E06C6C948B8112FBCB7731AAD94CF
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 MAR 1963
+2 PLAC Boise, Idaho, Ada Co.
+1 FAMC @F994@
+0 @I2761@ INDI
+1 NAME Mary Louise /Morrison/
+2 GIVN Mary Louise
+2 SURN Morrison
+1 SEX F
+1 _UID 769469F4C8AD044DB4A3D308FDB7B503CB8F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 APR 1964
+2 PLAC Jerome, Idaho, Jerome Co.
+1 FAMC @F994@
+0 @I2762@ INDI
+1 NAME Eileen Frances /Timbers/
+2 GIVN Eileen Frances
+2 SURN Timbers
+1 SEX F
+1 _UID AD6AB19D7F6927468747A0C3621A66D3A04D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 MAR 1931
+2 PLAC Filer, Twin Falls Co., Idaho
+1 FAMS @F999@
+1 FAMC @F405@
+0 @I2763@ INDI
+1 NAME Dolph /Hitesman/
+2 GIVN Dolph
+2 SURN Hitesman
+1 SEX M
+1 _UID 1F358FF59FB7994683E4E467485D6A3E0C07
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 20 JAN 1931
+2 PLAC Jerome, Idaho, Jerome Co.
+1 FAMS @F999@
+0 @I2764@ INDI
+1 NAME Frances Ona /Timbers/
+2 GIVN Frances Ona
+2 SURN Timbers
+1 SEX F
+1 _UID 1213802882D0B64CB4EDE4673962CFE15814
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 JAN 1939
+1 FAMS @F1000@
+1 FAMC @F405@
+0 @I2765@ INDI
+1 NAME Virgil Frank /Nichols/
+2 GIVN Virgil Frank
+2 SURN Nichols
+1 SEX M
+1 _UID ACF8641E0B245A49BD28A8E569BAA876AB6C
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1000@
+0 @I2775@ INDI
+1 NAME Venona Virginia /Sievert/
+2 GIVN Venona Virginia
+2 SURN Sievert
+1 SEX F
+1 _UID CDA3092C31FD364284CC84B3DAEC0250EA7B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 MAY 1929
+2 PLAC Aberdeen, South Dakota
+1 FAMS @F1003@
+0 @I2778@ INDI
+1 NAME Dennis Arden /Ash/
+2 GIVN Dennis Arden
+2 SURN Ash
+1 SEX M
+1 _UID DD4438EB95CD7F4DAF4B513AB758164F6B2D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 OCT 1950
+2 PLAC Webster, South Dakota, Day Co.
+1 DEAT
+2 DATE 8 FEB 1985
+1 SSN
+2 PLAC 503-68-9824
+1 FAMS @F1005@
+1 FAMC @F1003@
+0 @I2779@ INDI
+1 NAME Patricia Theresa /Phillips/
+2 GIVN Patricia Theresa
+2 SURN Phillips
+1 SEX F
+1 _UID 42A575D4C2A0A04283F7B6D93F42608DEBE8
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1005@
+0 @I2782@ INDI
+1 NAME Corey Arden /Ash/
+2 GIVN Corey Arden
+2 SURN Ash
+1 SEX M
+1 _UID 640980E62A76034C969548C1FC3804C7F5E8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 SEP 1971
+2 PLAC Webster, South Dakota, Day Co.
+1 FAMC @F1005@
+0 @I2783@ INDI
+1 NAME Stacie Aileen /Ash/
+2 GIVN Stacie Aileen
+2 SURN Ash
+1 SEX F
+1 _UID C37558DD042B8042A697C4991F8791CDFC55
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 OCT 1972
+2 PLAC Watertown, South Dakota
+1 FAMC @F1005@
+0 @I2784@ INDI
+1 NAME Ava Mae /Ash/
+2 GIVN Ava Mae
+2 SURN Ash
+1 SEX F
+1 _UID 5CE7343120C94E44B57DA4F2A38E74FA8AEE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 JAN 1949
+2 PLAC Webster, South Dakota, Day Co.
+1 GRAD
+2 DATE 1967
+2 PLAC Bristol High School
+1 FAMS @F1007@
+1 FAMC @F1003@
+0 @I2785@ INDI
+1 NAME David Sanford /Sigdestad/
+2 GIVN David Sanford
+2 SURN Sigdestad
+1 SEX M
+1 _UID 9A8D240D182AE342BD77E0D433AF0818A930
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 MAY 1942
+2 PLAC Bristol, South Dakota , Day Co.
+1 GRAD
+2 DATE 1960
+2 PLAC Bristol High School
+1 FAMS @F1007@
+0 @I2786@ INDI
+1 NAME Susan Marie /Sigdestad/
+2 GIVN Susan Marie
+2 SURN Sigdestad
+1 SEX F
+1 _UID A77D7F0CE711CE49B9DAB1F878415F2F41C9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 AUG 1980
+2 PLAC Aberdeen, South Dakota, Brown Co.
+1 FAMC @F1007@
+0 @I2787@ INDI
+1 NAME Stephen /Sigdestad/
+2 GIVN Stephen
+2 SURN Sigdestad
+1 SEX M
+1 _UID 75FD7D92D68C5C4FBDDA2A82596A10C76BBB
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 AUG 1983
+2 PLAC Aberdeen, South Dakota
+1 FAMC @F1007@
+0 @I2788@ INDI
+1 NAME Catherine /Fife/
+2 GIVN Catherine
+2 SURN Fife
+1 SEX F
+1 _UID 7307E9EEE8A4E14DB0E046AA266F0795BCF6
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F62@
+0 @I2789@ INDI
+1 NAME Mirriam /Roffe/
+2 GIVN Mirriam
+2 SURN Roffe
+1 SEX F
+1 _UID 6649F5DEE065CD428E2AED69587AEBD07123
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F893@
+0 @I2790@ INDI
+1 NAME Karl Einar /Hammer/
+2 GIVN Karl Einar
+2 SURN Hammer
+1 SEX M
+1 _UID 444D2730A4C7E4468D366DB236722924547E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 NOV 1887
+2 PLAC Bueregen, Norway
+1 DEAT
+2 DATE 20 JAN 1961
+2 PLAC Redondo Beach, California
+1 FAMS @F894@
+0 @I2791@ INDI
+1 NAME Mark Robin /Hitesman/
+2 GIVN Mark Robin
+2 SURN Hitesman
+1 SEX M
+1 _UID E84E2C89DA9D4C4B9C7531E8F5FA8739D2CB
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 JAN 1953
+2 PLAC Denver, Colorado
+1 FAMS @F1011@
+1 FAMC @F999@
+0 @I2792@ INDI
+1 NAME Doris LeAnn /Davis/
+2 GIVN Doris LeAnn
+2 SURN Davis
+1 SEX F
+1 _UID 237F8A408690D441959062AE5680F7861F0C
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1011@
+0 @I2793@ INDI
+1 NAME Chris Alan /Hitesman/
+2 GIVN Chris Alan
+2 SURN Hitesman
+1 SEX M
+1 _UID 2B09C284C3A6D5468FBA646DEE95DA910658
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 FEB 1954
+2 PLAC Nampa, Canyon Co., Idaho
+1 FAMS @F1012@
+1 FAMC @F999@
+0 @I2794@ INDI
+1 NAME Patti /Gribbin/
+2 GIVN Patti
+2 SURN Gribbin
+1 SEX F
+1 _UID 2873190CF8131541993E0E9E34EC135C33BD
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1012@
+0 @I2795@ INDI
+1 NAME Karen Faith /Hitesman/
+2 GIVN Karen Faith
+2 SURN Hitesman
+1 SEX F
+1 _UID 948332215044E74CAF05C316FC33DE86511A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 DEC 1958
+2 PLAC Edmonton, Alberta, Canada
+1 FAMS @F1013@
+1 FAMC @F999@
+0 @I2796@ INDI
+1 NAME Alan /Fitch/
+2 GIVN Alan
+2 SURN Fitch
+1 SEX M
+1 _UID 61C7B387264A0247A3056D69C558B97AE9C5
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1013@
+0 @I2797@ INDI
+1 NAME Rachel Ann /Hitesman/
+2 GIVN Rachel Ann
+2 SURN Hitesman
+1 SEX F
+1 _UID 50E930559F8A6C4AB9E49CC32EC0B288C12B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 OCT 1959
+2 PLAC Edmonton, Alberta, Canada
+1 FAMS @F1014@
+1 FAMC @F999@
+0 @I2798@ INDI
+1 NAME Joseph /Walsh/
+2 GIVN Joseph
+2 SURN Walsh
+1 SEX M
+1 _UID 843BCCC5C64229498787FE02F3181E8182DF
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1014@
+0 @I2826@ INDI
+1 NAME James Ash /Hammer/
+2 GIVN James Ash
+2 SURN Hammer
+1 SEX M
+1 _UID 4C15FFB6914CD54D83445D0893795D822C7F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 DEC 1934
+2 PLAC Holdredge, Phelps, Nebraska
+1 DEAT
+2 DATE 4 FEB 1942
+1 FAMC @F894@
+0 @I2827@ INDI
+1 NAME Lenore Ona /Hammer/
+2 GIVN Lenore Ona
+2 SURN Hammer
+1 SEX F
+1 _UID E008F7AE0B83B74C99650A137FCC4DE6B7CD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 FEB 1929
+1 DEAT
+2 DATE 16 MAR 1997
+1 FAMS @F1021@
+1 FAMS @F1024@
+1 FAMC @F894@
+0 @I2828@ INDI
+1 NAME Wesley /Langdon/
+2 GIVN Wesley
+2 SURN Langdon
+1 SEX M
+1 _UID 64CF777FA36DF64A8C8D5A3E3D16F1BB293F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 OCT 1925
+1 DEAT
+2 DATE 5 JUN 1980
+1 FAMS @F1021@
+0 @I2829@ INDI
+1 NAME Laura Didne /Langdon/
+2 GIVN Laura Didne
+2 SURN Langdon
+1 SEX F
+1 _UID CF93A1A507DDB14B98B2023446A6C7C9842B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 APR 1947
+1 FAMS @F1022@
+1 FAMS @F1023@
+1 FAMC @F1021@
+0 @I2830@ INDI
+1 NAME Glen /Rhodes/
+2 GIVN Glen
+2 SURN Rhodes
+1 SEX M
+1 _UID 364D21E02259BA45A4E24508418F9D306E5C
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1022@
+0 @I2831@ INDI
+1 NAME Les /Darlans/
+2 GIVN Les
+2 SURN Darlans
+1 SEX M
+1 _UID D07AED78812C2F44949A489AAA1AB75DB7A7
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 MAR 1937
+1 FAMS @F1023@
+0 @I2832@ INDI
+1 NAME Harold /Hood/
+2 GIVN Harold
+2 SURN Hood
+1 SEX M
+1 _UID 3683D94F430F59418B2040B5965B64E4A6D0
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 11 AUG 1926
+1 FAMS @F1024@
+0 @I2833@ INDI
+1 NAME Karl Clair /Hammer/
+2 GIVN Karl Clair
+2 SURN Hammer
+1 SEX M
+1 _UID 3695053D6CD5F34A834F60ADD011AABBB02D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 JUN 1938
+2 PLAC Berryville, Arkansas
+1 FAMS @F1025@
+1 FAMS @F1029@
+1 FAMC @F894@
+0 @I2834@ INDI
+1 NAME Rosemary /Holmes/
+2 GIVN Rosemary
+2 SURN Holmes
+1 SEX F
+1 _UID E33BD97304616E48B2FDB0E0F88057EA7D7C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 AUG 1938
+2 PLAC Chicago, Illinois, Cook Co.
+1 FAMS @F1025@
+0 @I2837@ INDI
+1 NAME Christopher Vance /Hammer/
+2 GIVN Christopher Vance
+2 SURN Hammer
+1 SEX M
+1 _UID 624ACA4320B1B4489ACC79933F1F04B40EC2
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 JUL 1968
+1 FAMS @F1027@
+1 FAMC @F1025@
+0 @I2838@ INDI
+1 NAME Christina /Erdman/
+2 GIVN Christina
+2 SURN Erdman
+1 SEX F
+1 _UID A5C4228EE380734CBC9758BE985029A05535
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1027@
+0 @I2839@ INDI
+1 NAME Carolyn Ann /Hammer/
+2 GIVN Carolyn Ann
+2 SURN Hammer
+1 SEX F
+1 _UID 026BB24E49FC134C9A2D0876C47CB9CF1E0F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 JAN 1971
+1 FAMS @F1028@
+1 FAMC @F1025@
+0 @I2840@ INDI
+1 NAME Erasmus /Jessen/
+2 GIVN Erasmus
+2 SURN Jessen
+1 SEX M
+1 _UID 0BEEC0E7266E914D9E91327BC5DFD98EF929
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1028@
+0 @I2841@ INDI
+1 NAME Jeffrey Brent /Hammer/
+2 GIVN Jeffrey Brent
+2 SURN Hammer
+1 SEX M
+1 _UID 95C35E746E7DD04896858A0A371F24EC4222
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 OCT 1972
+1 FAMS @F1030@
+1 FAMC @F1025@
+0 @I2842@ INDI
+1 NAME Barbara Ann /Boehm/
+2 GIVN Barbara Ann
+2 SURN Boehm
+1 SEX F
+1 _UID FCE3253FC5B17E4DB45A6072ED521EC687FA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 JUN 1944
+1 FAMS @F1029@
+0 @I2843@ INDI
+1 NAME Shane Christopher /Hammer/
+2 GIVN Shane Christopher
+2 SURN Hammer
+1 SEX M
+1 _UID 650EE6CCF7E71847B8D44A6CBAE5C92430B3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 SEP 1999
+1 FAMC @F1027@
+0 @I2844@ INDI
+1 NAME Carla /Nelson/
+2 GIVN Carla
+2 SURN Nelson
+1 SEX F
+1 _UID CCA74A25F5FE3748AF83AE2E3C0200B6563D
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1030@
+0 @I2845@ INDI
+1 NAME Aidan Christopher /Hammer/
+2 GIVN Aidan Christopher
+2 SURN Hammer
+1 SEX M
+1 _UID CD2DA1C108E98B4D966E71C169A34477223D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 JAN 1998
+1 FAMC @F1030@
+0 @I2846@ INDI
+1 NAME Douglas Melvin /Jeske/
+2 GIVN Douglas Melvin
+2 SURN Jeske
+1 SEX M
+1 _UID 38A3A7B40C522441B27DCFDA44B0CCEA7BD3
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1031@
+0 @I2847@ INDI
+1 NAME Angela Kae /Jeske/
+2 GIVN Angela Kae
+2 SURN Jeske
+1 SEX F
+1 _UID BDF47E6B3748024984A7E91D72B18A06486D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 JUL 1970
+2 PLAC Webster, South Dakota, Day Co.
+1 FAMC @F1031@
+0 @I3193@ INDI
+1 NAME Daniel Young /Deardurff/
+2 GIVN Daniel Young
+2 SURN Deardurff
+1 SEX M
+1 _UID 39080CB93B5A5243911C446899FD82E38474
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 26 JAN 1869
+2 PLAC Indiana
+1 DEAT
+2 DATE 3 MAY 1933
+1 FAMS @F476@
+0 @I3205@ INDI
+1 NAME Raymond /Deardurff/
+2 GIVN Raymond
+2 SURN Deardurff
+1 SEX M
+1 _UID 26D05B23AED0CA419D64190EC042E7BFCD69
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 MAY 1899
+2 PLAC Indiana
+1 DEAT
+2 DATE 3 JUN 1968
+1 FAMS @F790@
+1 FAMS @F791@
+1 FAMS @F1178@
+1 FAMC @F476@
+0 @I3206@ INDI
+1 NAME Hazel M. /Tuck/
+2 GIVN Hazel M.
+2 SURN Tuck
+1 SEX F
+1 _UID C5A02E7702EE1E46A6C1653E0E1DC082D5CF
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1178@
+0 @I3209@ INDI
+1 NAME John Richard /Davidson/
+2 GIVN John Richard
+2 SURN Davidson
+1 SEX M
+1 _UID 329535027D5ED140BED8D315331B97B70460
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 MAY 1964
+2 PLAC Aberdeen, South Dakota, Brown Co.
+1 FAMS @F1150@
+1 FAMC @F853@
+0 @I3210@ INDI
+1 NAME James Michael /Davidson/
+2 GIVN James Michael
+2 SURN Davidson
+1 SEX M
+1 _UID 873D7F9752390A438414D774036DCA6635F1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 31 DEC 1965
+2 PLAC Aberdeen, South Dakota, Brown Co.
+1 FAMS @F1181@
+1 FAMC @F853@
+0 @I3211@ INDI
+1 NAME Denise /Gontarek/
+2 GIVN Denise
+2 SURN Gontarek
+1 SEX F
+1 _UID B3DC2F7B257D6349A4648604F9DE4414489D
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1150@
+0 @I3214@ INDI
+1 NAME Ryan Richard /Davidson/
+2 GIVN Ryan Richard
+2 SURN Davidson
+1 SEX M
+1 _UID A2DEF606F1E61845AB1DB82DFFBC9E6F259E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 JUN 1996
+1 FAMC @F1150@
+0 @I3215@ INDI
+1 NAME Matthew Dennis /Davidson/
+2 GIVN Matthew Dennis
+2 SURN Davidson
+1 SEX M
+1 _UID F09530EE25723047BA6603537945B6CD68A9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 AUG 1998
+1 FAMC @F1150@
+0 @I3216@ INDI
+1 NAME Cara /Geister/
+2 GIVN Cara
+2 SURN Geister
+1 SEX F
+1 _UID 6C9B1C42244EE84D9577CF1A10FA1A3D626A
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1181@
+0 @I5439@ INDI
+1 NAME Dennis /Peckham/
+2 GIVN Dennis
+2 SURN Peckham
+1 SEX M
+1 _UID A373479FF1B38544AFADB85E148EDF2D89B3
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1919@
+0 @I5440@ INDI
+1 NAME Blake /Torrence/
+2 GIVN Blake
+2 SURN Torrence
+1 SEX M
+1 _UID C3B1C9FAEA62AC409BCFD8BC6DC8248D5383
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F1920@
+0 @I5689@ INDI
+1 NAME Ashley Marie /Miller/
+2 GIVN Ashley Marie
+2 SURN Miller
+1 SEX F
+1 _UID B3198788B147CF41854A739B30772D00940F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 DEC 1999
+1 BIRT
+2 PLAC 2:28 PM at Onslow Hospital, Jacksonville, NC
+1 FAMC @F474@
+0 @I5965@ INDI
+1 NAME Henry Lawrence /Slater/
+2 GIVN Henry Lawrence
+2 SURN Slater
+1 SEX M
+1 _UID 26CDE5549876594DB39751F92FC9F75ABD69
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 APR 1906
+2 PLAC Bismark, North Dakota
+1 DEAT
+2 DATE 27 NOV 1980
+1 FAMS @F2113@
+0 @I6064@ INDI
+1 NAME Henry Enos /Olson/
+2 GIVN Henry Enos
+2 SURN Olson
+1 SEX M
+1 _UID FCD5BF0616EB404091A9E2133B0C33AE6ED2
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 DEC 1908
+1 BIRT
+2 DATE 18 DEC 1906
+2 PLAC May be birth date
+1 DEAT
+2 DATE 1973
+1 FAMS @F2190@
+1 FAMC @F70@
+0 @I6065@ INDI
+1 NAME Evelyn Lenoi /Olson/
+2 GIVN Evelyn Lenoi
+2 SURN Olson
+1 SEX F
+1 _UID 0C32BF71ABD8BB4DB8E7E4CF17A233417889
+1 NOTE                                            Obituary of Evelyn Daniel
+2 CONT      Evelyn Peckham Daniel, Co-publisher of the Sonora Daily, died
+2 CONC Friday in Stanford University Hospital in Palo Alto. She was 78.
+2 CONT      Mrs. Daniel, a native of Lily, S. D., was co- founder of the
+2 CONC newspaper with her husband, O.K. Peckham. She helped run the paper
+2 CONC from its founding in October, 1938, until its sale in July, 1958, when
+2 CONC it was incorporated into the Union Democrat.
+2 CONT      She functioned in all capacities at the Daily during its20 years
+2 CONC of puplishing, from answering phones and taking classified ads to
+2 CONC layout, pasteup and organizing the delivery boys.
+2 CONT      She saw the paper grow from a letter-size mimeographed sheet
+2 CONC filled with advertising to a full-fledged, photo-offset newspaper.
+2 CONT      The offset printing method, which up to 1950 hadn't been used by
+2 CONC the competing, letterpress weeklies in the country, led to a landmark
+2 CONC legal decision.
+2 CONT      When the competition, led by The Union Democrat, attempted to
+2 CONC block legal adjudication, the case went all the way to the California
+2 CONC Supreme Court. The Sonora Daily was victorious. The decision paved the
+2 CONC way for newspapers throughout the state.
+2 CONT      A plaque noting the history of the Sonora Daily was dedicated in
+2 CONC 1983 at the original site of the office on North Washington Street.
+2 CONT      After the paper was sold, Mrs. Daniel continued to be active in
+2 CONC the community.
+2 CONT She volunteered her time and business knowledge for numerous
+2 CONC organizations. She was often seen in downtown Sonora, selling tickets
+2 CONC to drawings for any number of causes.
+2 CONT      One of her efforts was a fund-raising crusade for the American
+2 CONC Cancer Society. She worked for a number of years in the 1970's
+2 CONC soliciting contributions from area businesses.
+2 CONT      Mrs. Daniel was named Emblem Club member of the year in 1973 for
+2 CONC her contributions to that organization.
+2 CONT      She also belonged to the Sonora Soroptimist Club and Church Women
+2 CONC United of St. Matthews 's Lutheran Church.
+2 CONT      She volunteered her time for Sonora Community Hospital, the
+2 CONC Tuolumne Co. Humane Society and the American Red Cross.
+2 CONT      Mrs. Daniel is survived by her husband, Charles Daniel of Sonora;
+2 CONC two sons, Elwyn Peckham of San Francisco and Charles Peckham of
+2 CONC Covallis, Oregon; two daughters, Donna Dawson of Chico and Betty
+2 CONC Mitchell of Palo Alto; two brothers, Kenneth Olson of Corvallis and
+2 CONC Pershing Olson of Turlock; a sister, Jean Barry of Berkeley, 16
+2 CONC grandchildren and six great grandchildren.
+2 CONT      Services will be held Wednesday at 11 a.m. at the Terzich-Wilson
+2 CONC Funeral Home with the Rev. Wallace Brookfield of St. Matthew's
+2 CONC Lutheran Church officiating. Burial will follow in Mountain Shadow
+2 CONC Cemetery.
+2 CONT      The Family requests that memorials be made to the American Cancer
+2 CONC Society or the donor's favorite charity.
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 17 FEB 1907
+2 PLAC Lily, Day Co., South Dakota
+1 DEAT
+2 DATE 16 AUG 1985
+2 PLAC Santa Clara Co., California
+1 BURI
+2 PLAC Mountain Shadow Cemetery
+1 SSN
+2 PLAC 567-16-5800
+1 FAMS @F2191@
+1 FAMS @F2172@
+1 FAMC @F70@
+0 @I6066@ INDI
+1 NAME Kenneth Gordon /Olson/
+2 GIVN Kenneth Gordon
+2 SURN Olson
+1 SEX M
+1 _UID C1341B94F7ECF748B23A3F67CFC22FD5ED58
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 JUL 1906
+1 FAMS @F2187@
+1 FAMS @F2188@
+1 FAMC @F70@
+0 @I6071@ INDI
+1 NAME Genedine /Olson/
+2 GIVN Genedine
+2 SURN Olson
+1 SEX F
+1 _UID 89CC74CE6269E34AAFAF6A53D8CC0991E8A8
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 FEB 1911
+1 FAMS @F2183@
+1 FAMC @F70@
+0 @I6072@ INDI
+1 NAME Pershing Orville /Olson/
+2 GIVN Pershing Orville
+2 SURN Olson
+1 SEX M
+1 _UID 2C78D4A034F9BC48B1A7F9409865CBE88ABF
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 AUG 1918
+2 PLAC Lily, Day Co., South Dakota
+1 DEAT
+2 DATE 5 OCT 1985
+2 PLAC Stanislaus Co., California
+1 SSN
+2 PLAC 549-05-7303
+1 FAMC @F70@
+0 @I6073@ INDI
+1 NAME Alene /Smith/
+2 GIVN Alene
+2 SURN Smith
+1 SEX F
+1 _UID 753B24278551684BAE91D7DBDCF4D5B7D187
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2148@
+0 @I6126@ INDI
+1 NAME Margaret Marceline /Slater/
+2 GIVN Margaret Marceline
+2 SURN Slater
+1 SEX F
+1 _UID 5E39D17A89A89A4D8107DC67C300D93E9F94
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 20 NOV 1929
+2 PLAC Bismark, North Dakota
+1 FAMS @F2132@
+1 FAMC @F2113@
+0 @I6127@ INDI
+1 NAME William Jay /Slater/
+2 GIVN William Jay
+2 SURN Slater
+1 SEX M
+1 _UID 07E168668B68974886AD394B7233FED0B2CC
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 MAR 1939
+2 PLAC Turtle Lake, North Dakota
+1 FAMS @F2168@
+1 FAMS @F2170@
+1 FAMS @F2171@
+1 FAMC @F2113@
+0 @I6130@ INDI
+1 NAME Robert Charles /Sitz/
+2 GIVN Robert Charles
+2 SURN Sitz
+1 SEX M
+1 _UID 1946C8C88302A44C8D0DA343DF8D690DC6F6
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 15 JUL 1929
+2 PLAC Burns, Oregon
+1 FAMS @F2132@
+0 @I6133@ INDI
+1 NAME Lawrence Allen /Sitz/
+2 GIVN Lawrence Allen
+2 SURN Sitz
+1 SEX M
+1 _UID A36596DFC462B044BCB56E008A20C5BFA484
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 SEP 1952
+2 PLAC Burns, Oregon
+1 FAMS @F2163@
+1 FAMC @F2132@
+0 @I6134@ INDI
+1 NAME Mary Kay /Sitz/
+2 GIVN Mary Kay
+2 SURN Sitz
+1 SEX F
+1 _UID CB08D4940F91114D976D21259325914410E5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 MAY 1954
+2 PLAC Burns, Oregon
+1 FAMS @F2165@
+1 FAMC @F2132@
+0 @I6135@ INDI
+1 NAME Diane Marie /Sitz/
+2 GIVN Diane Marie
+2 SURN Sitz
+1 SEX F
+1 _UID 184470F2C790E94484A08562FADCD7F3ED8D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 DEC 1954
+2 PLAC Burns, Oregon
+1 FAMS @F2166@
+1 FAMC @F2132@
+0 @I6136@ INDI
+1 NAME Barbara Sue Wigg /Sitz/
+2 GIVN Barbara Sue Wigg
+2 SURN Sitz
+1 SEX F
+1 _UID E63956AC73264640BE55191D3176BE7B69B0
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE SEP 1951
+1 FAMS @F2163@
+0 @I6139@ INDI
+1 NAME Erin Michael /Sitz/
+2 GIVN Erin Michael
+2 SURN Sitz
+1 SEX M
+1 _UID 01C313BA059E0E41878F740DDEAF470BF90C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 JUL 1977
+1 FAMC @F2163@
+0 @I6140@ INDI
+1 NAME Mandy Lynn /Sitz/
+2 GIVN Mandy Lynn
+2 SURN Sitz
+1 SEX F
+1 _UID E0582D1E5063EE419A2648500C765ABA53D4
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 AUG 1981
+1 FAMC @F2163@
+0 @I6141@ INDI
+1 NAME Allen Edward /Sitz/
+2 GIVN Allen Edward
+2 SURN Sitz
+1 SEX M
+1 _UID A962455241CA6E4BB3F4736736A624785F6A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 FEB 1984
+1 FAMC @F2163@
+0 @I6142@ INDI
+1 NAME Heather Ann /Sitz/
+2 GIVN Heather Ann
+2 SURN Sitz
+1 SEX F
+1 _UID FD29C4436A72A244ABC4067042D400DBC553
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 OCT 1986
+1 FAMC @F2163@
+0 @I6143@ INDI
+1 NAME Harry Richard /Otley/
+2 GIVN Harry Richard
+2 SURN Otley
+1 SEX M
+1 _UID 2982C866E7730645854FAD083069627C7E7C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 MAY 1952
+2 PLAC Burns, Oregon
+1 FAMS @F2165@
+0 @I6144@ INDI
+1 NAME Henry Richard /Otley/
+2 GIVN Henry Richard
+2 SURN Otley
+1 SEX M
+1 _UID 2855F66E1537AA479A2815C5A539901C44BB
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1 APR 1974
+1 FAMC @F2165@
+0 @I6145@ INDI
+1 NAME Kenneth Allen /Otley/
+2 GIVN Kenneth Allen
+2 SURN Otley
+1 SEX M
+1 _UID 3BE4AA4CB9D6544F82A80165787705D8A3EF
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 AUG 1979
+1 FAMC @F2165@
+0 @I6146@ INDI
+1 NAME James Ronald /Woelfel/
+2 GIVN James Ronald
+2 SURN Woelfel
+1 SEX M
+1 _UID 3FB4E69D973B74438EB3EB2B7C44F6DFEBBE
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE DEC 1952
+1 FAMS @F2166@
+0 @I6149@ INDI
+1 NAME Jamie Lynn /Woelfel/
+2 GIVN Jamie Lynn
+2 SURN Woelfel
+1 SEX F
+1 _UID 44545B243E040846BAE22AA80B4DF5127425
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 JUN 1982
+1 FAMC @F2166@
+0 @I6150@ INDI
+1 NAME Tracy Ann /Woelfel/
+2 GIVN Tracy Ann
+2 SURN Woelfel
+1 SEX F
+1 _UID BECE4534FC17724AAF309D3494AE710E45FB
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 14 AUG 1984
+1 FAMC @F2166@
+0 @I6151@ INDI
+1 NAME Michael Robert /Woelfel/
+2 GIVN Michael Robert
+2 SURN Woelfel
+1 SEX M
+1 _UID 1016E2395664E348AF6E6555EE3D5F1CA30F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 9 FEB 1986
+1 FAMC @F2166@
+0 @I6152@ INDI
+1 NAME David Allen /Woelfel/
+2 GIVN David Allen
+2 SURN Woelfel
+1 SEX M
+1 _UID D492BFE53BD6F945958E146245409BBBCDAF
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 21 SEP 1988
+1 FAMC @F2166@
+0 @I6153@ INDI
+1 NAME Lucretia /Sayer/
+2 GIVN Lucretia
+2 SURN Sayer
+1 SEX F
+1 _UID BE2932B2E173F04E8CDBAECB973320F11836
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2168@
+0 @I6155@ INDI
+1 NAME Cynthia Lou /Slater/
+2 GIVN Cynthia Lou
+2 SURN Slater
+1 SEX F
+1 _UID 96CF619390C5724C83CDC2265024AE682E0A
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 OCT 1962
+1 FAMC @F2168@
+0 @I6156@ INDI
+1 NAME Lindsay Day /Slater/
+2 GIVN Lindsay Day
+2 SURN Slater
+1 SEX F
+1 _UID B3FD2031E017FE46B9B095C78BD8C5B5DE0B
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1967
+1 FAMC @F2168@
+0 @I6157@ INDI
+1 NAME Claudia Ann /Leslie/
+2 GIVN Claudia Ann
+2 SURN Leslie
+1 SEX F
+1 _UID 2D95F1882FC3174CBE0CEE83EA16383033B9
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2170@
+0 @I6158@ INDI
+1 NAME William Jay /Slater/
+2 GIVN William Jay
+2 SURN Slater
+1 SEX M
+1 _UID 39DC0F548942AA4B9D3B7CB1486102FBE337
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 JUL 1978
+1 FAMC @F2170@
+0 @I6159@ INDI
+1 NAME  /Margaret/
+2 SURN Margaret
+1 SEX F
+1 _UID 71A47D159A159A48941675BA143D119A0D9B
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2171@
+0 @I6160@ INDI
+1 NAME Kenneth /Peckham/
+2 GIVN Kenneth
+2 SURN Peckham
+1 SEX M
+1 _UID 7E3815EE0742254CA55B0687E03FA97E4625
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 19 JUL 1907
+1 DEAT
+2 DATE 15 MAY 1988
+2 PLAC Santa Clara Co., California
+1 FAMS @F2172@
+0 @I6161@ INDI
+1 NAME Elwyn Kay /Peckham/
+2 GIVN Elwyn Kay
+2 SURN Peckham
+1 SEX M
+1 _UID D5464C202061BA4FA54EBEBA50DCFE993FB1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 DEC 1929
+2 PLAC Watertown, South Dakota
+1 FAMS @F2173@
+1 FAMC @F2172@
+0 @I6162@ INDI
+1 NAME Donna Jean /Peckham/
+2 GIVN Donna Jean
+2 SURN Peckham
+1 SEX F
+1 _UID 14E1D981ABFB184A9EA9AA39F533F451EE7F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 8 JUN 1931
+2 PLAC Aberdeen, Brown Co., South Dakota
+1 FAMS @F2175@
+1 FAMC @F2172@
+0 @I6163@ INDI
+1 NAME Charles Wesley /Peckham/
+2 GIVN Charles Wesley
+2 SURN Peckham
+1 SEX M
+1 _UID 2745578D3BFD7F4783BAA48C19B0A1C4E9BA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 APR 1935
+1 FAMS @F2181@
+1 FAMC @F2172@
+0 @I6164@ INDI
+1 NAME Elizabeth Jane /Peckham/
+2 GIVN Elizabeth Jane
+2 SURN Peckham
+1 SEX F
+1 _UID 8558E53B2A212B4A9B375AB6F9D0969F9DCA
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 NOV 1932
+2 PLAC Redfield, South Dakota
+1 FAMS @F2180@
+1 FAMC @F2172@
+0 @I6165@ INDI
+1 NAME Dianne /O' Donnell/
+2 GIVN Dianne
+2 SURN O' Donnell
+1 SEX F
+1 _UID 4C35F85CF2887B4197167A080A81DE48EB63
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 JUN 1930
+1 FAMS @F2173@
+0 @I6166@ INDI
+1 NAME Samuel Charles /Peckham/
+2 GIVN Samuel Charles
+2 SURN Peckham
+1 SEX M
+1 _UID 4678EEF7668A2D448698CD5410008538101F
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 OCT 1953
+2 PLAC Oakland, California
+1 FAMS @F2189@
+1 FAMC @F2173@
+0 @I6167@ INDI
+1 NAME David Elwyn /Peckham/
+2 GIVN David Elwyn
+2 SURN Peckham
+1 SEX M
+1 _UID 3F9C93FE01F0074D861F27E3AF8342774BFD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 NOV 1954
+2 PLAC Oakland, California
+1 BIRT
+2 PLAC Herick Hospital
+1 FAMC @F2173@
+0 @I6168@ INDI
+1 NAME Benjamin James /Peckham/
+2 GIVN Benjamin James
+2 SURN Peckham
+1 SEX M
+1 _UID 8A8F39155D3A0A4C964ED07ACF8A543D6CED
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 MAR 1956
+2 PLAC Oakland, California
+1 FAMC @F2173@
+0 @I6169@ INDI
+1 NAME Daniel Jonathan /Peckham/
+2 GIVN Daniel Jonathan
+2 SURN Peckham
+1 SEX M
+1 _UID 95A7430D1155FB43B08D3933DA61938E35F7
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 JUN 1957
+2 PLAC Oakland, California
+1 BIRT
+2 PLAC Martinez Hospital
+1 FAMC @F2173@
+0 @I6170@ INDI
+1 NAME Aaron Kenneth /Peckham/
+2 GIVN Aaron Kenneth
+2 SURN Peckham
+1 SEX M
+1 _UID C8F51263D13E824CB4742257A57048CCD99F
+1 NOTE         Aaron Kenneth Peckham was born 4/5/1960 at Martinez hospital.
+2 CONC He lived only 50 hours, Passing away at Children's Hospital in
+2 CONC Oakland, Ca
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 APR 1960
+2 PLAC Oakland, California
+1 BIRT
+2 PLAC Martinez Hospital
+1 FAMC @F2173@
+0 @I6173@ INDI
+1 NAME Wayne Paul /Dawson/
+2 GIVN Wayne Paul
+2 SURN Dawson
+1 SEX M
+1 _UID 546055A91563C84E906DC9CF5D0BE72C50B1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 26 JUL 1930
+2 PLAC Pacific Grove, California
+1 FAMS @F2175@
+0 @I6174@ INDI
+1 NAME Brooke Alyn /Dawson/
+2 GIVN Brooke Alyn
+2 SURN Dawson
+1 SEX F
+1 _UID 22673EF218DDC3459BF4DEF51821F20043A9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 JAN 1954
+2 PLAC King City, California
+1 FAMC @F2175@
+0 @I6175@ INDI
+1 NAME Blake Alan /Dawson/
+2 GIVN Blake Alan
+2 SURN Dawson
+1 SEX M
+1 _UID B2EC12C86E3F7943AD9E46CEF20560B047B5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 22 MAY 1955
+2 PLAC King City, California
+1 FAMC @F2175@
+0 @I6176@ INDI
+1 NAME Dawn Paige /Dawson/
+2 GIVN Dawn Paige
+2 SURN Dawson
+1 SEX F
+1 _UID 6481B5E0DC6CD84C9326F213D488221A3C18
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 NOV 1956
+2 PLAC Paradise, California
+1 FAMC @F2175@
+0 @I6177@ INDI
+1 NAME Kimberly Layne /Dawson/
+2 GIVN Kimberly Layne
+2 SURN Dawson
+1 SEX F
+1 _UID 4A73FE7FE041DE4E974562949FF715959954
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 JAN 1958
+2 PLAC San Francisco, California
+1 FAMC @F2175@
+0 @I6178@ INDI
+1 NAME Robert Laverne /Mitchell/
+2 GIVN Robert Laverne
+2 SURN Mitchell
+1 SEX M
+1 _UID 97AC6437A23C034AB68700D28D6E7DDE6E7C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 DEC 1929
+2 PLAC Sonora, California
+1 FAMS @F2180@
+0 @I6179@ INDI
+1 NAME Pamela Ann /Mitchell/
+2 GIVN Pamela Ann
+2 SURN Mitchell
+1 SEX F
+1 _UID 0180C1E0A63F1D42BB0D42CB5503ED27A783
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 7 MAY 1953
+2 PLAC Berkeley, California
+1 BIRT
+2 PLAC Herrick Hospital
+1 FAMS @F2184@
+1 FAMC @F2180@
+0 @I6180@ INDI
+1 NAME Mark Steven /Mitchell/
+2 GIVN Mark Steven
+2 SURN Mitchell
+1 SEX M
+1 _UID 3F403C938BE9914D9DB6761375EAD8A55841
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 5 JUN 1954
+2 PLAC Berkeley, California
+1 BIRT
+2 PLAC Herrick Hospital
+1 FAMS @F2185@
+1 FAMC @F2180@
+0 @I6181@ INDI
+1 NAME Matthew Brant /Mitchell/
+2 GIVN Matthew Brant
+2 SURN Mitchell
+1 SEX M
+1 _UID B5FECAA13AF02446A06284A19516B4E61E20
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 MAR 1957
+2 PLAC Berkeley, California
+1 BIRT
+2 PLAC Herrick Hospital
+1 FAMC @F2180@
+0 @I6182@ INDI
+1 NAME Tamara Allyson /Mitchell/
+2 GIVN Tamara Allyson
+2 SURN Mitchell
+1 SEX F
+1 _UID 4CB537F55822244999F707F571CAD3AC5A4D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 JUN 1958
+2 PLAC Berkeley, California
+1 BIRT
+2 PLAC Herrick Hospital
+1 FAMC @F2180@
+0 @I6183@ INDI
+1 NAME Yvonne /Speer/
+2 GIVN Yvonne
+2 SURN Speer
+1 SEX F
+1 _UID F8040066630D2F47A1E7A91331368967E3FF
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 24 NOV 1934
+2 PLAC Kansas
+1 FAMS @F2181@
+0 @I6184@ INDI
+1 NAME Peri Anne /Peckham/
+2 GIVN Peri Anne
+2 SURN Peckham
+1 SEX F
+1 _UID 7074549172953747AC893A754E155904F216
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 JAN 1960
+2 PLAC Berkeley, California
+1 FAMS @F2182@
+1 FAMC @F2181@
+0 @I6185@ INDI
+1 NAME Lee William /Kuhl/
+2 GIVN Lee William
+2 SURN Kuhl
+1 SEX M
+1 _UID 9E1550B75E0FC741B9B6A81EE30FD208308F
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2182@
+0 @I6186@ INDI
+1 NAME Kirk Andrew /Peckham/
+2 GIVN Kirk Andrew
+2 SURN Peckham
+1 SEX M
+1 _UID C5D1E106E21B2442846E927C9CD70556AEF5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 FEB 1962
+1 FAMC @F2181@
+0 @I6187@ INDI
+1 NAME Kenneth Eric /Peckham/
+2 GIVN Kenneth Eric
+2 SURN Peckham
+1 SEX M
+1 _UID 68A4811B54238B4089B4A81E70BAEB6C6E92
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 FEB 1962
+1 FAMC @F2181@
+0 @I6188@ INDI
+1 NAME George /Barry/
+2 GIVN George
+2 SURN Barry
+1 SEX M
+1 _UID 8F9B8F28B0489042869FBBE59A59585D180D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 29 JUL
+1 FAMS @F2183@
+0 @I6189@ INDI
+1 NAME Gary Will /Groslimond/
+2 GIVN Gary Will
+2 SURN Groslimond
+1 SEX M
+1 _UID C0F0820D92AF3F4B82F90FAFA498B6F429A7
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2184@
+0 @I6190@ INDI
+1 NAME Andrew Mitchell /Groslimond/
+2 GIVN Andrew Mitchell
+2 SURN Groslimond
+1 SEX M
+1 _UID 143F4E2EAEDC3F42B4B5B525E7A2CAE55574
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 NOV 1980
+1 FAMC @F2184@
+0 @I6191@ INDI
+1 NAME Jeffrey Paul /Groslimond/
+2 GIVN Jeffrey Paul
+2 SURN Groslimond
+1 SEX M
+1 _UID EA94F3E7032DAD418AE51D9010D0F766CF84
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 4 FEB 1983
+1 FAMC @F2184@
+0 @I6192@ INDI
+1 NAME Susan Sanborn /Paddock/
+2 GIVN Susan Sanborn
+2 SURN Paddock
+1 SEX F
+1 _UID E7FA7D4663C49F4F956638C37EE6A6F6AF04
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2185@
+0 @I6193@ INDI
+1 NAME Cameron Paddock /Mitchell/
+2 GIVN Cameron Paddock
+2 SURN Mitchell
+1 SEX M
+1 _UID 559D73C9FCD1E9488E5814BE48351F7EFEF0
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 27 APR 1982
+1 FAMC @F2185@
+0 @I6196@ INDI
+1 NAME  /Kathryn/
+2 SURN Kathryn
+1 SEX F
+1 _UID EAC0257CE2BE8347B669D8880DE044197E4D
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 12 JAN 1911
+2 PLAC Boston, Massachussetts
+1 FAMS @F2187@
+0 @I6197@ INDI
+1 NAME  /Della/
+2 SURN Della
+1 SEX F
+1 _UID 0B3A764FD51A6A488EEF1D193982582091B1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1906
+1 DEAT
+2 DATE 1947
+1 FAMS @F2188@
+0 @I6198@ INDI
+1 NAME Teresa Ann /Dominguez/
+2 GIVN Teresa Ann
+2 SURN Dominguez
+1 SEX F
+1 _UID E60F090814DDA34DABA2E2AA3146CF353B76
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 JUN 1958
+1 FAMS @F2189@
+0 @I6199@ INDI
+1 NAME  /Ethel/
+2 SURN Ethel
+1 SEX F
+1 _UID F5CA0A856C572A4EBF4F3C564C33DBE96C41
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 PLAC North Dakota
+1 FAMS @F2190@
+0 @I6200@ INDI
+1 NAME Charles Wesley /Daniel/
+2 GIVN Charles Wesley
+2 SURN Daniel
+1 SEX M
+1 _UID F27EC0A51578C8428B42DAC450074BB73061
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 28 APR 1924
+1 FAMS @F2191@
+0 @I6276@ INDI
+1 NAME Fredric Adam /Ash/
+2 GIVN Fredric Adam
+2 SURN Ash
+1 SEX M
+1 _UID A38167C54B85E446B6F5B8A7FF3766130371
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 SEP 1965
+2 PLAC Rupert, Minidoka, Idaho
+1 FAMC @F858@
+0 @I6277@ INDI
+1 NAME Jonathan Daniel /Ash/
+2 GIVN Jonathan Daniel
+2 SURN Ash
+1 SEX M
+1 _UID 99C3C1AED5BE974EA994D617A84ED42B6253
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 25 JAN 1967
+2 PLAC Rupert, Minidoka, Idaho
+1 FAMS @F2223@
+1 FAMC @F858@
+0 @I6278@ INDI
+1 NAME Michelle Ann /Lind/
+2 GIVN Michelle Ann
+2 SURN Lind
+1 SEX F
+1 _UID B340E412972F1A42B42096FB28C13F720A7F
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2223@
+0 @I6279@ INDI
+1 NAME Heather Jane /Ash/
+2 GIVN Heather Jane
+2 SURN Ash
+1 SEX F
+1 _UID D1D26EB62B9D9B4992ECD08E881900493960
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1 MAR 1969
+2 PLAC Twin Falls, Twin Falls, Idaho
+1 FAMS @F2224@
+1 FAMC @F858@
+0 @I6280@ INDI
+1 NAME Thomas Clarke /Bishop/
+2 GIVN Thomas Clarke
+2 SURN Bishop
+1 SEX M
+1 _UID 2123CF9056F81B4CB6D42637344BED3BE662
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2224@
+0 @I6281@ INDI
+1 NAME Nathan Edward /Ash/
+2 GIVN Nathan Edward
+2 SURN Ash
+1 SEX M
+1 _UID E65A54AB40CD6B4CABCBF9A41BE9C8B99BF5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 30 DEC 1970
+1 FAMS @F2225@
+1 FAMC @F858@
+0 @I6282@ INDI
+1 NAME Jennifer /Flores/
+2 GIVN Jennifer
+2 SURN Flores
+1 SEX F
+1 _UID AEA27986DD32A34C8323C443B50C693B5F4F
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2225@
+0 @I6283@ INDI
+1 NAME Joseph Hastings /Ash/
+2 GIVN Joseph Hastings
+2 SURN Ash
+1 SEX M
+1 _UID D0F15A6DD97C814EB652486E6DF79FC7343E
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 26 DEC 1972
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 FAMS @F2226@
+1 FAMC @F858@
+0 @I6284@ INDI
+1 NAME Veronica Lissette /Perez/
+2 GIVN Veronica Lissette
+2 SURN Perez
+1 SEX F
+1 _UID 1256960212EF1440BDF8CEDD3675B8B8D0D1
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2226@
+0 @I6285@ INDI
+1 NAME Louella Jean /McDowell/
+2 GIVN Louella Jean
+2 SURN McDowell
+1 SEX F
+1 _UID 208A6397849838469D0D635F563C8243014C
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 16 OCT 1944
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 FAMS @F2227@
+0 @I6288@ INDI
+1 NAME William McDowell /Ash/
+2 GIVN William McDowell
+2 SURN Ash
+1 SEX M
+1 _UID C79ECC15B114EA4F8F706C1DDCC548732861
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 10 FEB 1985
+2 PLAC West Valley City, Salt Lake Co., Utah
+1 FAMC @F2227@
+0 @I6294@ INDI
+1 NAME Barbara Grace /Davis/
+2 GIVN Barbara Grace
+2 SURN Davis
+1 SEX F
+1 _UID 4E80986E3EF9F9419E24935C65259F82A1D1
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 2 JUL 1935
+2 PLAC Boise, Ada Co., Idaho
+1 FAMS @F2230@
+1 FAMC @F869@
+0 @I6295@ INDI
+1 NAME Franklin Morris /Hague/
+2 GIVN Franklin Morris
+2 SURN Hague
+1 SEX M
+1 _UID 6984003BD68D7341BAD4284C01D638AFFFD6
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2230@
+0 @I6296@ INDI
+1 NAME Darrell Henry /Davis/
+2 GIVN Darrell Henry
+2 SURN Davis
+1 SEX M
+1 _UID BCAB90193964454E9E86D2FBA7471C4D88B5
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 23 FEB 1940
+2 PLAC Boise, Ada Co., Idaho
+1 FAMS @F2231@
+1 FAMC @F869@
+0 @I6297@ INDI
+1 NAME Constance L. /Garner/
+2 GIVN Constance L.
+2 SURN Garner
+1 SEX F
+1 _UID 10608E96D3BEDD48AA1E95512039982811F2
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2231@
+0 @I6298@ INDI
+1 NAME Judith Mae /Davis/
+2 GIVN Judith Mae
+2 SURN Davis
+1 SEX F
+1 _UID A7D0F5BA2325C94C8410D56856DB706D6205
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 6 JUL 1942
+2 PLAC Spokane, Washington
+1 FAMS @F2221@
+1 FAMC @F869@
+0 @I6299@ INDI
+1 NAME Larry /Druyon/
+2 GIVN Larry
+2 SURN Druyon
+1 SEX M
+1 _UID 779CE2AA6A5BA044956BB84318C71395CABB
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2221@
+0 @I6300@ INDI
+1 NAME Howard Ash /Davis/
+2 GIVN Howard Ash
+2 SURN Davis
+1 SEX M
+1 _UID E07500E642056E42AC883994C4F6406F9CA9
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 3 NOV 1945
+2 PLAC Dayton, Washington
+1 FAMS @F2232@
+1 FAMC @F869@
+0 @I6301@ INDI
+1 NAME  /Susan/
+2 SURN Susan
+1 SEX F
+1 _UID 1662C4B8A006D748B79F4B0FF16FF26D285E
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2232@
+0 @I6302@ INDI
+1 NAME Sue Ellen /Davis/
+2 GIVN Sue Ellen
+2 SURN Davis
+1 SEX F
+1 _UID 302682F696F8704A8448A847E400399A8885
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 31 MAR 1949
+2 PLAC Enterprise, Oregon
+1 FAMC @F869@
+0 @I6303@ INDI
+1 NAME Linda Louise /Davis/
+2 GIVN Linda Louise
+2 SURN Davis
+1 SEX F
+1 _UID DBDAD7A4DC2A8C4180984D5F15580D0B4CBD
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 18 MAY 1954
+2 PLAC Portland, Multnomah Co., Oregon
+1 FAMS @F2233@
+1 FAMC @F869@
+0 @I6304@ INDI
+1 NAME Norm /West/
+2 GIVN Norm
+2 SURN West
+1 SEX M
+1 _UID C23280DA39DE0D4993C3815885DF2D9B16BA
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2233@
+0 @I6364@ INDI
+1 NAME Cynthia /Wells/
+2 GIVN Cynthia
+2 SURN Wells
+1 SEX F
+1 _UID EB50DCA15857F34187F9877C990BAA92FE41
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 1900
+1 FAMS @F2248@
+0 @I6529@ INDI
+1 NAME Mineva /Gay/
+2 GIVN Mineva
+2 SURN Gay
+1 SEX F
+1 _UID 34E25906B276224AB83985C6B9F3A59F35F3
+1 SOUR @S2@
+1 SOUR @S1@
+1 BIRT
+2 DATE 13 MAR 1913
+1 DEAT
+2 DATE JUL 1987
+2 PLAC Carlsbad, Eddy Co., New Mexico
+1 FAMS @F2301@
+0 @I6530@ INDI
+1 NAME Mark /Ash/
+2 GIVN Mark
+2 SURN Ash
+1 SEX M
+1 _UID CCACA00B2D48664B957609B87C728078FB64
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2323@
+1 FAMC @F2301@
+0 @I6554@ INDI
+1 NAME Martha Hartwell /Kellar/
+2 GIVN Martha Hartwell
+2 SURN Kellar
+1 SEX F
+1 _UID 189CAB67D447184096BBF1BD1F17F1B514E2
+1 SOUR @S2@
+1 SOUR @S1@
+1 FAMS @F2323@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I5@
+1 CHIL @I6@
+1 MARR
+2 DATE 27 JAN 1842
+2 PLAC Marshall Co., Indiana
+0 @F3@ FAM
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I5@
+1 CHIL @I6@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC ?
+0 @F11@ FAM
+1 HUSB @I5@
+1 WIFE @I72@
+1 CHIL @I73@
+1 CHIL @I74@
+1 CHIL @I75@
+1 CHIL @I76@
+1 CHIL @I77@
+1 CHIL @I78@
+1 CHIL @I79@
+1 CHIL @I80@
+1 CHIL @I81@
+1 CHIL @I82@
+1 CHIL @I83@
+1 MARR
+2 DATE 4 APR 1869
+2 PLAC Morocco, Indiana-Newton Co.
+0 @F12@ FAM
+1 HUSB @I6@
+1 WIFE @I182@
+1 CHIL @I183@
+1 CHIL @I184@
+1 MARR
+2 DATE 10 NOV 1891
+0 @F15@ FAM
+1 HUSB @I82@
+1 WIFE @I84@
+1 CHIL @I85@
+1 CHIL @I86@
+1 CHIL @I87@
+1 CHIL @I88@
+1 CHIL @I89@
+1 CHIL @I90@
+1 MARR
+2 DATE 22 NOV 1910
+2 PLAC Day Co, S.D.
+0 @F16@ FAM
+1 HUSB @I90@
+1 WIFE @I91@
+1 CHIL @I92@
+1 CHIL @I93@
+1 MARR
+2 DATE 26 MAY 1948
+2 PLAC Farmington, MN
+0 @F17@ FAM
+1 HUSB @I92@
+1 WIFE @I94@
+1 CHIL @I95@
+1 CHIL @I96@
+1 CHIL @I97@
+1 MARR
+2 DATE 27 OCT 1976
+2 PLAC St. Paul, MN-Ramsey Co.
+0 @F18@ FAM
+1 HUSB @I93@
+1 WIFE @I98@
+1 CHIL @I99@
+1 CHIL @I100@
+1 CHIL @I101@
+1 CHIL @I102@
+1 MARR
+2 DATE 18 MAY 1979
+2 PLAC Coon Rapids , MN-Anoka Co.
+0 @F21@ FAM
+1 HUSB @I180@
+1 WIFE @I73@
+1 CHIL @I181@
+1 MARR
+2 DATE 23 JUL 1906
+2 PLAC Minneapolis, Hennepin Co., Minnesota
+0 @F22@ FAM
+1 HUSB @I179@
+1 WIFE @I158@
+1 MARR
+2 DATE 23 SEP 1978
+2 PLAC ?
+0 @F23@ FAM
+1 HUSB @I103@
+1 WIFE @I85@
+1 CHIL @I104@
+1 CHIL @I105@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC ?
+0 @F24@ FAM
+1 HUSB @I106@
+1 WIFE @I85@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC Buffalo NY
+0 @F25@ FAM
+1 HUSB @I107@
+1 WIFE @I86@
+1 MARR
+2 DATE 26 JUN 1937
+2 PLAC Milbank SD-Grant Co.
+0 @F26@ FAM
+1 HUSB @I87@
+1 WIFE @I108@
+1 CHIL @I109@
+1 CHIL @I110@
+1 CHIL @I111@
+1 CHIL @I112@
+1 CHIL @I113@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC ?
+0 @F27@ FAM
+1 HUSB @I114@
+1 WIFE @I111@
+1 CHIL @I115@
+1 CHIL @I116@
+1 MARR
+2 DATE 8 JUN 1968
+2 PLAC Langford, SD, Marshall Co.
+0 @F28@ FAM
+1 HUSB @I117@
+1 WIFE @I111@
+1 CHIL @I118@
+1 MARR
+2 DATE 7 APR 1978
+2 PLAC Aberdeen , SD, BrownCo.
+0 @F29@ FAM
+1 HUSB @I110@
+1 WIFE @I119@
+1 CHIL @I120@
+1 MARR
+2 DATE 29 OCT 1982
+2 PLAC Aberdeen, SD-, Brown Co.
+0 @F30@ FAM
+1 HUSB @I123@
+1 WIFE @I109@
+1 CHIL @I124@
+1 CHIL @I125@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC ?
+0 @F31@ FAM
+1 HUSB @I128@
+1 WIFE @I109@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC ?
+0 @F32@ FAM
+1 HUSB @I129@
+1 WIFE @I112@
+1 CHIL @I1211@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC Aberdeen, South Dakota, Brown Co.
+0 @F33@ FAM
+1 HUSB @I88@
+1 WIFE @I130@
+1 CHIL @I131@
+1 CHIL @I132@
+1 CHIL @I133@
+1 CHIL @I134@
+1 CHIL @I135@
+1 MARR
+2 DATE 14 NOV 1946
+2 PLAC ?
+0 @F34@ FAM
+1 HUSB @I134@
+1 WIFE @I136@
+1 CHIL @I137@
+1 CHIL @I138@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC ?
+0 @F35@ FAM
+1 HUSB @I131@
+1 WIFE @I140@
+0 @F36@ FAM
+1 HUSB @I141@
+1 WIFE @I132@
+1 CHIL @I142@
+1 CHIL @I143@
+1 MARR
+2 DATE 1972
+2 PLAC ?
+0 @F37@ FAM
+1 HUSB @I144@
+1 WIFE @I132@
+1 MARR
+2 DATE 18 JUN 1986
+2 PLAC ?
+0 @F38@ FAM
+1 HUSB @I145@
+1 WIFE @I133@
+1 CHIL @I146@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC ?
+0 @F39@ FAM
+1 HUSB @I147@
+1 WIFE @I146@
+1 CHIL @I148@
+0 @F40@ FAM
+1 HUSB @I135@
+1 WIFE @I149@
+1 CHIL @I150@
+1 CHIL @I151@
+1 CHIL @I152@
+1 MARR
+2 DATE 6 OCT 1989
+2 PLAC Anoka Co. Courthouse, Brooklyn Center, MN
+0 @F41@ FAM
+1 HUSB @I127@
+1 WIFE @I109@
+1 CHIL @I126@
+1 CHIL @I2193@
+0 @F42@ FAM
+1 HUSB @I89@
+1 WIFE @I153@
+1 CHIL @I154@
+1 CHIL @I155@
+1 CHIL @I156@
+1 CHIL @I157@
+1 CHIL @I158@
+1 MARR
+2 DATE 20 NOV 1946
+2 PLAC Gloria Dei Lutheran Church, St. Paul, RamseyCo.MN
+0 @F43@ FAM
+1 HUSB @I159@
+1 WIFE @I154@
+1 CHIL @I160@
+1 CHIL @I161@
+1 CHIL @I162@
+1 CHIL @I163@
+1 MARR
+2 DATE 12 AUG 1967
+2 PLAC ?
+0 @F44@ FAM
+1 HUSB @I155@
+1 WIFE @I164@
+1 CHIL @I165@
+1 CHIL @I166@
+1 CHIL @I167@
+1 MARR
+2 DATE 2 AUG 1973
+2 PLAC ?
+0 @F45@ FAM
+1 HUSB @I156@
+1 WIFE @I168@
+1 CHIL @I169@
+1 MARR
+2 DATE 30 SEP 1972
+2 PLAC ?
+0 @F46@ FAM
+1 HUSB @I156@
+1 WIFE @I170@
+1 CHIL @I171@
+1 CHIL @I172@
+1 MARR
+2 DATE 18 MAR 1977
+2 PLAC ?
+0 @F47@ FAM
+1 HUSB @I157@
+1 WIFE @I173@
+1 CHIL @I174@
+1 CHIL @I175@
+1 CHIL @I176@
+1 MARR
+2 DATE 3 APR 1974
+2 PLAC ?
+0 @F48@ FAM
+1 HUSB @I157@
+1 WIFE @I177@
+1 CHIL @I178@
+1 MARR
+2 DATE 17 APR 1989
+2 PLAC ?
+0 @F50@ FAM
+1 HUSB @I1208@
+1 WIFE @I115@
+1 MARR
+2 DATE 23 APR 1994
+0 @F51@ FAM
+1 HUSB @I185@
+1 WIFE @I3@
+1 CHIL @I189@
+1 CHIL @I190@
+1 CHIL @I191@
+1 CHIL @I194@
+1 CHIL @I192@
+1 CHIL @I193@
+1 MARR
+2 DATE 21 APR 1872
+2 PLAC Morocco, Newton Co., Indiana
+0 @F54@ FAM
+1 HUSB @I205@
+1 WIFE @I4@
+1 CHIL @I206@
+1 CHIL @I207@
+1 MARR
+2 DATE 26 SEP 1875
+2 PLAC ?
+0 @F55@ FAM
+1 HUSB @I74@
+1 WIFE @I208@
+1 CHIL @I209@
+1 CHIL @I210@
+1 CHIL @I211@
+1 CHIL @I212@
+1 CHIL @I213@
+1 MARR
+2 DATE 1 JAN 1899
+2 PLAC Halfway, Montana
+0 @F60@ FAM
+1 HUSB @I75@
+1 WIFE @I220@
+0 @F61@ FAM
+1 HUSB @I221@
+1 WIFE @I76@
+1 MARR
+2 DATE 11 NOV 1900
+2 PLAC ?
+0 @F62@ FAM
+1 HUSB @I213@
+1 WIFE @I2788@
+1 MARR
+2 DATE 15 AUG 1935
+2 PLAC Minneapolis, Minnesota, Hennepin Co.
+0 @F63@ FAM
+1 HUSB @I77@
+1 WIFE @I222@
+1 CHIL @I2424@
+1 CHIL @I2426@
+1 CHIL @I2427@
+1 CHIL @I2411@
+1 CHIL @I2429@
+1 MARR
+2 DATE 11 OCT 1905
+2 PLAC Walla Walla , Washington
+0 @F69@ FAM
+1 HUSB @I233@
+1 WIFE @I78@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC ?
+0 @F70@ FAM
+1 HUSB @I234@
+1 WIFE @I80@
+1 CHIL @I6066@
+1 CHIL @I6065@
+1 CHIL @I6064@
+1 CHIL @I6071@
+1 CHIL @I6072@
+1 MARR
+2 DATE 22 DEC 1904
+2 PLAC ?
+0 @F71@ FAM
+1 HUSB @I235@
+1 WIFE @I81@
+1 MARR
+2 DATE 22 NOV 1910
+2 PLAC ?
+0 @F179@ FAM
+1 HUSB @I116@
+1 WIFE @I1209@
+1 CHIL @I1210@
+1 MARR
+2 DATE 2 OCT 1993
+0 @F265@ FAM
+1 HUSB @I1212@
+1 WIFE @I112@
+1 CHIL @I1213@
+1 MARR
+2 DATE UNKNOWN
+2 PLAC Langford, SD, Marshall Co.
+0 @F405@ FAM
+1 HUSB @I2749@
+1 WIFE @I211@
+1 CHIL @I2750@
+1 CHIL @I2762@
+1 CHIL @I2764@
+1 MARR
+2 DATE 13 OCT 1927
+2 PLAC Watertown, South Dakota
+0 @F434@ FAM
+1 HUSB @I1214@
+1 WIFE @I112@
+1 CHIL @I1215@
+0 @F467@ FAM
+1 HUSB @I110@
+1 WIFE @I1287@
+1 CHIL @I122@
+1 CHIL @I121@
+1 MARR
+2 DATE UNKNOWN
+0 @F472@ FAM
+1 HUSB @I134@
+1 WIFE @I139@
+1 CHIL @I1296@
+0 @F474@ FAM
+1 HUSB @I1299@
+1 WIFE @I95@
+1 CHIL @I1300@
+1 CHIL @I5689@
+1 MARR
+2 DATE 19 SEP 1997
+2 PLAC Ramsey, Anoka Co., MN
+0 @F476@ FAM
+1 HUSB @I3193@
+1 WIFE @I189@
+1 CHIL @I2195@
+1 CHIL @I3205@
+1 MARR
+2 DATE 30 JAN 1896
+2 PLAC Newton Co., Indiana
+0 @F479@ FAM
+1 HUSB @I2197@
+1 WIFE @I190@
+1 CHIL @I2198@
+1 CHIL @I2199@
+1 CHIL @I2200@
+1 CHIL @I2201@
+1 MARR
+2 DATE 1 NOV 1896
+2 PLAC Kentland, Jasper Co., Indiana
+0 @F686@ FAM
+1 HUSB @I2411@
+1 WIFE @I2412@
+1 CHIL @I2415@
+1 CHIL @I2417@
+1 CHIL @I2418@
+1 CHIL @I2419@
+1 MARR
+2 DATE 1 JUN 1938
+2 PLAC Rupert, Idaho
+0 @F786@ FAM
+1 HUSB @I2202@
+1 WIFE @I190@
+0 @F787@ FAM
+1 HUSB @I192@
+1 WIFE @I2203@
+1 CHIL @I2204@
+1 CHIL @I2205@
+1 CHIL @I2206@
+1 CHIL @I2207@
+1 CHIL @I2208@
+1 MARR
+2 DATE 4 MAR 1907
+2 PLAC Mary Dunham's Place, Benton Co., Indiana
+0 @F788@ FAM
+1 HUSB @I193@
+1 WIFE @I2209@
+1 CHIL @I2210@
+0 @F789@ FAM
+1 HUSB @I2195@
+1 WIFE @I2211@
+1 CHIL @I2212@
+1 CHIL @I2213@
+1 CHIL @I2214@
+1 CHIL @I2215@
+0 @F790@ FAM
+1 HUSB @I3205@
+1 WIFE @I2216@
+1 CHIL @I2217@
+0 @F791@ FAM
+1 HUSB @I3205@
+1 WIFE @I2218@
+0 @F792@ FAM
+1 HUSB @I2219@
+1 WIFE @I2198@
+1 CHIL @I2220@
+0 @F793@ FAM
+1 HUSB @I2221@
+1 WIFE @I2199@
+1 CHIL @I2222@
+1 CHIL @I2223@
+1 CHIL @I2224@
+1 CHIL @I2225@
+0 @F794@ FAM
+1 HUSB @I2200@
+1 WIFE @I2226@
+0 @F795@ FAM
+1 HUSB @I2227@
+1 WIFE @I2201@
+1 CHIL @I2228@
+1 CHIL @I2229@
+0 @F796@ FAM
+1 HUSB @I2230@
+1 WIFE @I2204@
+1 MARR
+2 DATE 15 JUN 1957
+2 PLAC Emerado, North Dakota
+0 @F797@ FAM
+1 HUSB @I2231@
+1 WIFE @I2205@
+1 CHIL @I2232@
+1 CHIL @I2233@
+1 MARR
+2 DATE 2 MAY 1936
+2 PLAC Winnepeg, Canada
+0 @F798@ FAM
+1 HUSB @I2206@
+1 WIFE @I2234@
+1 CHIL @I2235@
+1 CHIL @I2236@
+1 CHIL @I2237@
+1 CHIL @I2238@
+1 CHIL @I2239@
+1 MARR
+2 DATE 21 FEB 1942
+0 @F799@ FAM
+1 HUSB @I2233@
+1 WIFE @I2266@
+1 CHIL @I2267@
+1 CHIL @I2268@
+1 CHIL @I2269@
+0 @F800@ FAM
+1 HUSB @I2207@
+1 WIFE @I2240@
+1 CHIL @I2241@
+1 CHIL @I2242@
+1 CHIL @I2243@
+1 CHIL @I2244@
+1 CHIL @I2245@
+1 MARR
+2 DATE 11 OCT 1938
+2 PLAC Emerado, North Dakota
+0 @F801@ FAM
+1 HUSB @I2208@
+1 WIFE @I2246@
+1 CHIL @I2247@
+1 CHIL @I2248@
+1 CHIL @I2249@
+1 CHIL @I2250@
+1 CHIL @I2251@
+1 CHIL @I2252@
+1 MARR
+2 DATE 29 APR 1940
+0 @F802@ FAM
+1 HUSB @I2253@
+1 WIFE @I2210@
+1 CHIL @I2254@
+1 CHIL @I2255@
+1 CHIL @I2256@
+1 CHIL @I2257@
+0 @F803@ FAM
+1 HUSB @I2217@
+1 WIFE @I2258@
+1 CHIL @I2259@
+1 CHIL @I2260@
+1 CHIL @I2261@
+1 CHIL @I2262@
+0 @F804@ FAM
+1 HUSB @I2263@
+1 WIFE @I2232@
+1 CHIL @I2264@
+1 CHIL @I2265@
+1 MARR
+2 DATE 14 AUG 1965
+2 PLAC Gainesville, Florida
+0 @F805@ FAM
+1 HUSB @I2235@
+1 WIFE @I2270@
+1 CHIL @I2271@
+1 CHIL @I2272@
+1 CHIL @I2273@
+1 CHIL @I2274@
+1 CHIL @I2275@
+0 @F806@ FAM
+1 HUSB @I2235@
+1 WIFE @I2276@
+0 @F807@ FAM
+1 HUSB @I2236@
+1 WIFE @I2277@
+1 CHIL @I2278@
+1 CHIL @I2279@
+1 MARR
+2 DATE 23 SEP 1972
+0 @F808@ FAM
+1 HUSB @I2280@
+1 WIFE @I2237@
+1 CHIL @I2281@
+1 CHIL @I2282@
+1 MARR
+2 DATE DEC 1967
+0 @F809@ FAM
+1 HUSB @I2238@
+1 WIFE @I2283@
+1 CHIL @I2284@
+1 CHIL @I2285@
+1 MARR
+2 DATE 25 JUL 1970
+0 @F810@ FAM
+1 HUSB @I2286@
+1 WIFE @I2239@
+1 CHIL @I2287@
+1 CHIL @I2288@
+1 MARR
+2 DATE 8 SEP 1973
+0 @F811@ FAM
+1 HUSB @I2289@
+1 WIFE @I2239@
+0 @F812@ FAM
+1 HUSB @I2241@
+1 WIFE @I2290@
+1 CHIL @I2291@
+1 CHIL @I2292@
+1 CHIL @I2293@
+1 MARR
+2 DATE 29 JAN 1956
+0 @F813@ FAM
+1 HUSB @I2242@
+1 WIFE @I2294@
+1 CHIL @I2295@
+1 CHIL @I2296@
+1 MARR
+2 DATE 29 JAN 1956
+0 @F814@ FAM
+1 HUSB @I2297@
+1 WIFE @I2243@
+1 CHIL @I2298@
+1 CHIL @I2299@
+1 CHIL @I2300@
+1 MARR
+2 DATE 25 AUG 1963
+0 @F815@ FAM
+1 HUSB @I2244@
+1 WIFE @I2301@
+1 CHIL @I2304@
+1 CHIL @I2305@
+1 CHIL @I2306@
+1 MARR
+2 DATE 29 OCT 1976
+0 @F817@ FAM
+1 HUSB @I2245@
+1 WIFE @I2307@
+1 CHIL @I2308@
+1 CHIL @I2309@
+1 MARR
+2 DATE 23 FEB 1991
+0 @F818@ FAM
+1 HUSB @I2310@
+1 WIFE @I2247@
+1 CHIL @I2311@
+1 CHIL @I2312@
+1 CHIL @I2313@
+1 CHIL @I2314@
+1 MARR
+2 DATE 27 MAR 1958
+0 @F819@ FAM
+1 HUSB @I2248@
+1 WIFE @I2315@
+1 CHIL @I2316@
+1 MARR
+2 DATE 7 MAY 1960
+0 @F820@ FAM
+1 HUSB @I2317@
+1 WIFE @I2249@
+1 CHIL @I2318@
+1 CHIL @I2319@
+1 CHIL @I2320@
+1 CHIL @I2321@
+1 MARR
+2 DATE 26 AUG 1966
+0 @F821@ FAM
+1 HUSB @I2250@
+1 WIFE @I2322@
+1 CHIL @I2323@
+1 CHIL @I2324@
+1 MARR
+2 DATE 10 JUL 1965
+0 @F822@ FAM
+1 HUSB @I2325@
+1 WIFE @I2251@
+1 CHIL @I2326@
+1 MARR
+2 DATE 30 AUG 1969
+0 @F823@ FAM
+1 HUSB @I2327@
+1 WIFE @I2251@
+1 CHIL @I2328@
+1 CHIL @I2329@
+1 MARR
+2 DATE 19 MAY 1977
+0 @F824@ FAM
+1 HUSB @I2252@
+1 WIFE @I2330@
+1 CHIL @I2331@
+1 CHIL @I2332@
+1 CHIL @I2333@
+1 CHIL @I2334@
+1 CHIL @I2335@
+1 MARR
+2 DATE 3 JUN 1972
+0 @F825@ FAM
+1 HUSB @I2336@
+1 WIFE @I2255@
+1 CHIL @I2337@
+1 CHIL @I2338@
+1 MARR
+2 DATE 29 JUN 1966
+0 @F826@ FAM
+1 HUSB @I2257@
+1 WIFE @I2339@
+1 CHIL @I2340@
+1 CHIL @I2341@
+0 @F827@ FAM
+1 HUSB @I2257@
+1 WIFE @I2342@
+1 CHIL @I2343@
+1 CHIL @I2344@
+1 CHIL @I2345@
+1 CHIL @I2346@
+1 MARR
+2 DATE 1977
+0 @F828@ FAM
+1 HUSB @I2347@
+1 WIFE @I2260@
+0 @F829@ FAM
+1 HUSB @I2348@
+1 WIFE @I2261@
+0 @F830@ FAM
+1 HUSB @I2349@
+1 WIFE @I2265@
+1 MARR
+2 DATE 13 JUN 1992
+0 @F831@ FAM
+1 HUSB @I2350@
+1 WIFE @I2271@
+1 CHIL @I2351@
+1 MARR
+2 DATE 9 APR 1987
+0 @F832@ FAM
+1 HUSB @I2352@
+1 WIFE @I2272@
+1 CHIL @I2353@
+1 MARR
+2 DATE 15 FEB 1987
+0 @F833@ FAM
+1 WIFE @I2273@
+1 CHIL @I2354@
+0 @F834@ FAM
+1 HUSB @I2355@
+1 WIFE @I2278@
+1 MARR
+2 DATE 2 MAY 1995
+0 @F835@ FAM
+1 HUSB @I2326@
+1 WIFE @I2380@
+1 CHIL @I2381@
+1 MARR
+2 DATE 7 JAN 1995
+0 @F836@ FAM
+1 HUSB @I2356@
+1 WIFE @I2295@
+1 CHIL @I2357@
+1 MARR
+2 DATE 28 APR 1992
+0 @F837@ FAM
+1 HUSB @I2298@
+1 WIFE @I2358@
+1 CHIL @I2359@
+1 CHIL @I2360@
+1 CHIL @I2361@
+1 MARR
+2 DATE 4 JUN 1988
+0 @F838@ FAM
+1 HUSB @I2311@
+1 WIFE @I2362@
+1 CHIL @I2363@
+1 CHIL @I2364@
+1 MARR
+2 DATE 9 SEP 1978
+0 @F839@ FAM
+1 HUSB @I2311@
+1 WIFE @I2365@
+1 CHIL @I2366@
+1 MARR
+2 DATE 18 FEB 1988
+0 @F840@ FAM
+1 HUSB @I2367@
+1 WIFE @I2312@
+1 CHIL @I2368@
+1 CHIL @I2369@
+1 MARR
+2 DATE 28 JAN 1985
+0 @F841@ FAM
+1 HUSB @I2316@
+1 WIFE @I2370@
+1 MARR
+2 DATE 15 SEP 1984
+0 @F842@ FAM
+1 HUSB @I2316@
+1 WIFE @I2371@
+1 CHIL @I2372@
+1 CHIL @I2373@
+1 CHIL @I2374@
+1 MARR
+2 DATE 28 JAN 1989
+0 @F843@ FAM
+1 HUSB @I2375@
+1 WIFE @I2319@
+0 @F844@ FAM
+1 HUSB @I2376@
+1 WIFE @I2320@
+1 CHIL @I2377@
+1 MARR
+2 DATE 12 NOV 1997
+0 @F845@ FAM
+1 HUSB @I2378@
+1 WIFE @I2324@
+1 CHIL @I2379@
+1 MARR
+2 DATE 22 AUG 1979
+0 @F846@ FAM
+1 HUSB @I2338@
+1 WIFE @I2382@
+1 CHIL @I2383@
+0 @F847@ FAM
+1 HUSB @I2384@
+1 WIFE @I2340@
+1 CHIL @I2385@
+1 CHIL @I2386@
+1 CHIL @I2387@
+0 @F848@ FAM
+1 HUSB @I2388@
+1 WIFE @I2341@
+1 CHIL @I2389@
+1 CHIL @I2390@
+0 @F849@ FAM
+1 HUSB @I2343@
+1 WIFE @I2391@
+1 CHIL @I2392@
+0 @F850@ FAM
+1 HUSB @I83@
+1 WIFE @I2393@
+1 CHIL @I2394@
+1 CHIL @I2395@
+1 CHIL @I2396@
+0 @F851@ FAM
+1 HUSB @I2394@
+1 WIFE @I2397@
+1 CHIL @I2400@
+1 CHIL @I2402@
+1 CHIL @I2404@
+1 MARR
+2 DATE 7 NOV 1943
+2 PLAC Watertown Lutheran Ch., Watertown South Dakota
+0 @F853@ FAM
+1 HUSB @I2401@
+1 WIFE @I2400@
+1 CHIL @I3209@
+1 CHIL @I3210@
+1 MARR
+2 DATE 1 DEC 1963
+2 PLAC Aberdeen, South Dakota, Brown Co.
+0 @F854@ FAM
+1 HUSB @I2403@
+1 WIFE @I2402@
+1 MARR
+2 DATE 3 JUL 1973
+2 PLAC Killeen, Texas, Bell Co.
+0 @F855@ FAM
+1 HUSB @I2404@
+1 WIFE @I2405@
+1 CHIL @I2406@
+1 CHIL @I2407@
+1 CHIL @I2408@
+1 CHIL @I2409@
+0 @F856@ FAM
+1 HUSB @I2404@
+1 WIFE @I2410@
+1 MARR
+2 DATE 21 MAR 1991
+2 PLAC Sisseton, South Dakota
+0 @F857@ FAM
+1 HUSB @I2415@
+1 WIFE @I2416@
+1 CHIL @I2482@
+1 CHIL @I2484@
+1 CHIL @I2486@
+1 CHIL @I2487@
+1 MARR
+2 DATE 2 JUL 1965
+2 PLAC Buhl, Twin Falls Co., Idaho
+0 @F858@ FAM
+1 HUSB @I2417@
+1 WIFE @I2420@
+1 CHIL @I6276@
+1 CHIL @I6277@
+1 CHIL @I6279@
+1 CHIL @I6281@
+1 CHIL @I6283@
+1 MARR
+2 DATE 28 NOV 1964
+2 PLAC Los Angeles, Los Angeles, California
+0 @F859@ FAM
+1 HUSB @I2417@
+1 WIFE @I2421@
+0 @F860@ FAM
+1 HUSB @I2422@
+1 WIFE @I2418@
+1 CHIL @I2469@
+1 CHIL @I2471@
+1 CHIL @I2473@
+1 CHIL @I2475@
+1 CHIL @I2477@
+1 MARR
+2 DATE 23 DEC 1968
+2 PLAC Filer, Twin Falls, Idaho
+0 @F861@ FAM
+1 HUSB @I2419@
+1 WIFE @I2423@
+1 MARR
+2 DATE 21 APR 1973
+2 PLAC California
+0 @F862@ FAM
+1 HUSB @I2428@
+1 WIFE @I2427@
+1 CHIL @I2437@
+1 MARR
+2 DATE 1933
+2 PLAC Wenatchee, Washington, Chelan Co.
+0 @F863@ FAM
+1 HUSB @I2429@
+1 WIFE @I2430@
+1 CHIL @I2431@
+1 CHIL @I2433@
+1 MARR
+2 DATE 28 AUG 1958
+2 PLAC Pocatello, Idaho
+0 @F864@ FAM
+1 HUSB @I2431@
+1 WIFE @I2432@
+1 MARR
+2 DATE 1980
+0 @F865@ FAM
+1 HUSB @I2434@
+1 WIFE @I2433@
+1 CHIL @I188@
+1 CHIL @I2444@
+1 CHIL @I2445@
+1 CHIL @I2446@
+1 MARR
+2 DATE 27 NOV 1982
+2 PLAC Garden Grove , California-Mormon Church
+0 @F867@ FAM
+1 HUSB @I2438@
+1 WIFE @I2437@
+1 CHIL @I2441@
+1 CHIL @I2442@
+1 CHIL @I2443@
+1 MARR
+2 DATE 13 AUG 1966
+2 PLAC Mercer Island, Washigton, King Co.
+0 @F869@ FAM
+1 HUSB @I2447@
+1 WIFE @I2424@
+1 CHIL @I2448@
+1 CHIL @I6294@
+1 CHIL @I6296@
+1 CHIL @I6298@
+1 CHIL @I6300@
+1 CHIL @I6302@
+1 CHIL @I6303@
+1 MARR
+2 DATE 13 JUN 1934
+2 PLAC Rupert, Idaho
+0 @F871@ FAM
+1 HUSB @I2449@
+1 WIFE @I2448@
+1 CHIL @I2452@
+1 CHIL @I2454@
+1 CHIL @I2456@
+1 CHIL @I2458@
+1 CHIL @I2460@
+1 CHIL @I2462@
+1 CHIL @I2464@
+1 MARR
+2 DATE 4 SEP 1956
+2 PLAC Los Angeles, California, Los Angeles Co.
+0 @F873@ FAM
+1 HUSB @I2452@
+1 WIFE @I2453@
+1 MARR
+2 DATE 15 NOV 1980
+2 PLAC Los Angeles, California, Los Angeles Co.
+0 @F874@ FAM
+1 HUSB @I2454@
+1 WIFE @I2455@
+0 @F875@ FAM
+1 HUSB @I2456@
+1 WIFE @I2457@
+1 MARR
+2 DATE 8 SEP 1984
+2 PLAC Los Angeles, California, Los Angeles Co.
+0 @F876@ FAM
+1 HUSB @I2459@
+1 WIFE @I2458@
+1 MARR
+2 PLAC Los Angeles, California, Los Angeles Co.
+0 @F877@ FAM
+1 HUSB @I2461@
+1 WIFE @I2460@
+1 MARR
+2 PLAC Yorba Linda, California, Orange Co.
+0 @F878@ FAM
+1 HUSB @I2463@
+1 WIFE @I2462@
+1 MARR
+2 PLAC Los Angeles, California, Los Angeles Co.
+0 @F881@ FAM
+1 HUSB @I2469@
+1 WIFE @I2470@
+1 MARR
+2 DATE 23 JUL 1994
+0 @F882@ FAM
+1 HUSB @I2471@
+1 WIFE @I2472@
+1 MARR
+2 DATE 19 OCT 1991
+0 @F883@ FAM
+1 HUSB @I2473@
+1 WIFE @I2474@
+1 MARR
+2 DATE 2 AUG 1996
+0 @F884@ FAM
+1 HUSB @I2475@
+1 WIFE @I2476@
+1 MARR
+2 DATE 7 JAN 1998
+0 @F888@ FAM
+1 HUSB @I2482@
+1 WIFE @I2483@
+1 MARR
+2 DATE 25 OCT 1987
+0 @F889@ FAM
+1 HUSB @I2485@
+1 WIFE @I2484@
+1 MARR
+2 DATE 21 SEP 1996
+0 @F890@ FAM
+1 HUSB @I2487@
+1 WIFE @I2488@
+1 MARR
+2 DATE 19 NOV 1994
+0 @F893@ FAM
+1 HUSB @I210@
+1 WIFE @I2789@
+1 MARR
+2 DATE 31 JAN 1931
+2 PLAC Duluth, Minnesota
+0 @F894@ FAM
+1 HUSB @I2790@
+1 WIFE @I209@
+1 CHIL @I2826@
+1 CHIL @I2827@
+1 CHIL @I2833@
+1 MARR
+2 DATE 5 OCT 1928
+2 PLAC Minneapolis, Minnesota, Hennepin Co.
+0 @F994@ FAM
+1 HUSB @I2751@
+1 WIFE @I2750@
+1 CHIL @I2754@
+1 CHIL @I2756@
+1 CHIL @I2758@
+1 CHIL @I2760@
+1 CHIL @I2761@
+1 MARR
+2 DATE 2 NOV 1957
+2 PLAC Glenns Ferry, Idaho, Elmore, Co.
+0 @F996@ FAM
+1 HUSB @I2754@
+1 WIFE @I2755@
+1 MARR
+2 DATE 12 AUG 1992
+2 PLAC Mountain Home, Idaho, Elmore Co.
+0 @F997@ FAM
+1 HUSB @I2756@
+1 WIFE @I2757@
+1 MARR
+2 DATE 1 NOV 1981
+2 PLAC Elko, Nevada
+0 @F998@ FAM
+1 HUSB @I2758@
+1 WIFE @I2759@
+1 MARR
+2 DATE 26 JUL 1990
+2 PLAC Elko, Nevada
+0 @F999@ FAM
+1 HUSB @I2763@
+1 WIFE @I2762@
+1 CHIL @I2791@
+1 CHIL @I2793@
+1 CHIL @I2795@
+1 CHIL @I2797@
+1 MARR
+2 DATE 21 AUG 1950
+2 PLAC Glenns Ferry, Elmore Co., Idaho
+0 @F1000@ FAM
+1 HUSB @I2765@
+1 WIFE @I2764@
+1 MARR
+2 DATE 28 DEC 1963
+2 PLAC Oakland , California
+0 @F1003@ FAM
+1 HUSB @I2395@
+1 WIFE @I2775@
+1 CHIL @I2778@
+1 CHIL @I2784@
+1 MARR
+2 DATE 3 JUL 1947
+2 PLAC Aberdeen, South Dakota
+0 @F1005@ FAM
+1 HUSB @I2778@
+1 WIFE @I2779@
+1 CHIL @I2782@
+1 CHIL @I2783@
+1 CHIL @I2194@
+1 MARR
+2 DATE 13 MAR 1971
+2 PLAC Webster, South Dakota, Day Co.
+0 @F1007@ FAM
+1 HUSB @I2785@
+1 WIFE @I2784@
+1 CHIL @I2786@
+1 CHIL @I2787@
+1 MARR
+2 DATE 28 MAY 1977
+2 PLAC Bristol, South Dakota , Day Co.
+0 @F1011@ FAM
+1 HUSB @I2791@
+1 WIFE @I2792@
+1 MARR
+2 DATE 4 JUN 1971
+0 @F1012@ FAM
+1 HUSB @I2793@
+1 WIFE @I2794@
+1 MARR
+2 DATE 22 JAN 1976
+0 @F1013@ FAM
+1 HUSB @I2796@
+1 WIFE @I2795@
+1 MARR
+2 DATE 14 JUL 1979
+2 PLAC Reno, Nevada
+0 @F1014@ FAM
+1 HUSB @I2798@
+1 WIFE @I2797@
+1 MARR
+2 DATE 30 MAY 1986
+2 PLAC Boise, Idaho, Ada Co.
+0 @F1021@ FAM
+1 HUSB @I2828@
+1 WIFE @I2827@
+1 CHIL @I2829@
+1 MARR
+2 DATE 31 AUG 1946
+0 @F1022@ FAM
+1 HUSB @I2830@
+1 WIFE @I2829@
+1 MARR
+2 DATE 17 FEB 1967
+0 @F1023@ FAM
+1 HUSB @I2831@
+1 WIFE @I2829@
+1 MARR
+2 DATE 3 SEP 1980
+0 @F1024@ FAM
+1 HUSB @I2832@
+1 WIFE @I2827@
+1 MARR
+2 DATE 9 JUL 1983
+0 @F1025@ FAM
+1 HUSB @I2833@
+1 WIFE @I2834@
+1 CHIL @I2837@
+1 CHIL @I2839@
+1 CHIL @I2841@
+1 MARR
+2 DATE 19 JUL 1958
+0 @F1027@ FAM
+1 HUSB @I2837@
+1 WIFE @I2838@
+1 CHIL @I2843@
+1 MARR
+2 DATE 30 MAY 1998
+2 PLAC Newport Beach, California
+0 @F1028@ FAM
+1 HUSB @I2840@
+1 WIFE @I2839@
+1 MARR
+2 DATE 10 OCT 1998
+2 PLAC Laguna Beach, California
+0 @F1029@ FAM
+1 HUSB @I2833@
+1 WIFE @I2842@
+1 MARR
+2 DATE 14 OCT 1978
+2 PLAC Downey, California
+0 @F1030@ FAM
+1 HUSB @I2841@
+1 WIFE @I2844@
+1 CHIL @I2845@
+0 @F1031@ FAM
+1 HUSB @I2846@
+1 WIFE @I2402@
+1 CHIL @I2847@
+0 @F1150@ FAM
+1 HUSB @I3209@
+1 WIFE @I3211@
+1 CHIL @I3214@
+1 CHIL @I3215@
+1 MARR
+2 DATE 20 OCT 1990
+2 PLAC St. Paul, Minnesota, Ramsey Co.
+0 @F1178@ FAM
+1 HUSB @I3205@
+1 WIFE @I3206@
+0 @F1181@ FAM
+1 HUSB @I3210@
+1 WIFE @I3216@
+1 MARR
+2 DATE 2 JUL 1994
+0 @F1919@ FAM
+1 HUSB @I5439@
+1 WIFE @I2406@
+0 @F1920@ FAM
+1 HUSB @I5440@
+1 WIFE @I2407@
+1 MARR
+2 DATE 14 AUG 1999
+0 @F2113@ FAM
+1 HUSB @I5965@
+1 WIFE @I181@
+1 CHIL @I6126@
+1 CHIL @I6127@
+1 MARR
+2 DATE 14 APR 1929
+2 PLAC Golden Valley Co., North Dakota
+0 @F2132@ FAM
+1 HUSB @I6130@
+1 WIFE @I6126@
+1 CHIL @I6133@
+1 CHIL @I6134@
+1 CHIL @I6135@
+1 MARR
+2 DATE 10 JUN 1951
+2 PLAC Burns, Oregon
+0 @F2148@ FAM
+1 HUSB @I83@
+1 WIFE @I6073@
+0 @F2163@ FAM
+1 HUSB @I6133@
+1 WIFE @I6136@
+1 CHIL @I6139@
+1 CHIL @I6140@
+1 CHIL @I6141@
+1 CHIL @I6142@
+1 MARR
+2 DATE 6 JUL 1974
+2 PLAC San Jose, California
+0 @F2165@ FAM
+1 HUSB @I6143@
+1 WIFE @I6134@
+1 CHIL @I6144@
+1 CHIL @I6145@
+1 MARR
+2 DATE 2 SEP 1973
+2 PLAC Burns, Oregon
+0 @F2166@ FAM
+1 HUSB @I6146@
+1 WIFE @I6135@
+1 CHIL @I6149@
+1 CHIL @I6150@
+1 CHIL @I6151@
+1 CHIL @I6152@
+1 MARR
+2 DATE 23 OCT 1976
+2 PLAC Burns, Oregon
+0 @F2168@ FAM
+1 HUSB @I6127@
+1 WIFE @I6153@
+1 CHIL @I6155@
+1 CHIL @I6156@
+1 MARR
+2 DATE 29 DEC 1961
+2 PLAC Palo Alto, California
+0 @F2170@ FAM
+1 HUSB @I6127@
+1 WIFE @I6157@
+1 CHIL @I6158@
+1 MARR
+2 DATE 14 JUL 1973
+0 @F2171@ FAM
+1 HUSB @I6127@
+1 WIFE @I6159@
+1 MARR
+2 DATE 1988
+2 PLAC Alaska
+0 @F2172@ FAM
+1 HUSB @I6160@
+1 WIFE @I6065@
+1 CHIL @I6161@
+1 CHIL @I6162@
+1 CHIL @I6164@
+1 CHIL @I6163@
+1 MARR
+2 DATE 1 JUN 1929
+2 PLAC Brookings, South Dakota
+0 @F2173@ FAM
+1 HUSB @I6161@
+1 WIFE @I6165@
+1 CHIL @I6166@
+1 CHIL @I6167@
+1 CHIL @I6168@
+1 CHIL @I6169@
+1 CHIL @I6170@
+1 MARR
+2 DATE 29 MAR 1953
+2 PLAC Salt Lake City, Utah
+0 @F2175@ FAM
+1 HUSB @I6173@
+1 WIFE @I6162@
+1 CHIL @I6174@
+1 CHIL @I6175@
+1 CHIL @I6176@
+1 CHIL @I6177@
+1 MARR
+2 DATE 27 AUG 1949
+2 PLAC Methodist Church, Sonora
+0 @F2180@ FAM
+1 HUSB @I6178@
+1 WIFE @I6164@
+1 CHIL @I6179@
+1 CHIL @I6180@
+1 CHIL @I6181@
+1 CHIL @I6182@
+1 MARR
+2 DATE 1 JUN 1952
+2 PLAC Methodist Church, Sonora, CA
+0 @F2181@ FAM
+1 HUSB @I6163@
+1 WIFE @I6183@
+1 CHIL @I6184@
+1 CHIL @I6186@
+1 CHIL @I6187@
+1 MARR
+2 DATE 13 DEC 1955
+2 PLAC Episcopal Church, Sonora
+0 @F2182@ FAM
+1 HUSB @I6185@
+1 WIFE @I6184@
+1 MARR
+2 DATE 5 SEP 1981
+2 PLAC Corvallis, Oregon
+0 @F2183@ FAM
+1 HUSB @I6188@
+1 WIFE @I6071@
+0 @F2184@ FAM
+1 HUSB @I6189@
+1 WIFE @I6179@
+1 CHIL @I6190@
+1 CHIL @I6191@
+1 MARR
+2 DATE 21 SEP 1974
+2 PLAC Stanford Memorial Church, Stanford, CA
+0 @F2185@ FAM
+1 HUSB @I6180@
+1 WIFE @I6192@
+1 CHIL @I6193@
+1 MARR
+2 DATE 7 JUN 1977
+0 @F2187@ FAM
+1 HUSB @I6066@
+1 WIFE @I6196@
+0 @F2188@ FAM
+1 HUSB @I6066@
+1 WIFE @I6197@
+0 @F2189@ FAM
+1 HUSB @I6166@
+1 WIFE @I6198@
+1 MARR
+2 DATE 11 OCT 1980
+2 PLAC Santa Monica , California
+0 @F2190@ FAM
+1 HUSB @I6064@
+1 WIFE @I6199@
+0 @F2191@ FAM
+1 HUSB @I6200@
+1 WIFE @I6065@
+0 @F2221@ FAM
+1 HUSB @I6299@
+1 WIFE @I6298@
+0 @F2223@ FAM
+1 HUSB @I6277@
+1 WIFE @I6278@
+1 MARR
+2 DATE 17 SEP 1989
+2 PLAC Eureka, Humboldt, California
+0 @F2224@ FAM
+1 HUSB @I6280@
+1 WIFE @I6279@
+1 MARR
+2 DATE 17 DEC 1990
+2 PLAC Humboldt Co., California
+0 @F2225@ FAM
+1 HUSB @I6281@
+1 WIFE @I6282@
+1 MARR
+2 DATE 28 JUN 1996
+2 PLAC Oxnard, California
+0 @F2226@ FAM
+1 HUSB @I6283@
+1 WIFE @I6284@
+1 MARR
+2 DATE 10 JUL 1999
+2 PLAC Arcata, Humboldt Co., California
+0 @F2227@ FAM
+1 HUSB @I2417@
+1 WIFE @I6285@
+1 CHIL @I6288@
+1 MARR
+2 DATE 26 JUL 1982
+2 PLAC Sandy, Salt Lake Co., Utah
+0 @F2230@ FAM
+1 HUSB @I6295@
+1 WIFE @I6294@
+1 MARR
+2 DATE 9 SEP 1957
+0 @F2231@ FAM
+1 HUSB @I6296@
+1 WIFE @I6297@
+1 MARR
+2 DATE 28 JUN 1996
+2 PLAC Groveland, Illinois
+0 @F2232@ FAM
+1 HUSB @I6300@
+1 WIFE @I6301@
+0 @F2233@ FAM
+1 HUSB @I6304@
+1 WIFE @I6303@
+0 @F2248@ FAM
+1 HUSB @I183@
+1 WIFE @I6364@
+1 MARR
+2 DATE 25 JAN 1920
+2 PLAC Roger Mills Co., Oklahoma
+0 @F2301@ FAM
+1 HUSB @I183@
+1 WIFE @I6529@
+1 CHIL @I6530@
+1 MARR
+2 DATE 29 NOV 1934
+2 PLAC Boise City, Cimmaron Co. , Oklahoma
+0 @F2323@ FAM
+1 HUSB @I6530@
+1 WIFE @I6554@
+1 MARR
+2 DATE 7 JUL 1992
+2 PLAC Eddy Co., New Mexico
+0 @S1@ SOUR
+1 ABBR ASH GEDCOM file
+1 TITL GEDCOM file imported on 11 Feb 2002.
+1 AUTH Gary Ash
+0 @S2@ SOUR
+1 ABBR Imported GEDCOM file
+1 TITL GEDCOM file imported on 25 Aug 2000.
+1 AUTH Gary Ash
+1 PUBL Ramsey, MN 55303
+0 TRLR
