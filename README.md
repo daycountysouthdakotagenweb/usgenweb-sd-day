@@ -25,7 +25,7 @@ this site and its content on GitHub.
 As mentioned earlier, this site was created in 1997 with FrontPage. The
 site needs to be modernized. If you would like to help make this site better
 please feel free to report your idea by creating an 
-[issue](https://github.com/daycountysouthdakotagenweb/usgenweb-sd-day/issues. 
+[issue](https://github.com/daycountysouthdakotagenweb/usgenweb-sd-day/issues). 
 Pull requests are also appreciated!
 
 If you have a recommendation or request for the site, please file an issue.
